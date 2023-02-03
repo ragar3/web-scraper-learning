@@ -1,0 +1,11 @@
+to: registrar@rpi.edu
+cc: tant2@rpi.edu
+subject: API Access Request - RCOS
+
+
+Hi,
+
+My name is Ria Agarwal. I'm currently part of the RCOS project YACS.n. I'm writing to request access to the SIS API. The goal of YACS is to provide an interactive and visual course scheduling tool for students, similar to QuACS but with different functionality. With access to the API, we would be able to better provide students with information and planning tools regarding HASS pathways, major/minor requirements, and other features of the RPI experience.  This will be useful not only for incoming freshmen, who are already working hard to transition from high school to college, but also for upperclassmen trying to schedule any remaining degree requirements. Overall, our goal is to help students plan for their years at RPI and enable them to shift their focus to excelling in classwork and extra-curriculars, and access to the SIS API will only help us achieve this. I have CC'd Harry Tan, the project lead for YACS, to keep him updated. If there is someone else we should contact for access or for technical support, please let us know.
+
+Thank you for your time and consideration, 
+Ria Agarwal

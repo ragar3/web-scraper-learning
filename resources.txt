@@ -1,0 +1,10 @@
+RESOURCES
+
+* documentation:
+https://www.crummy.com/software/BeautifulSoup/bs4/doc/#
+
+* step-by-step tutorial:
+https://realpython.com/beautiful-soup-web-scraper-python/
+
+* tutorialspoint resources:
+https://www.tutorialspoint.com/beautiful_soup/index.htm

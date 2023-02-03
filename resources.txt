@@ -8,3 +8,9 @@ https://realpython.com/beautiful-soup-web-scraper-python/
 
 * tutorialspoint resources:
 https://www.tutorialspoint.com/beautiful_soup/index.htm
+
+* html glossary
+https://www.codecademy.com/article/glossary-html
+
+* html element reference guide
+https://www.w3schools.com/tags/ref_byfunc.asp

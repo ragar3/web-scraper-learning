@@ -1,0 +1,6487 @@
+{
+  "Administration": {
+    "Auxiliary, Parking and Transportation Services": {
+      "Blanche Hosgood": {
+        "title": "Operations Specialist",
+        "email": "hosgob@rpi.edu",
+        "phone": "518-276-6616"
+      },
+      "Anne Norris": {
+        "title": "Operations Specialist",
+        "email": "dalya@rpi.edu",
+        "phone": "518-276-6670"
+      },
+      "Betsy Preston": {
+        "title": "Operations Manager",
+        "email": "preste2@rpi.edu",
+        "phone": "518-276-6123"
+      },
+      "Michael Ramella": {
+        "title": "Director, Auxiliary, Parking & Transportation",
+        "email": "ramelm2@rpi.edu",
+        "phone": "518-276-2118"
+      },
+      "Laura Rougia": {
+        "title": "Business Coordinator",
+        "email": "rougil@rpi.edu",
+        "phone": "518-276-2018"
+      }
+    },
+    "Campus Planning and Facilities Design": {
+      "Robert Carney": {
+        "title": "Director, Campus Planning & Facilities Design",
+        "email": "carner@rpi.edu",
+        "phone": "518-276-8155"
+      },
+      "Duane DeWeerdt": {
+        "title": "Project Manager, Designer",
+        "email": "deweed@rpi.edu",
+        "phone": "518-276-8759"
+      },
+      "Samuel Simmons": {
+        "title": "Project Coordinator, Sr.",
+        "email": "simmos5@rpi.edu",
+        "phone": "518-276-4244"
+      },
+      "Kevin Smith": {
+        "title": "Space Information Analyst",
+        "email": "smithk@rpi.edu",
+        "phone": "518-276-8402"
+      }
+    },
+    "Environmental and Site Services": {
+      "Stephen Alexopoulos": {
+        "title": "Environmental Specialist, Sr.",
+        "email": "alexos@rpi.edu",
+        "phone": "518-276-6691"
+      },
+      "Adalberto Alicea Jr.": {
+        "title": "Environmental Specialist, Sr.",
+        "email": "alicea3@rpi.edu",
+        "phone": "518-276-6691"
+      },
+      "Yawa Anato": {
+        "title": "Environmental Specialist, Sr.",
+        "email": "anatoy@rpi.edu",
+        "phone": "518-276-6691"
+      },
+      "Sandra Annan": {
+        "title": "Environmental Specialist, Sr.",
+        "email": "annans@rpi.edu",
+        "phone": "518-276-6691"
+      },
+      "Antoinette Arnold": {
+        "title": "Environmental Specialist, Lead",
+        "email": "arnola@rpi.edu",
+        "phone": "518-276-6691"
+      },
+      "Rita Badger": {
+        "title": "Supervisor, Environmental Services",
+        "email": "badger@rpi.edu",
+        "phone": "518-276-6691"
+      },
+      "Monique Bariteau": {
+        "title": "Environmental Specialist",
+        "email": "baritm@rpi.edu",
+        "phone": "518-276-6691"
+      },
+      "Pete Bariteau": {
+        "title": "Environmental Specialist, Sr.",
+        "email": "baritp@rpi.edu",
+        "phone": "518-276-6691"
+      },
+      "Kevin Bates": {
+        "title": "Grounds & Transportation Specialist, Sr.",
+        "email": "batesk@rpi.edu",
+        "phone": "518-276-8256"
+      },
+      "Maria Batista de Rodriguez": {
+        "title": "Environmental Specialist",
+        "email": "batism@rpi.edu",
+        "phone": "518-276-6691"
+      },
+      "Frederick Beach": {
+        "title": "Equipment Repairer",
+        "email": "beachf@rpi.edu",
+        "phone": "518-276-6691"
+      },
+      "Richard Bendon": {
+        "title": "Environmental Specialist, Sr.",
+        "email": "bendor@rpi.edu",
+        "phone": "518-276-6691"
+      },
+      "Jeffrey Blais": {
+        "title": "Groundskeeper, Sr.",
+        "email": "blaisj5@rpi.edu",
+        "phone": "518-276-6691"
+      },
+      "Spencer Busch": {
+        "title": "Groundskeeper, Sr.",
+        "email": "buschs2@rpi.edu",
+        "phone": "518-276-6691"
+      },
+      "Tammy Cameron": {
+        "title": "Supervisor, Environmental Services",
+        "email": "boucht@rpi.edu",
+        "phone": "518-276-2147"
+      },
+      "Luz Campos": {
+        "title": "Environmental Specialist",
+        "email": "torrel3@rpi.edu",
+        "phone": "518-276-6691"
+      },
+      "June Capo": {
+        "title": "Environmental Specialist",
+        "email": "capom@rpi.edu",
+        "phone": "518-276-6691"
+      },
+      "Matthew Christian": {
+        "title": "Environmental Specialist, Sr.",
+        "email": "chrism6@rpi.edu",
+        "phone": "518-276-6691"
+      },
+      "CJ Chrysler": {
+        "title": "Environmental Specialist",
+        "email": "chrysc@rpi.edu",
+        "phone": "518-276-6691"
+      },
+      "Michael Cook": {
+        "title": "Environmental Specialist, Sr.",
+        "email": "cookm3@rpi.edu",
+        "phone": "518-276-6691"
+      },
+      "Russell Cooper": {
+        "title": "Environmental Specialist",
+        "email": "cooper5@rpi.edu",
+        "phone": "518-276-6691"
+      },
+      "Russell D'Amico": {
+        "title": "Environmental Specialist, Sr.",
+        "email": "damicr@rpi.edu",
+        "phone": "518-276-6691"
+      },
+      "Matthew Dahl": {
+        "title": "Groundskeeper, Sr.",
+        "email": "dahlm@rpi.edu",
+        "phone": "518-276-6691"
+      },
+      "Antonio Dasilva": {
+        "title": "Environmental Specialist, Sr.",
+        "email": "dasila4@rpi.edu",
+        "phone": "518-276-6691"
+      },
+      "Efrem Dickson": {
+        "title": "Environmental Specialist, Sr.",
+        "email": "dickse@rpi.edu",
+        "phone": "518-276-6691"
+      },
+      "Kokou Adje Djahlin": {
+        "title": "Environmental Specialist, Sr.",
+        "email": "djahlk2@rpi.edu",
+        "phone": "518-276-6691"
+      },
+      "Huong Doan": {
+        "title": "Environmental Specialist, Sr.",
+        "email": "doanh2@rpi.edu",
+        "phone": "518-276-6691"
+      },
+      "Brian Doyle": {
+        "title": "Environmental Specialist, Sr.",
+        "email": "doyleb@rpi.edu",
+        "phone": "518-276-6691"
+      },
+      "John Durr": {
+        "title": "Environmental Specialist, Sr.",
+        "email": "durrj@rpi.edu",
+        "phone": "518-276-6691"
+      },
+      "Thomas Edwards": {
+        "title": "Environmental Specialist",
+        "email": "edwart4@rpi.edu",
+        "phone": "518-276-6691"
+      },
+      "Carl Evans": {
+        "title": "Groundskeeper, Sr.",
+        "email": "evansc6@rpi.edu",
+        "phone": "518-276-6691"
+      },
+      "Robert Flood": {
+        "title": "Environmental Specialist, Lead",
+        "email": "floodr@rpi.edu",
+        "phone": "518-276-6691"
+      },
+      "Natasha Flores": {
+        "title": "Environmental Specialist, Lead",
+        "email": "floren2@rpi.edu",
+        "phone": "518-276-6691"
+      },
+      "Jerry Garay": {
+        "title": "Environmental Specialist",
+        "email": "garayj@rpi.edu",
+        "phone": "518-276-6691"
+      },
+      "Meghan Gumlaw": {
+        "title": "Environmental Specialist",
+        "email": "gumlam@rpi.edu",
+        "phone": "518-276-6691"
+      },
+      "Cristi Hansen": {
+        "title": "Environmental Specialist, Sr.",
+        "email": "hansec3@rpi.edu",
+        "phone": "518-276-6691"
+      },
+      "Mark Hansen": {
+        "title": "Environmental Specialist, Sr.",
+        "email": "hansem4@rpi.edu",
+        "phone": "518-276-6691"
+      },
+      "Tyler Higgins": {
+        "title": "Environmental Specialist",
+        "email": "higgit3@rpi.edu",
+        "phone": "518-276-6691"
+      },
+      "John Hudson": {
+        "title": "Fleet Mechanic",
+        "email": "hudsoj4@rpi.edu",
+        "phone": "518-276-6691"
+      },
+      "Tarik Hussein": {
+        "title": "Environmental Specialist",
+        "email": "husset2@rpi.edu",
+        "phone": "518-276-6691"
+      },
+      "Crystal Ivey": {
+        "title": "Environmental Specialist",
+        "email": "iveyc@rpi.edu",
+        "phone": "518-276-6691"
+      },
+      "Shawn James": {
+        "title": "Environmental Specialist",
+        "email": "jamess5@rpi.edu",
+        "phone": "518-276-6691"
+      },
+      "Thor Jansen": {
+        "title": "Environmental Specialist, Sr.",
+        "email": "janset@rpi.edu",
+        "phone": "518-276-6691"
+      },
+      "Michael Johnson": {
+        "title": "Supervisor, Environmental Services",
+        "email": "johnsm5@rpi.edu",
+        "phone": "518-276-6691"
+      },
+      "Randy Kron": {
+        "title": "Environmental Specialist, Sr.",
+        "email": "kronr@rpi.edu",
+        "phone": "518-276-6691"
+      },
+      "Joseph Kruppenbacher": {
+        "title": "Environmental Specialist, Sr.",
+        "email": "kruppj@rpi.edu",
+        "phone": "518-276-6691"
+      },
+      "Tadeusz Kulawiak": {
+        "title": "Environmental Specialist, Lead",
+        "email": "kulawt@rpi.edu",
+        "phone": "518-276-6691"
+      },
+      "Phil LaWare": {
+        "title": "Groundskeeper, Sr.",
+        "email": "lawarf@rpi.edu",
+        "phone": "518-276-6691"
+      },
+      "Christopher Leaper": {
+        "title": "Environmental Specialist",
+        "email": "leapec@rpi.edu",
+        "phone": "518-276-6691"
+      },
+      "Tyler Lefebvre": {
+        "title": "Athletic Field Specialist",
+        "email": "lefebt@rpi.edu",
+        "phone": "518-276-6691"
+      },
+      "Priscilla LeFevre": {
+        "title": "Environmental Specialist, Sr.",
+        "email": "lefevp@rpi.edu",
+        "phone": "518-276-6691"
+      },
+      "Anthony Lewis": {
+        "title": "Environmental Specialist, Sr.",
+        "email": "lewisa4@rpi.edu",
+        "phone": "518-276-6691"
+      },
+      "Lander Linen": {
+        "title": "Groundskeeper, Sr.",
+        "email": "linenl@rpi.edu",
+        "phone": "518-276-6691"
+      },
+      "Steve Mack": {
+        "title": "Environmental Specialist",
+        "email": "macks3@rpi.edu",
+        "phone": "518-276-6691"
+      },
+      "Lisette Maldonado": {
+        "title": "Environmental Specialist, Sr.",
+        "email": "maldol@rpi.edu",
+        "phone": "518-276-6691"
+      },
+      "Tyler Marcus": {
+        "title": "Environmental Specialist",
+        "email": "marcut@rpi.edu",
+        "phone": "518-276-6691"
+      },
+      "Wina Martino": {
+        "title": "Environmental Specialist, Lead",
+        "email": "martiw3@rpi.edu",
+        "phone": "518-276-6691"
+      },
+      "Yreffie Mason": {
+        "title": "Environmental Specialist, Lead",
+        "email": "masony@rpi.edu",
+        "phone": "518-276-6691"
+      },
+      "Cailin McCafferty": {
+        "title": "Environmental Specialist, Sr.",
+        "email": "mccafc@rpi.edu",
+        "phone": "518-276-6691"
+      },
+      "Scott McCart": {
+        "title": "Gardener",
+        "email": "mccars3@rpi.edu",
+        "phone": "518-276-6691"
+      },
+      "Andrea Mcneil": {
+        "title": "Environmental Specialist",
+        "email": "mcneia2@rpi.edu",
+        "phone": "518-276-6691"
+      },
+      "Craig Middleton": {
+        "title": "Environmental Specialist",
+        "email": "middlc3@rpi.edu",
+        "phone": "518-276-8258"
+      },
+      "Pamela Miller": {
+        "title": "Environmental Specialist, Sr.",
+        "email": "millep6@rpi.edu",
+        "phone": "518-276-6691"
+      },
+      "Robert Monroe": {
+        "title": "Environmental Specialist, Sr.",
+        "email": "monror@rpi.edu",
+        "phone": "518-276-6691"
+      },
+      "John Mooney": {
+        "title": "Environmental Specialist, Sr.",
+        "email": "moonej3@rpi.edu",
+        "phone": "518-276-6691"
+      },
+      "Matthew Neal": {
+        "title": "Environmental Specialist",
+        "email": "nealm4@rpi.edu",
+        "phone": "518-276-6691"
+      },
+      "Leslie Norton": {
+        "title": "Director, Environmental & Site Services",
+        "email": "nortol@rpi.edu",
+        "phone": "518-276-3843"
+      },
+      "Rich Ordonez": {
+        "title": "Environmental Specialist",
+        "email": "ordonr@rpi.edu",
+        "phone": "518-276-6691"
+      },
+      "Dimas Ortiz": {
+        "title": "Environmental Specialist",
+        "email": "ortizd3@rpi.edu",
+        "phone": "518-276-6691"
+      },
+      "Kathleen Osgood": {
+        "title": "Supervisor, Environmental Services",
+        "email": "osgook@rpi.edu",
+        "phone": "518-276-6691"
+      },
+      "David Pabon": {
+        "title": "Environmental Specialist, Sr.",
+        "email": "pabond@rpi.edu",
+        "phone": "518-276-6691"
+      },
+      "Luke Pantaleo": {
+        "title": "Environmental Specialist, Sr.",
+        "email": "pantal@rpi.edu",
+        "phone": "518-276-6691"
+      },
+      "Austin Paul": {
+        "title": "Environmental Specialist, Sr.",
+        "email": "paula@rpi.edu",
+        "phone": "518-276-6691"
+      },
+      "Justin Pierzchala": {
+        "title": "Fleet Mechanic",
+        "email": "pierzj@rpi.edu",
+        "phone": "518-276-6691"
+      },
+      "Paul Pompey": {
+        "title": "Environmental Specialist",
+        "email": "pompep@rpi.edu",
+        "phone": "518-276-6691"
+      },
+      "Roosevelt Pompey": {
+        "title": "Environmental Specialist, Sr.",
+        "email": "pomper2@rpi.edu",
+        "phone": "518-276-6691"
+      },
+      "Greg Poole": {
+        "title": "Groundskeeper",
+        "email": "pooleg@rpi.edu",
+        "phone": "518-276-6691"
+      },
+      "Alexis Ramos Laboy": {
+        "title": "Environmental Specialist",
+        "email": "ramosa5@rpi.edu",
+        "phone": "518-276-6691"
+      },
+      "Anthony Razzano": {
+        "title": "Environmental Specialist",
+        "email": "razzaa3@rpi.edu",
+        "phone": "518-276-6691"
+      },
+      "Mitchell Relyea": {
+        "title": "Groundskeeper, Sr.",
+        "email": "relyem@rpi.edu",
+        "phone": "518-276-6691"
+      },
+      "Tamares Rio": {
+        "title": "Environmental Specialist, Sr.",
+        "email": "riot@rpi.edu",
+        "phone": "518-276-6691"
+      },
+      "Matthew Robinson": {
+        "title": "Athletic Field & Grounds Maintenance Specialist, Lead",
+        "email": "robinm10@rpi.edu",
+        "phone": "518-276-6691"
+      },
+      "Luis Rodriguez Gonzalez": {
+        "title": "Environmental Specialist, Sr.",
+        "email": "rodril9@rpi.edu",
+        "phone": "518-276-6691"
+      },
+      "Justin Rogers": {
+        "title": "Environmental Specialist",
+        "email": "rogerj12@rpi.edu",
+        "phone": "518-276-6691"
+      },
+      "Christine Rojas": {
+        "title": "Groundskeeper, Lead",
+        "email": "rojasc@rpi.edu",
+        "phone": "518-276-6691"
+      },
+      "Stephen Sands": {
+        "title": "Groundskeeper, Sr.",
+        "email": "sandss@rpi.edu",
+        "phone": "518-276-6691"
+      },
+      "Kevin Santiago": {
+        "title": "Environmental Specialist",
+        "email": "santik@rpi.edu",
+        "phone": "518-276-6691"
+      },
+      "Connor Saxby": {
+        "title": "Groundskeeper, Sr.",
+        "email": "saxbyc@rpi.edu",
+        "phone": "518-276-6691"
+      },
+      "Kevin Schnoop": {
+        "title": "Environmental Specialist, Sr.",
+        "email": "schnok@rpi.edu",
+        "phone": "518-276-6691"
+      },
+      "Benjamin Schwarz": {
+        "title": "Groundskeeper",
+        "email": "schwab4@rpi.edu",
+        "phone": "518-276-6691"
+      },
+      "Nileshkumar Shah": {
+        "title": "Environmental Specialist, Sr.",
+        "email": "shahn7@rpi.edu",
+        "phone": "518-276-6691"
+      },
+      "Gary Sharp": {
+        "title": "Gardener",
+        "email": "sharpg@rpi.edu",
+        "phone": "518-276-6691"
+      },
+      "Nadine Sheffield": {
+        "title": "Environmental Specialist, Sr.",
+        "email": "sheffn@rpi.edu",
+        "phone": "518-276-6691"
+      },
+      "Richard Sicko": {
+        "title": "Athletic Field Specialist",
+        "email": "sickor2@rpi.edu",
+        "phone": "518-276-6691"
+      },
+      "Ewart Simpson": {
+        "title": "Environmental Specialist",
+        "email": "simpse2@rpi.edu",
+        "phone": "518-276-6691"
+      },
+      "Michael Sitterley": {
+        "title": "Associate Director, Environmental Services",
+        "email": "sittem@rpi.edu",
+        "phone": "518-276-2216"
+      },
+      "Joan Skiba": {
+        "title": "Environmental Specialist, Sr.",
+        "email": "skibaj@rpi.edu",
+        "phone": "518-276-6691"
+      },
+      "Jacqueline Sramek": {
+        "title": "Environmental Specialist, Sr.",
+        "email": "sramej@rpi.edu",
+        "phone": "518-276-6691"
+      },
+      "Anthony Steen": {
+        "title": "Environmental Specialist, Sr.",
+        "email": "steena@rpi.edu",
+        "phone": "518-276-6691"
+      },
+      "Heather Stone": {
+        "title": "Environmental Specialist",
+        "email": "stoneh2@rpi.edu",
+        "phone": "518-276-6691"
+      },
+      "Kiel Suggs": {
+        "title": "Environmental Specialist, Sr.",
+        "email": "suggsk@rpi.edu",
+        "phone": "518-276-6691"
+      },
+      "Melvin Teal": {
+        "title": "Environmental Specialist, Sr.",
+        "email": "tealm@rpi.edu",
+        "phone": "518-276-6691"
+      },
+      "Huy Truong": {
+        "title": "Environmental Specialist, Sr.",
+        "email": "truonh@rpi.edu",
+        "phone": "518-276-6691"
+      },
+      "Onnie Vath": {
+        "title": "Environmental Specialist, Sr.",
+        "email": "vatho@rpi.edu",
+        "phone": "518-276-6691"
+      },
+      "Luz Velazquez Cruz": {
+        "title": "Environmental Specialist, Sr.",
+        "email": "velazl@rpi.edu",
+        "phone": "518-276-6691"
+      },
+      "Michael Vigilone": {
+        "title": "Environmental Specialist",
+        "email": "viglim@rpi.edu",
+        "phone": "518-276-6691"
+      },
+      "Jo Anne Ward": {
+        "title": "Associate Director, Site Services",
+        "email": "kosj2@rpi.edu",
+        "phone": "518-276-6691"
+      },
+      "Kevin Waugh": {
+        "title": "Environmental Specialist",
+        "email": "waughk@rpi.edu",
+        "phone": "518-276-6691"
+      },
+      "Rayna Weaver": {
+        "title": "Environmental Specialist, Sr.",
+        "email": "weaver2@rpi.edu",
+        "phone": "518-276-6691"
+      },
+      "Jill Wedro": {
+        "title": "Environmental Specialist, Sr.",
+        "email": "wedroj@rpi.edu",
+        "phone": "518-276-8258"
+      },
+      "Sandra West": {
+        "title": "Environmental Specialist, Sr.",
+        "email": "wests@rpi.edu",
+        "phone": "518-276-6691"
+      },
+      "Robert Williams": {
+        "title": "Environmental Specialist, Sr.",
+        "email": "willir10@rpi.edu",
+        "phone": "518-276-6691"
+      },
+      "Michele Wilson": {
+        "title": "Environmental Specialist, Sr.",
+        "email": "wilsom4@rpi.edu",
+        "phone": "518-276-6691"
+      },
+      "Amy Wood": {
+        "title": "Administrative Coordinator",
+        "email": "wooda4@rpi.edu",
+        "phone": "518-276-3320"
+      },
+      "Kenny Youngs": {
+        "title": "Environmental Specialist",
+        "email": "youngk10@rpi.edu",
+        "phone": "518-276-6691"
+      },
+      "Youjun Zhang": {
+        "title": "Environmental Specialist, Sr.",
+        "email": "zhangy81@rpi.edu",
+        "phone": "518-276-6691"
+      }
+    },
+    "Physical Plant": {
+      "Nicholas Alberino": {
+        "title": "Electronic Field Service Technician",
+        "email": "albern2@rpi.edu",
+        "phone": "518-276-6238"
+      },
+      "Karl Barber": {
+        "title": "HVAC/r Technician, Sr.",
+        "email": "barbek2@rpi.edu",
+        "phone": "518-276-6238"
+      },
+      "Stephen Blanchard": {
+        "title": "Repairer, Sr.",
+        "email": "blancs2@rpi.edu",
+        "phone": "518-276-6238"
+      },
+      "Matthew Brady": {
+        "title": "Facilities Automation Technician",
+        "email": "bradym@rpi.edu",
+        "phone": "518-276-8973"
+      },
+      "Robert Briggi": {
+        "title": "Plant Engineer",
+        "email": "briggr@rpi.edu",
+        "phone": "518-276-6238"
+      },
+      "Brian Brown": {
+        "title": "Repairer, Sr.",
+        "email": "brownb6@rpi.edu",
+        "phone": "518-276-6238"
+      },
+      "Andrew Bruno": {
+        "title": "Painter, Sr.",
+        "email": "brunoa3@rpi.edu",
+        "phone": "518-276-6238"
+      },
+      "Michael Bruso": {
+        "title": "Supervisor, Academic Repair",
+        "email": "brusom@rpi.edu",
+        "phone": "518-276-6238"
+      },
+      "Aidan Chavasse": {
+        "title": "Operating Mechanic",
+        "email": "chavaa2@rpi.edu",
+        "phone": "518-276-6238"
+      },
+      "Shawn Clark": {
+        "title": "Electrician, Sr.",
+        "email": "clarks10@rpi.edu",
+        "phone": "518-276-6238"
+      },
+      "James Cole": {
+        "title": "Carpenter, Sr.",
+        "email": "colej@rpi.edu",
+        "phone": "518-276-6238"
+      },
+      "Paul Crosby": {
+        "title": "HVAC/r Technician",
+        "email": "crosbp@rpi.edu",
+        "phone": "518-276-6238"
+      },
+      "Caleb Cullen": {
+        "title": "HVAC/r Technician, Sr.",
+        "email": "cullec@rpi.edu",
+        "phone": "518-276-6238"
+      },
+      "Peter Czerepak": {
+        "title": "Operating Mechanic, Lead",
+        "email": "czerep@rpi.edu",
+        "phone": "518-276-6238"
+      },
+      "John Danish": {
+        "title": "Maintenance Mechanic/Plumber, Sr.",
+        "email": "danisj4@rpi.edu",
+        "phone": "518-276-6238"
+      },
+      "Brian Darby": {
+        "title": "Supervisor, Operations",
+        "email": "darbyb@rpi.edu",
+        "phone": "518-276-6265"
+      },
+      "Vinny DeChiaro": {
+        "title": "Locksmith",
+        "email": "dechiv@rpi.edu",
+        "phone": "518-276-6238"
+      },
+      "Paul Denio": {
+        "title": "Safety Systems Technician",
+        "email": "deniop@rpi.edu",
+        "phone": "518-276-6238"
+      },
+      "Richard Dubois": {
+        "title": "Maintenance Mechanic/Plumber, Sr.",
+        "email": "duboir2@rpi.edu",
+        "phone": "518-276-6238"
+      },
+      "Robert Ferreira": {
+        "title": "Operating Mechanic, Sr.",
+        "email": "ferrer2@rpi.edu",
+        "phone": "518-276-6238"
+      },
+      "Shane Fitzgerald": {
+        "title": "Electrician, Sr.",
+        "email": "fitzgs3@rpi.edu",
+        "phone": "518-276-6238"
+      },
+      "Kevin Fogarty": {
+        "title": "Supervisor, Painters, Carpenters, & Masons",
+        "email": "fogark@rpi.edu",
+        "phone": "518-276-6238"
+      },
+      "Lawrence Funk": {
+        "title": "Safety Systems Technician",
+        "email": "funkl@rpi.edu",
+        "phone": "518-276-6238"
+      },
+      "Bruce Galbraith": {
+        "title": "Electrician, Lead",
+        "email": "galbrb@rpi.edu",
+        "phone": "518-276-6238"
+      },
+      "John Gall": {
+        "title": "Facilities Engineer, EMPAC",
+        "email": "gallj@rpi.edu",
+        "phone": "518-276-4015"
+      },
+      "Ed Gibson": {
+        "title": "Repairer, Lead",
+        "email": "gibsoe2@rpi.edu",
+        "phone": "518-276-6238"
+      },
+      "Steven Golden": {
+        "title": "Electrician, Sr.",
+        "email": "goldes@rpi.edu",
+        "phone": "518-276-6238"
+      },
+      "Lynn Gray": {
+        "title": "Operations Manager",
+        "email": "grayl4@rpi.edu",
+        "phone": "518-276-6238"
+      },
+      "Stephen Hale": {
+        "title": "Maintenance Mechanic/Plumber, Sr.",
+        "email": "hales2@rpi.edu",
+        "phone": "518-276-6238"
+      },
+      "Michael Haughney": {
+        "title": "Maintenance Mechanic/Plumber, Sr.",
+        "email": "haughm2@rpi.edu",
+        "phone": "518-276-6238"
+      },
+      "Timothy Hilt": {
+        "title": "Electrician, Sr.",
+        "email": "hiltt@rpi.edu",
+        "phone": "518-276-6238"
+      },
+      "Stephen Hudson": {
+        "title": "Electrician, Sr.",
+        "email": "hudsos@rpi.edu",
+        "phone": "518-276-6238"
+      },
+      "Nathan Huggins": {
+        "title": "Repairer, Lead",
+        "email": "huggin@rpi.edu",
+        "phone": "518-276-6238"
+      },
+      "Charles Hunter Jr.": {
+        "title": "Repairer, Sr.",
+        "email": "huntec2@rpi.edu",
+        "phone": "518-276-6238"
+      },
+      "Dave Ira": {
+        "title": "Associate Director, Physical Plant",
+        "email": "irad@rpi.edu",
+        "phone": "518-276-3724"
+      },
+      "Scott Isager": {
+        "title": "Painter, Sr.",
+        "email": "isagec@rpi.edu",
+        "phone": "518-276-6238"
+      },
+      "Stephen Jahn": {
+        "title": "Supervisor, HVAC/r Shop",
+        "email": "jahns@rpi.edu",
+        "phone": "518-276-6238"
+      },
+      "Kevin Kalinoski": {
+        "title": "HVAC/r Technician, Sr.",
+        "email": "kalink@rpi.edu",
+        "phone": "518-276-6238"
+      },
+      "Aislinn Kaptanoglu": {
+        "title": "Operations Specialist",
+        "email": "kaptaa@rpi.edu",
+        "phone": "518-276-6238"
+      },
+      "Ernest Katzwinkel": {
+        "title": "Vice President, Administration",
+        "email": "katzwe@rpi.edu",
+        "phone": "518-276-4107"
+      },
+      "Walt Labunski": {
+        "title": "Repairer",
+        "email": "labunw@rpi.edu",
+        "phone": "518-276-6238"
+      },
+      "Thomas Lajeunesse": {
+        "title": "Electrician",
+        "email": "lajeut@rpi.edu",
+        "phone": "518-276-6238"
+      },
+      "Stuart Lapishka": {
+        "title": "Painter, Sr.",
+        "email": "lapiss@rpi.edu",
+        "phone": "518-276-6238"
+      },
+      "Alain Larramendy": {
+        "title": "Repairer, Sr.",
+        "email": "larraa@rpi.edu",
+        "phone": "518-276-6238"
+      },
+      "Bill LeQue": {
+        "title": "Operating Mechanic",
+        "email": "lequew@rpi.edu",
+        "phone": "518-276-6238"
+      },
+      "Thomas Lobdell": {
+        "title": "Electrician, Sr.",
+        "email": "lobdet@rpi.edu",
+        "phone": "518-276-6238"
+      },
+      "William Luciano": {
+        "title": "Maintenance Mechanic, Lead",
+        "email": "luciaw@rpi.edu",
+        "phone": "518-276-6238"
+      },
+      "Edward Lyons": {
+        "title": "HVAC/r Technician, Sr.",
+        "email": "lyonse@rpi.edu",
+        "phone": "518-276-6238"
+      },
+      "Debra Macey": {
+        "title": "Administrative Coordinator",
+        "email": "maceyd@rpi.edu",
+        "phone": "518-276-4075"
+      },
+      "Christopher Mancini": {
+        "title": "Supervisor, Fire, Safety & Security",
+        "email": "mancic2@rpi.edu",
+        "phone": "518-276-6238"
+      },
+      "Michael Mannion": {
+        "title": "Facilities Engineer",
+        "email": "mannim3@rpi.edu",
+        "phone": "518-276-2257"
+      },
+      "Paul Mason Jr.": {
+        "title": "Access Control Technician",
+        "email": "masonp@rpi.edu",
+        "phone": "518-276-6238"
+      },
+      "Michael Millard": {
+        "title": "Repairer, Sr.",
+        "email": "millam@rpi.edu",
+        "phone": "518-276-6238"
+      },
+      "Stephen Moise": {
+        "title": "Facilities Engineer",
+        "email": "moises@rpi.edu",
+        "phone": "518-276-8245"
+      },
+      "Randall Morby": {
+        "title": "HVAC/r Technician, Sr.",
+        "email": "morbyr@rpi.edu",
+        "phone": "518-276-6238"
+      },
+      "Ron Morello": {
+        "title": "Repairer",
+        "email": "morelr2@rpi.edu",
+        "phone": "518-276-6238"
+      },
+      "Richard Naze": {
+        "title": "HVAC/r Technician",
+        "email": "nazer@rpi.edu",
+        "phone": "518-276-6238"
+      },
+      "Joseph Novak": {
+        "title": "Maintenance Mechanic/Roofer, Sr.",
+        "email": "novakj5@rpi.edu",
+        "phone": "518-276-6238"
+      },
+      "David Orlando": {
+        "title": "Maintenance Mechanic/Plumber, Sr.",
+        "email": "orland@rpi.edu",
+        "phone": "518-276-6238"
+      },
+      "Vincent Pagano": {
+        "title": "Supervisor, Residential Repair",
+        "email": "paganv@rpi.edu",
+        "phone": "518-276-6238"
+      },
+      "A. Parker Pollock": {
+        "title": "Repairer, Sr.",
+        "email": "polloa3@rpi.edu",
+        "phone": "518-276-6238"
+      },
+      "Aaron Quantock": {
+        "title": "Athletics Facilities Specialist, Lead",
+        "email": "quanta@rpi.edu",
+        "phone": "518-276-6777"
+      },
+      "Steve Quinn": {
+        "title": "Manager, Engineering",
+        "email": "quinns3@rpi.edu",
+        "phone": "518-276-8244"
+      },
+      "Meaghan Rivera": {
+        "title": "Athletics Facilities Specialist",
+        "email": "gallam5@rpi.edu",
+        "phone": "518-276-6238"
+      },
+      "Michel Rooney": {
+        "title": "Operations Specialist",
+        "email": "connem4@rpi.edu",
+        "phone": "518-276-6238"
+      },
+      "Christopher Samsel": {
+        "title": "Maintenance Mechanic/Plumber",
+        "email": "samsec@rpi.edu",
+        "phone": "518-276-6238"
+      },
+      "Robert Shields": {
+        "title": "Maintenance Mechanic/Plumber, Sr.",
+        "email": "shielr2@rpi.edu",
+        "phone": "518-276-6238"
+      },
+      "Scott Smith": {
+        "title": "Repairer, Sr.",
+        "email": "smiths26@rpi.edu",
+        "phone": "518-276-6238"
+      },
+      "Donald Stevens": {
+        "title": "Supervisor, Mechanical Shop",
+        "email": "steved@rpi.edu",
+        "phone": "518-276-6238"
+      },
+      "Thomas Stevens": {
+        "title": "Athletics Facilities Specialist",
+        "email": "stevet3@rpi.edu",
+        "phone": "518-276-6238"
+      },
+      "Daniel Student": {
+        "title": "Safety Systems Technician",
+        "email": "studed@rpi.edu",
+        "phone": "518-276-6238"
+      },
+      "Kevin Surman": {
+        "title": "Supervisor, Electrical Shop",
+        "email": "surmak@rpi.edu",
+        "phone": "518-276-6238"
+      },
+      "Alan Svendsen": {
+        "title": "Maintenance Mechanic/Roofer, Sr.",
+        "email": "svenda@rpi.edu",
+        "phone": "518-276-6238"
+      },
+      "Michael Swinton": {
+        "title": "Athletics Facilities Specialist",
+        "email": "swintm3@rpi.edu",
+        "phone": "518-276-6265"
+      },
+      "Judith Thier": {
+        "title": "Operations Specialist",
+        "email": "thierj@rpi.edu",
+        "phone": "518-276-6607"
+      },
+      "Scott Valet": {
+        "title": "Repairer",
+        "email": "valets@rpi.edu",
+        "phone": "518-276-6238"
+      },
+      "Thomas Vassello": {
+        "title": "Painters, Carpenters, & Masons, Lead",
+        "email": "vasset@rpi.edu",
+        "phone": "518-276-6238"
+      },
+      "Curtis Williams": {
+        "title": "Operating Mechanic",
+        "email": "willic20@rpi.edu",
+        "phone": "518-276-6238"
+      },
+      "Douglas Wood": {
+        "title": "HVAC/r Technician, Lead",
+        "email": "woodd5@rpi.edu",
+        "phone": "518-276-6238"
+      },
+      "Michael Yamin": {
+        "title": "Safety Systems Technician",
+        "email": "yaminm@rpi.edu",
+        "phone": "518-276-6238"
+      },
+      "Christopher Yetto": {
+        "title": "Mason, Sr.",
+        "email": "yettoc@rpi.edu",
+        "phone": "518-276-6238"
+      },
+      "Robert Young": {
+        "title": "HVAC/r Technician, Sr.",
+        "email": "youngr@rpi.edu",
+        "phone": "518-276-6238"
+      }
+    },
+    "Procurement and Administrative Services": {
+      "Dominique Daley": {
+        "title": "Business Administrator, Sr.",
+        "email": "daleyd3@rpi.edu",
+        "phone": "518-276-3051"
+      },
+      "Malcolm Leawild": {
+        "title": "Operations Assistant",
+        "email": "leawim@rpi.edu",
+        "phone": "518-276-6224"
+      },
+      "Paul Martin": {
+        "title": "Assistant Vice President, Administration",
+        "email": "martip@rpi.edu",
+        "phone": "518-276-8711"
+      },
+      "James Moore-Hodur": {
+        "title": "Operations Assistant",
+        "email": "moorej15@rpi.edu",
+        "phone": "518-276-6224"
+      },
+      "Mandy Niegoda": {
+        "title": "Administrative Coordinator",
+        "email": "fullem@rpi.edu",
+        "phone": "518-276-2093"
+      },
+      "Denise Reed": {
+        "title": "Capital Projects Analyst, Sr.",
+        "email": "fulled@rpi.edu",
+        "phone": "518-276-3072"
+      }
+    },
+    "Public Safety": {
+      "Shannen Barrett": {
+        "title": "Public Safety Officer II",
+        "email": "barres5@rpi.edu",
+        "phone": "518-276-8527"
+      },
+      "Drew Benoit": {
+        "title": "Public Safety Officer I",
+        "email": "benoid@rpi.edu",
+        "phone": "518-276-8527"
+      },
+      "William Biggs": {
+        "title": "Public Safety Officer II",
+        "email": "biggsw@rpi.edu",
+        "phone": "518-276-6656"
+      },
+      "Megan Bowman": {
+        "title": "Lieutenant, Technical",
+        "email": "bowmam3@rpi.edu",
+        "phone": "518-276-8641"
+      },
+      "Rebecca Caudill": {
+        "title": "Public Safety Communications Specialist",
+        "email": "caudir@rpi.edu",
+        "phone": "518-276-8527"
+      },
+      "Jarred Cole": {
+        "title": "Public Safety Officer I",
+        "email": "colej6@rpi.edu",
+        "phone": "518-276-8527"
+      },
+      "Austin Curtis": {
+        "title": "Public Safety Officer I",
+        "email": "curtia3@rpi.edu",
+        "phone": "518-276-8527"
+      },
+      "Karen Dale": {
+        "title": "Public Safety Specialist",
+        "email": "dalek@rpi.edu",
+        "phone": "518-276-6616"
+      },
+      "Matt Dickson": {
+        "title": "Public Safety Officer I",
+        "email": "dicksm@rpi.edu",
+        "phone": "518-276-8527"
+      },
+      "Kayla Dobiesz": {
+        "title": "Public Safety Officer I",
+        "email": "dobiek@rpi.edu",
+        "phone": "518-276-8527"
+      },
+      "Brian Dyer": {
+        "title": "Sergeant",
+        "email": "dyerb2@rpi.edu",
+        "phone": "518-276-8527"
+      },
+      "Haylee Ensminger": {
+        "title": "Public Safety Officer I",
+        "email": "ensmih@rpi.edu",
+        "phone": "518-276-8527"
+      },
+      "Christopher Fiore": {
+        "title": "Emergency Management & Clery Compliance Officer",
+        "email": "fiorec3@rpi.edu",
+        "phone": "518-276-8123"
+      },
+      "Blaize Gallimore": {
+        "title": "Public Safety Communications Specialist",
+        "email": "gallib@rpi.edu",
+        "phone": "518-276-8527"
+      },
+      "Doug Garso": {
+        "title": "Public Safety Officer I",
+        "email": "garsod2@rpi.edu",
+        "phone": "518-276-8527"
+      },
+      "Renford Graham": {
+        "title": "Public Safety Officer I",
+        "email": "grahar3@rpi.edu",
+        "phone": "518-276-8527"
+      },
+      "Kathleen Grimmick": {
+        "title": "Public Safety Officer II",
+        "email": "ayottk@rpi.edu",
+        "phone": "518-276-6656"
+      },
+      "Patricia Groeber": {
+        "title": "Associate Director, Public Safety",
+        "email": "groebp@rpi.edu",
+        "phone": "518-276-6242"
+      },
+      "Cody Gulli": {
+        "title": "Public Safety Officer II",
+        "email": "gullic@rpi.edu",
+        "phone": "518-276-8527"
+      },
+      "Leanne Hanlon": {
+        "title": "Administrative Coordinator",
+        "email": "hanlol@rpi.edu",
+        "phone": "518-276-8527"
+      },
+      "Benjamin Harris": {
+        "title": "Public Safety Officer I",
+        "email": "harrib6@rpi.edu",
+        "phone": "518-276-8527"
+      },
+      "Brandon Havrish": {
+        "title": "Public Safety Officer I",
+        "email": "havrib@rpi.edu",
+        "phone": "518-276-8527"
+      },
+      "Joe Hewes": {
+        "title": "Public Safety Officer I",
+        "email": "hewesj@rpi.edu",
+        "phone": "518-276-8527"
+      },
+      "Brian Kisling": {
+        "title": "Sergeant",
+        "email": "kislib@rpi.edu",
+        "phone": "518-276-8527"
+      },
+      "Stephen Kraz": {
+        "title": "Lieutenant",
+        "email": "krazs@rpi.edu",
+        "phone": "518-276-8527"
+      },
+      "Alkareem Leigh": {
+        "title": "Public Safety Officer I",
+        "email": "leigha2@rpi.edu",
+        "phone": "518-276-8527"
+      },
+      "Luciano Loffredo": {
+        "title": "Sergeant",
+        "email": "loffrl@rpi.edu",
+        "phone": "518-276-8527"
+      },
+      "Gaus Ali Malik": {
+        "title": "Public Safety Officer II",
+        "email": "malikg@rpi.edu",
+        "phone": "518-276-8527"
+      },
+      "James McKeever": {
+        "title": "Sergeant",
+        "email": "mckeej5@rpi.edu",
+        "phone": "518-276-8527"
+      },
+      "Kayla Mills": {
+        "title": "Public Safety Officer I",
+        "email": "millsk3@rpi.edu",
+        "phone": "518-276-8527"
+      },
+      "Andrew Oliver": {
+        "title": "Public Safety Officer II",
+        "email": "olivea2@rpi.edu",
+        "phone": "518-276-6656"
+      },
+      "Brian Owens": {
+        "title": "Lieutenant",
+        "email": "owensb2@rpi.edu",
+        "phone": "518-276-8527"
+      },
+      "Manuel Perez": {
+        "title": "Public Safety Officer II",
+        "email": "perezm8@rpi.edu",
+        "phone": "518-276-8527"
+      },
+      "Sean Pusatere": {
+        "title": "Public Safety Officer I",
+        "email": "pusats@rpi.edu",
+        "phone": "518-276-8527"
+      },
+      "Joshua Reinhardt": {
+        "title": "Public Safety Officer I",
+        "email": "reinhj5@rpi.edu",
+        "phone": "518-276-8527"
+      },
+      "John Richards": {
+        "title": "Lieutenant, Technical",
+        "email": "richaj11@rpi.edu",
+        "phone": "518-276-8641"
+      },
+      "James Russell": {
+        "title": "Sergeant",
+        "email": "russej5@rpi.edu",
+        "phone": "518-276-8527"
+      },
+      "Scott Ryan": {
+        "title": "Public Safety Officer II",
+        "email": "ryans4@rpi.edu",
+        "phone": "518-276-6656"
+      },
+      "Lisa Scammell": {
+        "title": "Public Safety Officer II",
+        "email": "scamml@rpi.edu",
+        "phone": "518-276-6656"
+      },
+      "Michael Schermerhorn": {
+        "title": "Sergeant",
+        "email": "scherm3@rpi.edu",
+        "phone": "518-276-6656"
+      },
+      "Lynn Shattuck": {
+        "title": "Public Safety Communications Specialist",
+        "email": "shattl@rpi.edu",
+        "phone": "518-276-8527"
+      },
+      "Patrick Singh": {
+        "title": "Public Safety Officer II",
+        "email": "singhp9@rpi.edu",
+        "phone": "518-276-8527"
+      },
+      "Cody Skadra": {
+        "title": "Public Safety Officer II",
+        "email": "skadrc@rpi.edu",
+        "phone": "518-276-8527"
+      },
+      "Richard Stebbins": {
+        "title": "Public Safety Officer I",
+        "email": "stebbr@rpi.edu",
+        "phone": "518-276-8527"
+      },
+      "Vadim Thomas": {
+        "title": "Associate Vice President Public Safety & Emergency Management",
+        "email": "thomav@rpi.edu",
+        "phone": "518-276-8531"
+      },
+      "Matthew Trolio": {
+        "title": "Public Safety Officer II",
+        "email": "trolim@rpi.edu",
+        "phone": "518-276-6656"
+      },
+      "Toni Walles": {
+        "title": "Public Safety Officer I",
+        "email": "wallet@rpi.edu",
+        "phone": "518-276-8527"
+      },
+      "Alyssa Wilson": {
+        "title": "Public Safety Officer I",
+        "email": "wilsoa13@rpi.edu",
+        "phone": "518-276-8527"
+      }
+    }
+  },
+  "Division of the Chief Information Officer (DotCIO)": {
+    "Business Information Services": {
+      "Ashley Chapman": {
+        "title": "Business Coordinator",
+        "email": "chapma@rpi.edu",
+        "phone": "518-276-8177"
+      },
+      "Emily Olivo": {
+        "title": "Operations Specialist",
+        "email": "olivoe@rpi.edu",
+        "phone": "518-276-4879"
+      },
+      "Kelli Treece": {
+        "title": "Operations Specialist",
+        "email": "shawk2@rpi.edu",
+        "phone": "518-276-8149"
+      },
+      "Lorie Winslow": {
+        "title": "Operations Specialist",
+        "email": "winsll@rpi.edu",
+        "phone": "518-276-8178"
+      }
+    },
+    "Client Information Services": {
+      "Dennis Barron": {
+        "title": "Systems Administrator III",
+        "email": "barrod2@rpi.edu",
+        "phone": "518-276-2204"
+      },
+      "Jacqueline B. Stampalia": {
+        "title": "Director, Client Information Services",
+        "email": "stampj@rpi.edu",
+        "phone": "518-276-8007"
+      },
+      "Christopher Tomlinson": {
+        "title": "Systems Administrator II",
+        "email": "tomlic2@rpi.edu",
+        "phone": "518-276-6531"
+      }
+    },
+    "Enterprise Information Services": {
+      "Matthew Garrand": {
+        "title": "Developer, Lead",
+        "email": "garram3@rpi.edu",
+        "phone": "518-276-3043"
+      },
+      "Chad Hockenberger": {
+        "title": "Developer III",
+        "email": "hockec@rpi.edu",
+        "phone": "518-276-8174"
+      },
+      "Jordan Medina": {
+        "title": "Developer III",
+        "email": "medinj4@rpi.edu",
+        "phone": "518-276-4038"
+      },
+      "Joseph Reuter": {
+        "title": "Business Support Analyst III",
+        "email": "reutej@rpi.edu",
+        "phone": ""
+      }
+    },
+    "Information Security": {
+      "John Fisher": {
+        "title": "Director, Information Security",
+        "email": "fishej@rpi.edu",
+        "phone": "518-276-2603"
+      },
+      "Shawn Minarik": {
+        "title": "Network Engineer, Security",
+        "email": "minars2@rpi.edu",
+        "phone": "518-276-3266"
+      },
+      "Dale Tuttle": {
+        "title": "Systems Engineer",
+        "email": "tuttld@rpi.edu",
+        "phone": "518-276-2122"
+      }
+    },
+    "Information Technologies Infrastructure": {
+      "Graham Doig": {
+        "title": "Director, IT Infrastructure",
+        "email": "doigg@rpi.edu",
+        "phone": "518-276-2604"
+      },
+      "Colleen Morrissey": {
+        "title": "Acting Director, Information Security",
+        "email": "morric@rpi.edu",
+        "phone": "518-276-6594"
+      }
+    },
+    "Library Information Services": {
+      "Liz King": {
+        "title": "Associate Director, Library Information Services",
+        "email": "kinge3@rpi.edu",
+        "phone": "518-276-4103"
+      },
+      "Andrew White": {
+        "title": "Director, Library Information Services",
+        "email": "whitea9@rpi.edu",
+        "phone": "518-276-8303"
+      }
+    },
+    "MultiMedia Services": {
+      "Jim Evans": {
+        "title": "Director, Multimedia Services",
+        "email": "evansj2@rpi.edu",
+        "phone": "518-276-6646"
+      }
+    }
+  },
+  "Enrollment Management": {
+    "Admissions (Graduate)": {
+      "Charlieann Chacon": {
+        "title": "Associate Director, MBA/MS Admissions",
+        "email": "chacoc2@rpi.edu",
+        "phone": "518-276-3062"
+      },
+      "Jarron Decker": {
+        "title": "Director, Graduate Admissions",
+        "email": "deckej3@rpi.edu",
+        "phone": "518-276-2340"
+      },
+      "Alexander Englander": {
+        "title": "Assistant Director, Graduate Admissions",
+        "email": "englaa@rpi.edu",
+        "phone": "518-276-6216"
+      },
+      "Dawn Sanders": {
+        "title": "Operations Specialist",
+        "email": "sanded3@rpi.edu",
+        "phone": "518-276-6216"
+      },
+      "Donna Stannard": {
+        "title": "Operations Specialist",
+        "email": "stannd@rpi.edu",
+        "phone": "518-276-6139"
+      },
+      "Emily Stevens": {
+        "title": "Associate Director, Graduate Operations",
+        "email": "stevee@rpi.edu",
+        "phone": "518-276-8736"
+      },
+      "Tori Westfall": {
+        "title": "Assistant Director, Graduate Admissions",
+        "email": "westft2@rpi.edu",
+        "phone": "518-276-6216"
+      },
+      "Lisa Woychik": {
+        "title": "Administrative Coordinator",
+        "email": "woychl@rpi.edu",
+        "phone": "518-276-2716"
+      }
+    },
+    "Admissions (Undergraduate)": {
+      "Davide Abate": {
+        "title": "Operations Associate",
+        "email": "abated@rpi.edu",
+        "phone": "518-276-6172"
+      },
+      "Mary Jo Baker": {
+        "title": "Clerk",
+        "email": "bakerm2@rpi.edu",
+        "phone": "518-276-3033"
+      },
+      "Ulysses deArmas": {
+        "title": "Associate Director, Undergraduate Admissions",
+        "email": "dearmu@rpi.edu",
+        "phone": "518-276-6935"
+      },
+      "Cathryn Desson": {
+        "title": "Assistant Director, Undergraduate Admissions",
+        "email": "dessoc@rpi.edu",
+        "phone": "518-276-6216"
+      },
+      "Heather Hansen": {
+        "title": "Associate Director, Undergraduate Operations",
+        "email": "hoffah@rpi.edu",
+        "phone": "518-276-3398"
+      },
+      "Nicola Hogan": {
+        "title": "Clerk",
+        "email": "hogann@rpi.edu",
+        "phone": "518-276-6216"
+      },
+      "Debora Jackson": {
+        "title": "Business Manager",
+        "email": "jacksd3@rpi.edu",
+        "phone": "518-276-2086"
+      },
+      "Leslie LaBrecque": {
+        "title": "Assistant Director, Undergraduate Admissions",
+        "email": "labrel@rpi.edu",
+        "phone": "518-276-6216"
+      },
+      "Arianna Livshits": {
+        "title": "Event Planner, Sr.",
+        "email": "paluma3@rpi.edu",
+        "phone": "518-276-6216"
+      },
+      "Karen Long": {
+        "title": "Director, Undergraduate Admissions",
+        "email": "longks@rpi.edu",
+        "phone": "518-276-4831"
+      },
+      "Sarah Maliarik": {
+        "title": "Assistant Director, Undergraduate Admissions",
+        "email": "malias@rpi.edu",
+        "phone": "518-276-6216"
+      },
+      "Clare Nee": {
+        "title": "Assistant Director, Undergraduate Admissions",
+        "email": "neec2@rpi.edu",
+        "phone": "518-276-6216"
+      },
+      "Samantha Ouellette": {
+        "title": "Clerk",
+        "email": "ouells@rpi.edu",
+        "phone": "518-276-6216"
+      },
+      "Jude Poland": {
+        "title": "Operations Specialist",
+        "email": "polanj@rpi.edu",
+        "phone": "518-276-6216"
+      },
+      "Nicholas J. Rosato": {
+        "title": "Associate Director, Undergraduate Admissions",
+        "email": "rosatn@rpi.edu",
+        "phone": "518-276-3097"
+      },
+      "Matthew Stabler": {
+        "title": "Assistant Director, Undergraduate Admissions",
+        "email": "stablm@rpi.edu",
+        "phone": "518-276-6148"
+      },
+      "Jeanine Thompson": {
+        "title": "Assistant Director, Undergraduate Admissions",
+        "email": "thompj19@rpi.edu",
+        "phone": "518-276-6216"
+      },
+      "Jennifer Topetro": {
+        "title": "Operations Associate",
+        "email": "topetj@rpi.edu",
+        "phone": "518-276-6159"
+      },
+      "Jeanne Waugh": {
+        "title": "Administrative Coordinator",
+        "email": "waughj@rpi.edu",
+        "phone": "518-276-2762"
+      },
+      "Megan Whalen": {
+        "title": "Associate Director, Undergraduate Admissions",
+        "email": "doppm@rpi.edu",
+        "phone": "518-276-8401"
+      },
+      "Jennifer Yager": {
+        "title": "Assistant Director, Undergraduate Admissions",
+        "email": "yagerj2@rpi.edu",
+        "phone": "518-276-6216"
+      }
+    },
+    "Financial Aid": {
+      "Priscilla Armsby": {
+        "title": "Assistant Director, Financial Aid",
+        "email": "armsbp@rpi.edu",
+        "phone": "518-276-6813"
+      },
+      "Sydney Ausmus": {
+        "title": "Operations Specialist",
+        "email": "ausmus@rpi.edu",
+        "phone": "518-276-6813"
+      },
+      "Stacey Block": {
+        "title": "Assistant Director, Financial Aid",
+        "email": "antons2@rpi.edu",
+        "phone": "518-276-6813"
+      },
+      "Patrick Connell": {
+        "title": "Business Support Analyst",
+        "email": "connep2@rpi.edu",
+        "phone": "518-276-6813"
+      },
+      "Tracey Dame": {
+        "title": "Assistant Director, Financial Aid",
+        "email": "damet2@rpi.edu",
+        "phone": "518-276-6813"
+      },
+      "Martin Daniels": {
+        "title": "Director, Financial Aid",
+        "email": "daniem@rpi.edu",
+        "phone": "518-276-6813"
+      },
+      "Rochel DeSilva": {
+        "title": "Assistant Director, Financial Aid",
+        "email": "desilr@rpi.edu",
+        "phone": "518-276-6813"
+      },
+      "Rochelle Filler": {
+        "title": "Assistant Director, Financial Aid",
+        "email": "filler@rpi.edu",
+        "phone": "518-276-6813"
+      },
+      "Christopher Oakley": {
+        "title": "Associate Director, Financial Aid",
+        "email": "oaklec2@rpi.edu",
+        "phone": "518-276-6813"
+      },
+      "Rebecca Stevens": {
+        "title": "Operations Specialist",
+        "email": "stever@rpi.edu",
+        "phone": "518-276-6813"
+      },
+      "Eva Valentin-Espinal": {
+        "title": "Operations Specialist",
+        "email": "valene2@rpi.edu",
+        "phone": "518-276-6813"
+      }
+    },
+    "Pipeline Initiatives": {
+      "Kelsey Ciemny": {
+        "title": "Community Outreach Instructor",
+        "email": "powdek@rpi.edu",
+        "phone": "518-276-6273"
+      },
+      "Marlene Clouden": {
+        "title": "Program Assistant",
+        "email": "cloudm2@rpi.edu",
+        "phone": "518-276-6273"
+      },
+      "Eileen Culliton": {
+        "title": "Community Outreach Instructor",
+        "email": "cullie2@rpi.edu",
+        "phone": "518-276-6273"
+      },
+      "Liz Darling": {
+        "title": "Program Assistant",
+        "email": "darlie@rpi.edu",
+        "phone": "518-276-6273"
+      },
+      "Emily Hartshorne": {
+        "title": "Community Outreach Instructor",
+        "email": "devide@rpi.edu",
+        "phone": "518-276-6273"
+      },
+      "Noellie Medina": {
+        "title": "Program Coordinator",
+        "email": "medinn3@rpi.edu",
+        "phone": "518-276-3098"
+      },
+      "Cathleen Peter": {
+        "title": "Community Outreach Instructor",
+        "email": "peterc7@rpi.edu",
+        "phone": "518-276-6273"
+      },
+      "Karen Sciolino": {
+        "title": "Community Outreach Instructor",
+        "email": "sciolk@rpi.edu",
+        "phone": "518-276-6273"
+      },
+      "Cynthia Smith": {
+        "title": "Director, Pipeline Programs",
+        "email": "smithc@rpi.edu",
+        "phone": "518-276-8589"
+      },
+      "William Yarberry": {
+        "title": "Community Outreach Instructor",
+        "email": "yarbew2@rpi.edu",
+        "phone": "518-276-6273"
+      }
+    }
+  },
+  "Experimental Media and Performing Arts Center (EMPAC)": {
+    "EMPAC Staff": {
+      "Geoff Abbas": {
+        "title": "Director, Stage Technology",
+        "email": "abbasg@rpi.edu",
+        "phone": "518-276-4418"
+      },
+      "Dave Bebb": {
+        "title": "Systems Administrator, Sr.",
+        "email": "bebbd@rpi.edu",
+        "phone": "518-276-4776"
+      },
+      "Peter Bellamy": {
+        "title": "Systems Administrator, Sr.",
+        "email": "bellap@rpi.edu",
+        "phone": "518-276-4390"
+      },
+      "Mick Bello": {
+        "title": "Production Technician III",
+        "email": "bellom3@rpi.edu",
+        "phone": "518-276-4475"
+      },
+      "Vic Brooks": {
+        "title": "Associate Director, Arts",
+        "email": "brookv@rpi.edu",
+        "phone": "518-276-3920"
+      },
+      "Theresa Brown": {
+        "title": "Front of House Captain",
+        "email": "brownt10@rpi.edu",
+        "phone": "518-276-4135"
+      },
+      "Eric Brucker": {
+        "title": "Video Engineer, Lead",
+        "email": "brucke2@rpi.edu",
+        "phone": "518-276-6462"
+      },
+      "Lindsey Bush": {
+        "title": "Front of House Captain",
+        "email": "bushl3@rpi.edu",
+        "phone": "518-276-4135"
+      },
+      "Samuel Chabot": {
+        "title": "Research Engineer",
+        "email": "chabos3@rpi.edu",
+        "phone": "518-276-4135"
+      },
+      "Gordon Clement": {
+        "title": "Integration Engineer, Stage Technologies",
+        "email": "clemeg2@rpi.edu",
+        "phone": "518-276-4466"
+      },
+      "Nick Contois": {
+        "title": "Front of House Captain",
+        "email": "conton@rpi.edu",
+        "phone": "518-276-4135"
+      },
+      "John Cook": {
+        "title": "Operations Manager",
+        "email": "cookj4@rpi.edu",
+        "phone": "518-276-2822"
+      },
+      "Dorothy Davila": {
+        "title": "Operations Coordinator",
+        "email": "davild@rpi.edu",
+        "phone": "518-276-4135"
+      },
+      "David DeLaRosa": {
+        "title": "Desktop Support Analyst",
+        "email": "delard2@rpi.edu",
+        "phone": "518-276-4413"
+      },
+      "Laura Desposito": {
+        "title": "Production Technician III",
+        "email": "despol@rpi.edu",
+        "phone": "518-276-3098"
+      },
+      "Ashley Ferro-Murray": {
+        "title": "Curator, Sr. Theater & Dance",
+        "email": "ferroa3@rpi.edu",
+        "phone": "518-276-4442"
+      },
+      "Kimberly Gardner": {
+        "title": "Manager, Administrative Operations",
+        "email": "gardnk@rpi.edu",
+        "phone": "518-276-2217"
+      },
+      "Sara Griffith": {
+        "title": "Production Technician III",
+        "email": "griffs4@rpi.edu",
+        "phone": "518-276-2729"
+      },
+      "Ian Hamelin": {
+        "title": "Curatorial Project Manager, Sr.",
+        "email": "hameli@rpi.edu",
+        "phone": "518-276-4383"
+      },
+      "Michael Hanrahan": {
+        "title": "Event Technician, Sr.",
+        "email": "hanram@rpi.edu",
+        "phone": "815-276-4131"
+      },
+      "Nicole Harrison": {
+        "title": "Artists Services Coordinator",
+        "email": "harrin6@rpi.edu",
+        "phone": "518-276-4135"
+      },
+      "Ryan Jenkins": {
+        "title": "Video Engineer, Sr.",
+        "email": "jenkir@rpi.edu",
+        "phone": "518-276-2494"
+      },
+      "Shannon Johnson": {
+        "title": "Manager, Design Communications",
+        "email": "johnss3@rpi.edu",
+        "phone": "518-276-3808"
+      },
+      "Victoria Kereszi": {
+        "title": "Production Technician III",
+        "email": "keresv2@rpi.edu",
+        "phone": "518-276-4135"
+      },
+      "Michael Lake": {
+        "title": "Production Technician, Venues",
+        "email": "lakem3@rpi.edu",
+        "phone": "518-276-4135"
+      },
+      "Rose Lyons": {
+        "title": "Front of House Captain",
+        "email": "lyonsr@rpi.edu",
+        "phone": "518-276-4135"
+      },
+      "Robin Massey": {
+        "title": "Business Administrator, Sr.",
+        "email": "masser2@rpi.edu",
+        "phone": "518-276-3919"
+      },
+      "Stephen McLaughlin": {
+        "title": "Audio Engineer, Sr.",
+        "email": "mclaus3@rpi.edu",
+        "phone": "518-276-4484"
+      },
+      "Alvis Mosely": {
+        "title": "Event Technician, Video",
+        "email": "mosela@rpi.edu",
+        "phone": "518-276-4135"
+      },
+      "Sam O'Connor": {
+        "title": "Production Technician II",
+        "email": "oconns6@rpi.edu",
+        "phone": "518-276-4135"
+      },
+      "Amadeus Regucera": {
+        "title": "Curator, Music",
+        "email": "reguca@rpi.edu",
+        "phone": "518-276-4135"
+      },
+      "Maria Salmon": {
+        "title": "Production Technician II",
+        "email": "salmom2@rpi.edu",
+        "phone": "518-276-4135"
+      },
+      "Alena Samoray": {
+        "title": "Production Technician III",
+        "email": "samora@rpi.edu",
+        "phone": "518-276-4890"
+      },
+      "Kimberly Strosahl": {
+        "title": "Production Coordinator",
+        "email": "strosk@rpi.edu",
+        "phone": "518-276-4583"
+      },
+      "Jeffrey Svatek": {
+        "title": "Audio Engineer, Sr.",
+        "email": "svatej2@rpi.edu",
+        "phone": "518-276-4581"
+      },
+      "Kathryn TeBordo": {
+        "title": "Manager, Communications & Grants",
+        "email": "tebork2@rpi.edu",
+        "phone": "518-276-4135"
+      },
+      "Michael Valiquette": {
+        "title": "Graphic Designer",
+        "email": "valiqm@rpi.edu",
+        "phone": "518-276-4135"
+      },
+      "Kyle Van Sandt": {
+        "title": "Production Technician III",
+        "email": "vansak2@rpi.edu",
+        "phone": "518-276-4135"
+      },
+      "Stephanie Van Sandt": {
+        "title": "Master Electrician",
+        "email": "vansas@rpi.edu",
+        "phone": "518-276-3709"
+      },
+      "Todd Vos": {
+        "title": "Audio Engineer, Lead",
+        "email": "vost@rpi.edu",
+        "phone": "518-276-3923"
+      }
+    }
+  },
+  "Finance": {
+    "Controller's Office": {
+      "Jackie Martin": {
+        "title": "Assistant Controller",
+        "email": "martij27@rpi.edu",
+        "phone": "518-276-6848"
+      },
+      "Kelli Perry": {
+        "title": "Assistant Vice President & Controller",
+        "email": "hudsok@rpi.edu",
+        "phone": "518-276-6418"
+      }
+    },
+    "Financial Planning & Budget": {
+      "Louise Griffin": {
+        "title": "Financial Analyst",
+        "email": "griffl2@rpi.edu",
+        "phone": "518-276-6197"
+      },
+      "Helen Grzymala": {
+        "title": "Assistant Vice President, Finance & Budget",
+        "email": "grzymh@rpi.edu",
+        "phone": "518-276-6034"
+      }
+    },
+    "Investments": {
+      "Michael Sharp": {
+        "title": "Investment Analyst, Sr.",
+        "email": "sharpm4@rpi.edu",
+        "phone": "518-276-8154"
+      }
+    },
+    "Research Administration and Finance": {
+      "Carina Teator": {
+        "title": "Director, Research Administration",
+        "email": "teatoc@rpi.edu",
+        "phone": "518-276-8108"
+      }
+    },
+    "Treasurers Office": {
+      "Sue Proskine": {
+        "title": "Treasury Officer, Sr.",
+        "email": "prosks@rpi.edu",
+        "phone": "518-276-6119"
+      }
+    }
+  },
+  "Graduate Education": {
+    "Outreach Programs": {
+      "Steven Atkinson": {
+        "title": "Student Services Administrator, Sr.",
+        "email": "atkins3@rpi.edu",
+        "phone": "518-276-3753"
+      },
+      "Ajuba Jones": {
+        "title": "Administrative Specialist",
+        "email": "jonesa3@rpi.edu",
+        "phone": "518-276-2626"
+      },
+      "Elizabeth Madigan": {
+        "title": "Program Administrator, Sr.",
+        "email": "madige@rpi.edu",
+        "phone": "518-276-6488"
+      },
+      "Gina Mastromarchi": {
+        "title": "Student Services Administrator, Sr.",
+        "email": "mastrg2@rpi.edu",
+        "phone": "518-276-2347"
+      }
+    }
+  },
+  "Human Resources": {
+    "Benefits and Retirement": {
+      "Lizette Degro": {
+        "title": "Operations Coordinator",
+        "email": "degrol@rpi.edu",
+        "phone": "518-276-3444"
+      },
+      "Philip Glackin": {
+        "title": "HR Specialist, Sr.",
+        "email": "glackp@rpi.edu",
+        "phone": "518-276-6369"
+      },
+      "Louis Padula": {
+        "title": "Acting Vice President, Human Resources",
+        "email": "padull@rpi.edu",
+        "phone": "518-276-6164"
+      }
+    },
+    "Compensation and Employment": {
+      "Anne Bilynsky": {
+        "title": "Director, Compensation & Employment",
+        "email": "bilyna@rpi.edu",
+        "phone": "518-276-2774"
+      },
+      "Kathy McNamara": {
+        "title": "Manager, Employment Operations",
+        "email": "mcnamk@rpi.edu",
+        "phone": "518-276-8426"
+      },
+      "Brandy Pascazio": {
+        "title": "HR Specialist, Sr.",
+        "email": "pascab@rpi.edu",
+        "phone": "518-276-4124"
+      }
+    },
+    "Employee Relations and Professional Development": {
+      "Will  Fahey": {
+        "title": "Manager, Professional & Organizational Development",
+        "email": "faheyw@rpi.edu",
+        "phone": "518-276-2318"
+      }
+    },
+    "Environmental Health and Safety": {
+      "Ginger Caravalho": {
+        "title": "Radiation Safety Officer",
+        "email": "caravg@rpi.edu",
+        "phone": "518-276-3976"
+      },
+      "Blake Cimo": {
+        "title": "Chemical Receiving Specialist, Sr.",
+        "email": "cimoj@rpi.edu",
+        "phone": "518-276-2203"
+      },
+      "Judy Corbett": {
+        "title": "Safety Specialist",
+        "email": "corbej3@rpi.edu",
+        "phone": "518-276-2281"
+      },
+      "Jen Kazmierczak": {
+        "title": "Director, Environmental Health & Safety and Risk Management",
+        "email": "kazmij@rpi.edu",
+        "phone": "518-276-6114"
+      },
+      "Magaly Montenegro Martinez": {
+        "title": "Associate Safety Specialist",
+        "email": "montem2@rpi.edu",
+        "phone": "518-276-2092"
+      }
+    },
+    "Operations and Administration": {
+      "Chelsea Wallace": {
+        "title": "Operations Specialist",
+        "email": "wallac4@rpi.edu",
+        "phone": "518-276-4094"
+      }
+    }
+  },
+  "Institute Advancement": {
+    "Advancement Strategy, Services and Infrastructure": {
+      "Marie K. Carroll": {
+        "title": "Manager, Advancement Systems",
+        "email": "carrom@rpi.edu",
+        "phone": "518-276-8546"
+      },
+      "Michelle Gier": {
+        "title": "Business Support Analyst IV",
+        "email": "gierm@rpi.edu",
+        "phone": "518-276-6056"
+      },
+      "Elaine Keefe": {
+        "title": "Operations Assistant",
+        "email": "keefee@rpi.edu",
+        "phone": "518-276-6743"
+      },
+      "Shane Kelly": {
+        "title": "Prospect Research Analyst",
+        "email": "kellys6@rpi.edu",
+        "phone": "518-276-2081"
+      },
+      "Krista McVay": {
+        "title": "Operations Assistant",
+        "email": "mcvayk@rpi.edu",
+        "phone": "518-276-8548"
+      },
+      "Tracy Rooney": {
+        "title": "Administrative Coordinator",
+        "email": "roonet2@rpi.edu",
+        "phone": "518-276-8672"
+      }
+    },
+    "Alumni Relations": {
+      "Dana Borter": {
+        "title": "Administrative Coordinator",
+        "email": "borted@rpi.edu",
+        "phone": "518-276-6205"
+      },
+      "Barbara Dean": {
+        "title": "Administrative Specialist",
+        "email": "deanb@rpi.edu",
+        "phone": "518-276-3981"
+      },
+      "Thomas Denman": {
+        "title": "Advancement Officer",
+        "email": "denmat3@rpi.edu",
+        "phone": "518-276-6205"
+      },
+      "Sarah Linehan": {
+        "title": "Associate Advancement Officer",
+        "email": "linehs@rpi.edu",
+        "phone": "518-276-6208"
+      },
+      "Dawn McCarthy": {
+        "title": "Director, Alumni Relations",
+        "email": "mccard6@rpi.edu",
+        "phone": "518-276-2324"
+      },
+      "Kindra McHale": {
+        "title": "Advancement Officer, Sr.",
+        "email": "mchalk@rpi.edu",
+        "phone": "518-276-8575"
+      }
+    },
+    "Development Office": {
+      "Lisa Buckley": {
+        "title": "Data Analyst",
+        "email": "buckley@rpi.edu",
+        "phone": "518-276-8563"
+      },
+      "Casey Castiglione": {
+        "title": "Associate Advancement Officer",
+        "email": "ryanc5@rpi.edu",
+        "phone": "518-276-2398"
+      },
+      "Colleen Geary": {
+        "title": "Associate Advancement Officer",
+        "email": "gearyc@rpi.edu",
+        "phone": "518-276-3706"
+      }
+    }
+  },
+  "Lally School of Management": {
+    "Severino Center for Technological Entrepreneurship": {
+      "Jason Kuruzovich": {
+        "title": "Associate Professor",
+        "email": "kuruzj@rpi.edu",
+        "phone": "518-276-2332"
+      },
+      "Kelly Reardon-Sleicher": {
+        "title": "Associate Program Director",
+        "email": "reardk@rpi.edu",
+        "phone": "518-276-2292"
+      }
+    }
+  },
+  "Office for Research": {
+    "Center for Architectural Science and Ecology (CASE)": {
+      "Joshua Draper": {
+        "title": "Lecturer",
+        "email": "drapej@rpi.edu",
+        "phone": "212-618-3959"
+      },
+      "Dennis Shelden": {
+        "title": "Associate Professor",
+        "email": "sheldd@rpi.edu",
+        "phone": ""
+      }
+    },
+    "Center for Automation Technologies and Systems (CATS)": {
+      "Brent Engler": {
+        "title": "Postdoctoral Research Associate",
+        "email": "engleb3@rpi.edu",
+        "phone": "518-276-8744"
+      },
+      "Glenn Saunders": {
+        "title": "Research Engineer, Sr.",
+        "email": "saundg@rpi.edu",
+        "phone": "518-276-6696"
+      }
+    },
+    "Center for Biotechnology and Interdisciplinary Studies (CBIS)": {
+      "Tom Acton": {
+        "title": "Research Scientist, Sr.",
+        "email": "actont@rpi.edu",
+        "phone": ""
+      },
+      "Angela Albanese": {
+        "title": "Business Administrator, Sr.",
+        "email": "albana2@rpi.edu",
+        "phone": ""
+      },
+      "Yang Bai": {
+        "title": "Director, Genomics Research Core",
+        "email": "baiy4@rpi.edu",
+        "phone": "518-276-4117"
+      },
+      "Namita Dube": {
+        "title": "Research Scientist",
+        "email": "duben@rpi.edu",
+        "phone": ""
+      },
+      "James Gibson": {
+        "title": "Research Associate",
+        "email": "gibsoj3@rpi.edu",
+        "phone": ""
+      },
+      "Bernadette Glasheen": {
+        "title": "Research Specialist, Sr.",
+        "email": "glashb@rpi.edu",
+        "phone": "518-276-3471"
+      },
+      "Peng He": {
+        "title": "Postdoctoral Research Associate",
+        "email": "hep3@rpi.edu",
+        "phone": ""
+      },
+      "Jiaqi Huang": {
+        "title": "Research Specialist",
+        "email": "huangj22@rpi.edu",
+        "phone": ""
+      },
+      "Yuanpeng Huang": {
+        "title": "Research Scientist, Sr.",
+        "email": "huangy26@rpi.edu",
+        "phone": ""
+      },
+      "Michael Jarvis": {
+        "title": "Operations Manager, BioResearch Core",
+        "email": "jarvim@rpi.edu",
+        "phone": "518-276-4867"
+      },
+      "Ashley-Anne Jones": {
+        "title": "Administrative Coordinator",
+        "email": "jonesa18@rpi.edu",
+        "phone": "518-276-6635"
+      },
+      "Nabin Kandel": {
+        "title": "Postdoctoral Research Associate",
+        "email": "kanden@rpi.edu",
+        "phone": ""
+      },
+      "Rebecca Keller": {
+        "title": "Visiting Researcher",
+        "email": "keller5@rpi.edu",
+        "phone": ""
+      },
+      "Sushmita Koley": {
+        "title": "Postdoctoral Research Associate",
+        "email": "koleys@rpi.edu",
+        "phone": ""
+      },
+      "Inseon Lee": {
+        "title": "Postdoctoral Research Associate",
+        "email": "leei5@rpi.edu",
+        "phone": ""
+      },
+      "Marimar Lopez": {
+        "title": "Director, Research Cores",
+        "email": "lopezm4@rpi.edu",
+        "phone": "518-276-4416"
+      },
+      "Scott McCallum": {
+        "title": "Director, Nuclear Magnetic Resonance Core",
+        "email": "mccals@rpi.edu",
+        "phone": "518-276-2856"
+      },
+      "Antigone McKenna": {
+        "title": "Director, BioResearch Core",
+        "email": "mckena3@rpi.edu",
+        "phone": "518-276-4835"
+      },
+      "Joel Morgan": {
+        "title": "Director, Analytical Biochemistry & Microbiology Core",
+        "email": "morgaj3@rpi.edu",
+        "phone": "518-276-4170"
+      },
+      "Chuang Niu": {
+        "title": "Postdoctoral Research Associate",
+        "email": "niuc@rpi.edu",
+        "phone": ""
+      },
+      "Sergey Pryshchep": {
+        "title": "Director, Microscopy Core",
+        "email": "pryshs@rpi.edu",
+        "phone": "518-276-3456"
+      },
+      "Theresa Ramelot": {
+        "title": "Research Scientist, Sr.",
+        "email": "ramelt2@rpi.edu",
+        "phone": ""
+      },
+      "Gurmej Singh": {
+        "title": "Bioresearch Technician",
+        "email": "singhg7@rpi.edu",
+        "phone": "518-276-4918"
+      },
+      "Grazyna Sroga": {
+        "title": "Research Associate",
+        "email": "srogag@rpi.edu",
+        "phone": "518-276-4189"
+      },
+      "Deepak Vashishth": {
+        "title": "Director, CBIS",
+        "email": "vashid@rpi.edu",
+        "phone": "518-276-2296"
+      },
+      "Peter Vincent": {
+        "title": "Visiting Researcher",
+        "email": "vincep4@rpi.edu",
+        "phone": ""
+      },
+      "Ke Xia": {
+        "title": "Director, Proteomics Core",
+        "email": "xiak@rpi.edu",
+        "phone": "518-276-4143"
+      },
+      "Xuanang Xu": {
+        "title": "Postdoctoral Research Associate",
+        "email": "xux12@rpi.edu",
+        "phone": ""
+      },
+      "Fuming Zhang": {
+        "title": "Research Scientist, Sr.",
+        "email": "zhangf2@rpi.edu",
+        "phone": "518-276-6839"
+      }
+    },
+    "Center for Computational Innovations (CCI)": {
+      "Christopher Carothers": {
+        "title": "Director, CCI",
+        "email": "carotc@rpi.edu",
+        "phone": "518-276-2930"
+      },
+      "Andrew Damin": {
+        "title": "Systems Engineer",
+        "email": "damina@rpi.edu",
+        "phone": "518-276-4458"
+      },
+      "Ellen Seegyoung Seol": {
+        "title": "Research Associate, Sr.",
+        "email": "seols@rpi.edu",
+        "phone": "518-276-8284"
+      },
+      "Cameron Smith": {
+        "title": "Research Scientist, Sr.",
+        "email": "smithc11@rpi.edu",
+        "phone": "518-276-3401"
+      }
+    },
+    "Center for Future Energy Systems (CFES)": {
+      "Brian Apkarian": {
+        "title": "Director, Business Development",
+        "email": "apkarb@rpi.edu",
+        "phone": "518-276-8096"
+      },
+      "Tetiana Bogodorova": {
+        "title": "Research Scientist",
+        "email": "bogodt2@rpi.edu",
+        "phone": "518-276-6036"
+      },
+      "Lisa McGill": {
+        "title": "Administrative Specialist",
+        "email": "valenl@rpi.edu",
+        "phone": "518-276-6754"
+      },
+      "Pothana Nellepalli": {
+        "title": "Postdoctoral Research Associate",
+        "email": "nellep@rpi.edu",
+        "phone": "518-276-6754"
+      },
+      "Heemin Park": {
+        "title": "Postdoctoral Research Associate",
+        "email": "parkh11@rpi.edu",
+        "phone": "518-276-6754"
+      },
+      "Jian Sun": {
+        "title": "Professor & Center Director",
+        "email": "sunj3@rpi.edu",
+        "phone": "518-276-8297"
+      },
+      "Shuai Zhang": {
+        "title": "Postdoctoral Research Associate",
+        "email": "zhangs29@rpi.edu",
+        "phone": "518-276-6754"
+      },
+      "Chongbin Zhao": {
+        "title": "Visiting Scholar/Adjunct",
+        "email": "zhaoc7@rpi.edu",
+        "phone": "518-276-6754"
+      }
+    },
+    "Center for Materials, Devices, and Integrated Systems (CMDIS)": {
+      "Sarah An": {
+        "title": "Process Engineer",
+        "email": "anx@rpi.edu",
+        "phone": "518-276-6724"
+      },
+      "John Barthel": {
+        "title": "Semiconductor Process Equipment Engineer",
+        "email": "barthj@rpi.edu",
+        "phone": "518-276-2975"
+      },
+      "Bryant Colwill": {
+        "title": "Director, Microfabrication Clean Room",
+        "email": "colwib2@rpi.edu",
+        "phone": "518-276-3946"
+      },
+      "Jennifer Tedesco": {
+        "title": "Administrative Coordinator",
+        "email": "tedesco@rpi.edu",
+        "phone": "518-276-6724"
+      },
+      "Kent Way": {
+        "title": "Equipment Engineer, Sr.",
+        "email": "wayk2@rpi.edu",
+        "phone": "518-276-3317"
+      }
+    },
+    "Center for Modeling, Simulation and Imaging in Medicine (CEMSIM)": {
+      "Suvranu De": {
+        "title": "Research Scientist, Sr.",
+        "email": "des@rpi.edu",
+        "phone": "518-276-6351"
+      },
+      "Peng Guan": {
+        "title": "Software Engineer",
+        "email": "guanp@rpi.edu",
+        "phone": ""
+      },
+      "Hong Li": {
+        "title": "Software Engineer",
+        "email": "lih38@rpi.edu",
+        "phone": ""
+      },
+      "Vikas Pandey": {
+        "title": "Postdoctoral Research Associate",
+        "email": "pandev2@rpi.edu",
+        "phone": ""
+      },
+      "Rahul Rahul": {
+        "title": "Research Scientist, Sr.",
+        "email": "rahul@rpi.edu",
+        "phone": ""
+      }
+    },
+    "CESMII \u2013 The Smart Manufacturing Institute": {
+      "Craig Dory": {
+        "title": "Director, CESMII NERMC",
+        "email": "doryc@rpi.edu",
+        "phone": "518-276-3953"
+      }
+    },
+    "Cognitive and Immersive Systems Lab (CISL)": {
+      "Jonas Braasch": {
+        "title": "Professor & Associate Director for EMPAC Research",
+        "email": "braasj@rpi.edu",
+        "phone": "518-276-3864"
+      },
+      "Shannon Briggs": {
+        "title": "Postdoctoral Research Associate",
+        "email": "briggs4@rpi.edu",
+        "phone": ""
+      }
+    },
+    "Darrin Fresh Water Institute (DFWI)": {
+      "Laurie Ahrens": {
+        "title": "Research Specialist, Sr.",
+        "email": "ahrenl@rpi.edu",
+        "phone": "518-644-3541"
+      },
+      "Jonathan Borrelli": {
+        "title": "Postdoctoral Research Associate",
+        "email": "borrej4@rpi.edu",
+        "phone": ""
+      },
+      "David Diehl": {
+        "title": "Site Manager",
+        "email": "diehld2@rpi.edu",
+        "phone": "518-644-3541"
+      },
+      "Allison Hrycik": {
+        "title": "Research Scientist",
+        "email": "hrycia@rpi.edu",
+        "phone": ""
+      },
+      "Mark Lucius": {
+        "title": "Software Engineer",
+        "email": "lucium@rpi.edu",
+        "phone": "518-644-3541"
+      },
+      "Brian Mattes": {
+        "title": "Research Specialist, Sr.",
+        "email": "matteb2@rpi.edu",
+        "phone": ""
+      },
+      "Rick Relyea": {
+        "title": "Professor",
+        "email": "relyer@rpi.edu",
+        "phone": "518-276-8342"
+      },
+      "Mark Swinton": {
+        "title": "Research Scientist",
+        "email": "swintm@rpi.edu",
+        "phone": "518-276-2703"
+      },
+      "Dave Winkler": {
+        "title": "Research Specialist",
+        "email": "winkld@rpi.edu",
+        "phone": ""
+      }
+    },
+    "Institute for Data Exploration and Applications (IDEA)": {
+      "Ahmed Eleish": {
+        "title": "Postdoctoral Research Associate",
+        "email": "eleisa2@rpi.edu",
+        "phone": ""
+      },
+      "James Hendler": {
+        "title": "Professor & Director, DAIC",
+        "email": "hendlj2@rpi.edu",
+        "phone": "518-276-4401"
+      },
+      "Wei Liu": {
+        "title": "Postdoctoral Research Associate",
+        "email": "liuw16@rpi.edu",
+        "phone": "929-587-7404"
+      },
+      "Michele Murray": {
+        "title": "Project Administrator",
+        "email": "murram2@rpi.edu",
+        "phone": "518-276-4400"
+      },
+      "Henrique Oliveira Santos": {
+        "title": "Director, Semantic Web Apps",
+        "email": "oliveh@rpi.edu",
+        "phone": ""
+      },
+      "Bhanushee Sharma": {
+        "title": "Postdoctoral Research Associate",
+        "email": "sharmb4@rpi.edu",
+        "phone": ""
+      }
+    },
+    "Network Science and Technology Center (NeST)": {
+      "James Flamino": {
+        "title": "Postdoctoral Research Associate",
+        "email": "flamij2@rpi.edu",
+        "phone": "518-276-6354"
+      }
+    },
+    "Rensselaer Astrobiology Research and Education Center (RARE)": {
+      "Vincent Riggi": {
+        "title": "Research Scientist",
+        "email": "riggiv2@rpi.edu",
+        "phone": ""
+      },
+      "Abby Ross": {
+        "title": "Research Specialist",
+        "email": "rossa8@rpi.edu",
+        "phone": ""
+      },
+      "Alisha Toporski": {
+        "title": "Research Specialist",
+        "email": "topora@rpi.edu",
+        "phone": ""
+      },
+      "Heather Watson": {
+        "title": "Visiting Researcher",
+        "email": "watsoh2@rpi.edu",
+        "phone": "518-276-8827"
+      }
+    },
+    "Scientific Computation Research Center (SCOREC)": {
+      "Max Bloomfield": {
+        "title": "Research Scientist",
+        "email": "bloomm2@rpi.edu",
+        "phone": "518-276-2983"
+      },
+      "Jacob Merson": {
+        "title": "Postdoctoral Research Associate",
+        "email": "mersoj2@rpi.edu",
+        "phone": "518-276-6795"
+      },
+      "Mark Shephard": {
+        "title": "Prof/Director SCOREC",
+        "email": "shephm@rpi.edu",
+        "phone": "518-276-8044"
+      },
+      "Chonglin Zhang": {
+        "title": "Research Scientist",
+        "email": "zhangc20@rpi.edu",
+        "phone": "518-276-6795"
+      }
+    }
+  },
+  "President": {
+    "General Counsel's Office": {
+      "Sandra Brown": {
+        "title": "Associate General Counsel",
+        "email": "browns16@rpi.edu",
+        "phone": "518-276-4235"
+      },
+      "Craig Cook": {
+        "title": "Secretary of the Institute and General Counsel",
+        "email": "cookc5@rpi.edu",
+        "phone": "518-276-8829"
+      },
+      "Mary Coonradt": {
+        "title": "Executive Assistant",
+        "email": "coonrm@rpi.edu",
+        "phone": "518-276-3777"
+      }
+    },
+    "Office of Intellectual Property Optimization": {
+      "Fran Fernandez": {
+        "title": "Business Support Analyst",
+        "email": "fernaf@rpi.edu",
+        "phone": "518-276-2267"
+      },
+      "Tasha Sanford": {
+        "title": "Licensing Associate",
+        "email": "sanfon@rpi.edu",
+        "phone": "518-276-3675"
+      }
+    },
+    "Rensselaer Technology Park": {
+      "Kat Miller": {
+        "title": "Business Administrator, Sr.",
+        "email": "millek16@rpi.edu",
+        "phone": "518-283-7102"
+      },
+      "Kimberly Sleicher": {
+        "title": "Operations Coordinator",
+        "email": "sleick@rpi.edu",
+        "phone": "518-283-7102"
+      },
+      "Keith VanAmburgh": {
+        "title": "Property Manager",
+        "email": "vanamk@rpi.edu",
+        "phone": "518-283-7102"
+      },
+      "Gabriel Zollinger": {
+        "title": "Repairer, Sr.",
+        "email": "zollig@rpi.edu",
+        "phone": "518-421-1129"
+      }
+    }
+  },
+  "Provost": {
+    "Institutional Research and Assessment": {
+      "Phil Bertorelli": {
+        "title": "Institutional Research Analyst, Sr.",
+        "email": "bertop@rpi.edu",
+        "phone": "518-276-6325"
+      },
+      "Claire Gonyo": {
+        "title": "Institutional Research Analyst",
+        "email": "gonyoc2@rpi.edu",
+        "phone": "518-276-3991"
+      },
+      "Judith Stoddard": {
+        "title": "Director, Institution Research",
+        "email": "stoddj3@rpi.edu",
+        "phone": "518-276-6790"
+      },
+      "Amy Svirsky": {
+        "title": "Learning Assessment Specialist",
+        "email": "svirsa2@rpi.edu",
+        "phone": "518-276-3884"
+      }
+    }
+  },
+  "Rensselaer at Work": {
+    "Academic Programs": {
+      "Thomas Abbott": {
+        "title": "Lecturer, Sr.",
+        "email": "abbott3@rpi.edu",
+        "phone": ""
+      },
+      "Michael Borbath": {
+        "title": "Adjunct",
+        "email": "borbam@rpi.edu",
+        "phone": ""
+      },
+      "Richard Chapman": {
+        "title": "Adjunct",
+        "email": "chapmr@rpi.edu",
+        "phone": ""
+      },
+      "Francisco Cunha": {
+        "title": "Professor of Practice",
+        "email": "cunhaf@rpi.edu",
+        "phone": ""
+      },
+      "Ernesto Gutierrez-Miravete": {
+        "title": "Professor of Practice",
+        "email": "gutiee@rpi.edu",
+        "phone": "860-548-2464"
+      },
+      "Michael Hughes": {
+        "title": "Lecturer, Sr.",
+        "email": "hughem6@rpi.edu",
+        "phone": "518-276-3781"
+      },
+      "Amit Mathur": {
+        "title": "Adjunct",
+        "email": "mathua@rpi.edu",
+        "phone": ""
+      },
+      "Peter Olausson": {
+        "title": "Lecturer, Sr.",
+        "email": "olausj@rpi.edu",
+        "phone": ""
+      },
+      "Rushabh Padalia": {
+        "title": "Lecturer",
+        "email": "padalr@rpi.edu",
+        "phone": ""
+      },
+      "Stefanie Reay": {
+        "title": "Adjunct",
+        "email": "reays@rpi.edu",
+        "phone": ""
+      },
+      "Elaine Renz": {
+        "title": "Lecturer",
+        "email": "renze@rpi.edu",
+        "phone": ""
+      },
+      "David Stec": {
+        "title": "Lecturer",
+        "email": "stecd2@rpi.edu",
+        "phone": ""
+      },
+      "Himali Stoccatore": {
+        "title": "Lecturer",
+        "email": "stocch@rpi.edu",
+        "phone": ""
+      },
+      "Christopher Tong": {
+        "title": "Professor of Practice",
+        "email": "tongc4@rpi.edu",
+        "phone": ""
+      },
+      "Antonella Zompa": {
+        "title": "Professor of Practice",
+        "email": "zompaa@rpi.edu",
+        "phone": ""
+      }
+    },
+    "Enrollment and Marketing": {
+      "Bonnie Blumer": {
+        "title": "Director, Marketing & Partnerships",
+        "email": "sofarb@rpi.edu",
+        "phone": "860-548-5331"
+      },
+      "Alice Denny": {
+        "title": "Associate Director, Graduate Admissions",
+        "email": "dennya2@rpi.edu",
+        "phone": ""
+      },
+      "Justin Hume": {
+        "title": "Director, Enrollment",
+        "email": "humej@rpi.edu",
+        "phone": ""
+      }
+    },
+    "Operations and Facilities": {
+      "Paul Murphy": {
+        "title": "Building Manager",
+        "email": "murphp2@rpi.edu",
+        "phone": "860-548-5392"
+      }
+    },
+    "Program Development": {
+      "Claude Abbott": {
+        "title": "Instructional Designer",
+        "email": "abbotc@rpi.edu",
+        "phone": "860-548-7841"
+      },
+      "Susan Riello": {
+        "title": "Director, Instructional Design",
+        "email": "riells@rpi.edu",
+        "phone": ""
+      },
+      "Steven Smolnik": {
+        "title": "Instructional Designer",
+        "email": "smolns@rpi.edu",
+        "phone": "860-548-7807"
+      }
+    },
+    "Student Support and Success": {
+      "Jessica Anderson": {
+        "title": "Administrative Coordinator",
+        "email": "gelmaj@rpi.edu",
+        "phone": ""
+      },
+      "Flo Josephs": {
+        "title": "Operations Associate",
+        "email": "josepf@rpi.edu",
+        "phone": "860-548-2454"
+      },
+      "Natalie Sutera": {
+        "title": "Director, Student Support & Success",
+        "email": "sutern@rpi.edu",
+        "phone": "860-548-2412"
+      }
+    },
+    "Technology Systems and Analytics": {
+      "Brian Clement": {
+        "title": "Director, Technology Systems & Analytics",
+        "email": "clemeb@rpi.edu",
+        "phone": "860-548-2468"
+      },
+      "Adam Hechler": {
+        "title": "Director, Technology Systems",
+        "email": "hechla@rpi.edu",
+        "phone": "860-548-2446"
+      }
+    }
+  },
+  "School of Architecture": {
+    "Architecture": {
+      "David Bell": {
+        "title": "Assoc Prof & Acting Assoc Dean",
+        "email": "belld@rpi.edu",
+        "phone": "518-276-6862"
+      },
+      "Christianna Bennett": {
+        "title": "Assistant Professor",
+        "email": "bennec5@rpi.edu",
+        "phone": "518-276-4060"
+      },
+      "Marcus Carter": {
+        "title": "Assistant Professor",
+        "email": "cartem3@rpi.edu",
+        "phone": "518-276-6466"
+      },
+      "Lonn Combs": {
+        "title": "Associate Professor",
+        "email": "combsl@rpi.edu",
+        "phone": "518-276-6466"
+      },
+      "Jillian Crandall": {
+        "title": "Lecturer",
+        "email": "crandj3@rpi.edu",
+        "phone": "518-276-6466"
+      },
+      "Gustavo Crembil": {
+        "title": "Associate Professor",
+        "email": "crembg@rpi.edu",
+        "phone": "518-276-2037"
+      },
+      "Lindsey Cronmiller": {
+        "title": "Administrative Coordinator",
+        "email": "ebyl@rpi.edu",
+        "phone": "518-276-6581"
+      },
+      "Adam Dayem": {
+        "title": "Assistant Professor",
+        "email": "dayema@rpi.edu",
+        "phone": "518-276-8718"
+      },
+      "Justin Den Herder": {
+        "title": "Lecturer",
+        "email": "denhej@rpi.edu",
+        "phone": "518-276-6466"
+      },
+      "Yael Erel": {
+        "title": "Assistant Professor",
+        "email": "erely2@rpi.edu",
+        "phone": "518-276-4060"
+      },
+      "Torrance Fish": {
+        "title": "Laboratory Supervisor",
+        "email": "fisht@rpi.edu",
+        "phone": "518-276-6466"
+      },
+      "Lori Gregware-Greenough": {
+        "title": "Executive Assistant",
+        "email": "gregwl@rpi.edu",
+        "phone": "518-276-6460"
+      },
+      "Fleet Hower": {
+        "title": "Lecturer",
+        "email": "howerj@rpi.edu",
+        "phone": "518-276-4060"
+      },
+      "Ryosuke Imaeda": {
+        "title": "Lecturer",
+        "email": "imaedr@rpi.edu",
+        "phone": "518-276-6466"
+      },
+      "Ted Krueger": {
+        "title": "Associate Professor",
+        "email": "krueger@rpi.edu",
+        "phone": "518-276-8075"
+      },
+      "Carla Leitao": {
+        "title": "Assistant Professor",
+        "email": "leitac@rpi.edu",
+        "phone": "518-276-4060"
+      },
+      "Hseng Tai Lintner": {
+        "title": "Lecturer",
+        "email": "lintnh@rpi.edu",
+        "phone": "518-276-6466"
+      },
+      "Edwin Liu": {
+        "title": "Lecturer",
+        "email": "liue2@rpi.edu",
+        "phone": "518-276-4060"
+      },
+      "John Loercher": {
+        "title": "Lecturer, Sr.",
+        "email": "loercj@rpi.edu",
+        "phone": "518-276-6466"
+      },
+      "Matthew Lopez": {
+        "title": "Lecturer",
+        "email": "lopezm6@rpi.edu",
+        "phone": "518-276-4060"
+      },
+      "Michael Oatman": {
+        "title": "Associate Professor",
+        "email": "oatman@rpi.edu",
+        "phone": "518-276-3188"
+      },
+      "Chris Perry": {
+        "title": "Associate Professor",
+        "email": "perryc3@rpi.edu",
+        "phone": "518-276-8435"
+      },
+      "Leandro Piazzi": {
+        "title": "Lecturer",
+        "email": "piazzl2@rpi.edu",
+        "phone": "518-276-6466"
+      },
+      "James Richardson": {
+        "title": "Bedford Visiting Professor",
+        "email": "richaj13@rpi.edu",
+        "phone": "518-276-6466"
+      },
+      "Rhett Russo": {
+        "title": "Assistant Professor",
+        "email": "russor4@rpi.edu",
+        "phone": "518-276-2011"
+      },
+      "Walaid Sehwail": {
+        "title": "Lecturer",
+        "email": "sehwaw@rpi.edu",
+        "phone": "518-276-6466"
+      },
+      "Michael Stradley": {
+        "title": "Lecturer",
+        "email": "stradm3@rpi.edu",
+        "phone": "518-276-6466"
+      },
+      "Per Svedberg": {
+        "title": "Lecturer",
+        "email": "svedbp@rpi.edu",
+        "phone": "518-276-6466"
+      },
+      "Anthony Titus": {
+        "title": "Associate Professor",
+        "email": "titusa@rpi.edu",
+        "phone": "518-276-6466"
+      },
+      "Alexandros Tsamis": {
+        "title": "Asst. Prof. & Assoc. Dir. CASE",
+        "email": "tsamia@rpi.edu",
+        "phone": "518-276-6466"
+      },
+      "Florencia Vetcher": {
+        "title": "Lecturer",
+        "email": "vetchf@rpi.edu",
+        "phone": "518-276-4060"
+      },
+      "Caleb White": {
+        "title": "Lecturer",
+        "email": "whitec10@rpi.edu",
+        "phone": "518-276-6466"
+      },
+      "Ning Xiang": {
+        "title": "Professor",
+        "email": "xiangn@rpi.edu",
+        "phone": "518-276-6464"
+      },
+      "Arta Yazdanseta": {
+        "title": "Assistant Professor",
+        "email": "yazdaa@rpi.edu",
+        "phone": "518-276-6466"
+      }
+    },
+    "Lighting Research Center": {
+      "Jean Paul Freyssinier": {
+        "title": "Research Scientist, Sr.",
+        "email": "freysj@rpi.edu",
+        "phone": "518-276-7146"
+      },
+      "Nadarajah Narendran": {
+        "title": "Professor",
+        "email": "narenn2@rpi.edu",
+        "phone": "518-687-7100"
+      },
+      "Jennifer Taylor": {
+        "title": "Communications Specialist, Sr.",
+        "email": "tayloj7@rpi.edu",
+        "phone": "518-276-7100"
+      }
+    },
+    "Woodshop": {
+      "Bill Bergman": {
+        "title": "Manager, Wood Shop",
+        "email": "bergmw@rpi.edu",
+        "phone": "518-276-6870"
+      },
+      "Jim Van Duyne": {
+        "title": "Woodshop Supervisor",
+        "email": "vanduj2@rpi.edu",
+        "phone": "518-276-6870"
+      }
+    }
+  },
+  "School of Engineering": {
+    "Biomedical Engineering": {
+      "Monica Agarwal": {
+        "title": "Lecturer",
+        "email": "agarwm2@rpi.edu",
+        "phone": "518-276-2154"
+      },
+      "Elizabeth Blaber": {
+        "title": "Assistant Professor",
+        "email": "blabee@rpi.edu",
+        "phone": "518-276-4282"
+      },
+      "David Corr": {
+        "title": "Professor",
+        "email": "corrd@rpi.edu",
+        "phone": "518-276-3276"
+      },
+      "Robert Forlano": {
+        "title": "Visiting Researcher",
+        "email": "forlar@rpi.edu",
+        "phone": "518-276-6548"
+      },
+      "Mary Foti": {
+        "title": "Administrative Coordinator",
+        "email": "fotim@rpi.edu",
+        "phone": "518-276-6548"
+      },
+      "Ryan Gilbert": {
+        "title": "Professor",
+        "email": "gilber2@rpi.edu",
+        "phone": "518-276-2032"
+      },
+      "Juergen Hahn": {
+        "title": "Professor & Department Head",
+        "email": "hahnj@rpi.edu",
+        "phone": "518-276-2138"
+      },
+      "Mariah Hahn": {
+        "title": "Professor",
+        "email": "hahnm@rpi.edu",
+        "phone": "518-276-2236"
+      },
+      "Elizabeth Harwood": {
+        "title": "Student Services Administrator, Sr.",
+        "email": "harwoe3@rpi.edu",
+        "phone": "518-276-6547"
+      },
+      "Xavier Intes": {
+        "title": "Professor",
+        "email": "intesx@rpi.edu",
+        "phone": "518-276-6964"
+      },
+      "Stephen Kalista": {
+        "title": "Laboratory Manager",
+        "email": "kaliss@rpi.edu",
+        "phone": "518-276-2763"
+      },
+      "Uwe Kruger": {
+        "title": "Professor of Practice",
+        "email": "krugeu@rpi.edu",
+        "phone": "518-276-4818"
+      },
+      "Eric Ledet": {
+        "title": "Visiting Researcher",
+        "email": "ledete@rpi.edu",
+        "phone": "518-276-6548"
+      },
+      "George Lee": {
+        "title": "Lecturer",
+        "email": "leeg11@rpi.edu",
+        "phone": "518-276-6204"
+      },
+      "Natalia Maldonado Martinez": {
+        "title": "Lecturer",
+        "email": "maldon@rpi.edu",
+        "phone": "518-276-6959"
+      },
+      "Hisham Mohamed": {
+        "title": "Lecturer",
+        "email": "mohamh2@rpi.edu",
+        "phone": "518-276-6323"
+      },
+      "Jonathan Newell": {
+        "title": "Research Engineer",
+        "email": "newelj@rpi.edu",
+        "phone": "518-276-6548"
+      },
+      "Deanna Thompson": {
+        "title": "Associate Professor",
+        "email": "thompd4@rpi.edu",
+        "phone": "518-276-6293"
+      },
+      "Amit Verma": {
+        "title": "Visiting Scholar/Adjunct",
+        "email": "vermaa2@rpi.edu",
+        "phone": "518-276-6548"
+      },
+      "Ge Wang": {
+        "title": "Professor",
+        "email": "wangg6@rpi.edu",
+        "phone": "518-276-3726"
+      },
+      "Xun Wang": {
+        "title": "Lecturer, Sr.",
+        "email": "wangx33@rpi.edu",
+        "phone": "518-276-6243"
+      },
+      "Leo Wan": {
+        "title": "Professor",
+        "email": "wanq@rpi.edu",
+        "phone": "518-276-2505"
+      },
+      "Pingkun Yan": {
+        "title": "Associate Professor & Career Development Chair",
+        "email": "yanp2@rpi.edu",
+        "phone": "518-276-4476"
+      }
+    },
+    "Business Administration": {
+      "Bridget Darmetko": {
+        "title": "Business Administrator",
+        "email": "darmeb@rpi.edu",
+        "phone": "518-276-2315"
+      },
+      "Amy Edmans": {
+        "title": "Business Administrator, Sr.",
+        "email": "edmana2@rpi.edu",
+        "phone": "518-276-6698"
+      },
+      "Brian Gambacorta": {
+        "title": "Business Administrator, Sr.",
+        "email": "gambab@rpi.edu",
+        "phone": "518-276-6433"
+      },
+      "Joanne George": {
+        "title": "Business Administrator",
+        "email": "georgj10@rpi.edu",
+        "phone": ""
+      },
+      "Kathleen Harrison": {
+        "title": "Business Coordinator",
+        "email": "harrik3@rpi.edu",
+        "phone": "518-276-6650"
+      },
+      "Mary Horgan": {
+        "title": "Business Administrator, Lead",
+        "email": "horgam@rpi.edu",
+        "phone": "518-276-3786"
+      },
+      "Ginette Kirkpatrick": {
+        "title": "Business Administrator, Sr.",
+        "email": "kirkpg@rpi.edu",
+        "phone": "518-276-4884"
+      },
+      "Christina Lillpopp": {
+        "title": "Business Coordinator",
+        "email": "lillpc@rpi.edu",
+        "phone": "518-276-3436"
+      },
+      "Lori Robichaud": {
+        "title": "Business Administrator, Sr.",
+        "email": "robicl@rpi.edu",
+        "phone": "518-276-2127"
+      },
+      "Christopher Thorne": {
+        "title": "Business Administrator",
+        "email": "thornc3@rpi.edu",
+        "phone": "518-276-3888"
+      },
+      "Donna Tomlinson": {
+        "title": "Business Manager, Sr.",
+        "email": "tomlid@rpi.edu",
+        "phone": "518-276-6229"
+      }
+    },
+    "Center for Earthquake Engineering Simulation (CEES)": {
+      "Kyle Weichold": {
+        "title": "Research Support Engineer",
+        "email": "weichk2@rpi.edu",
+        "phone": "518-276-8143"
+      }
+    },
+    "Center for Infrastructure,Transportation and the Environment (CITE)": {
+      "Ossama Elrahman": {
+        "title": "Visiting Researcher",
+        "email": "elraho@rpi.edu",
+        "phone": "518-276-6360"
+      },
+      "Jeffrey Wojtowicz": {
+        "title": "Research Engineer, Sr.",
+        "email": "wojtoj@rpi.edu",
+        "phone": "518-276-2759"
+      }
+    },
+    "Chemical and Biological Engineering": {
+      "Nihat Baysal": {
+        "title": "Professor of Practice",
+        "email": "baysan@rpi.edu",
+        "phone": "518-276-3327"
+      },
+      "Georges Belfort": {
+        "title": "Institute Professor",
+        "email": "belfog@rpi.edu",
+        "phone": "518-276-6948"
+      },
+      "B Wayne Bequette": {
+        "title": "Professor",
+        "email": "bequeb@rpi.edu",
+        "phone": "518-276-6683"
+      },
+      "Vidhya Chakrapani": {
+        "title": "Associate Professor",
+        "email": "chakrv@rpi.edu",
+        "phone": "518-276-4402"
+      },
+      "Xiaotong Chen": {
+        "title": "Postdoctoral Research Associate",
+        "email": "chenx33@rpi.edu",
+        "phone": "518-276-6378"
+      },
+      "Steven Cramer": {
+        "title": "Professor & Endowed Chair",
+        "email": "crames@rpi.edu",
+        "phone": "518-276-6198"
+      },
+      "George Dalakos": {
+        "title": "",
+        "email": "dalakg2@rpi.edu",
+        "phone": "518-276-6377"
+      },
+      "Marylouise Dowd": {
+        "title": "Student Services Administrator, Sr.",
+        "email": "dowdm3@rpi.edu",
+        "phone": "518-276-6929"
+      },
+      "Ronald Hedden": {
+        "title": "Professor of Practice",
+        "email": "hedder@rpi.edu",
+        "phone": "518-276-6537"
+      },
+      "Pankaj Karande": {
+        "title": "Associate Professor",
+        "email": "karanp@rpi.edu",
+        "phone": "518-276-4459"
+      },
+      "Mattheos Koffas": {
+        "title": "Professor & Endowed Chair",
+        "email": "koffam@rpi.edu",
+        "phone": "518-276-2220"
+      },
+      "Sangwoo Lee": {
+        "title": "Associate Professor",
+        "email": "lees27@rpi.edu",
+        "phone": "518-276-8676"
+      },
+      "Lisa Martin": {
+        "title": "Administrative Coordinator",
+        "email": "swishl@rpi.edu",
+        "phone": "518-276-6378"
+      },
+      "Yuze Meng": {
+        "title": "Visiting Scholar/Adjunct",
+        "email": "mengy3@rpi.edu",
+        "phone": "518-276-6378"
+      },
+      "Joel Plawsky": {
+        "title": "Professor & Department Head",
+        "email": "plawsky@rpi.edu",
+        "phone": "518-276-6049"
+      },
+      "Rose Primett": {
+        "title": "Administrative Specialist",
+        "email": "primer@rpi.edu",
+        "phone": "518-276-6377"
+      },
+      "Todd Przybycien": {
+        "title": "Professor",
+        "email": "przybt3@rpi.edu",
+        "phone": "518-276-2045"
+      },
+      "Sufei Shi": {
+        "title": "Associate Professor",
+        "email": "shis2@rpi.edu",
+        "phone": "518-276-2671"
+      },
+      "Matthew Titus": {
+        "title": "Adjunct",
+        "email": "titusm2@rpi.edu",
+        "phone": "518-276-6378"
+      },
+      "Patrick Underhill": {
+        "title": "Professor",
+        "email": "underp3@rpi.edu",
+        "phone": "518-276-3032"
+      },
+      "Jason Warner": {
+        "title": "Lecturer",
+        "email": "warnej3@rpi.edu",
+        "phone": "518-276-6378"
+      },
+      "Corey Woodcock": {
+        "title": "Lecturer",
+        "email": "woodcc2@rpi.edu",
+        "phone": "518-276-3439"
+      },
+      "Taeeun Yim": {
+        "title": "Visiting Scholar/Adjunct",
+        "email": "yimt2@rpi.edu",
+        "phone": "518-276-6378"
+      },
+      "Helen Zha": {
+        "title": "Assistant Professor",
+        "email": "zhar@rpi.edu",
+        "phone": "518-276-4273"
+      }
+    },
+    "Civil and Environmental Engineering": {
+      "Tarek Abdoun": {
+        "title": "Professor & Endowed Chair",
+        "email": "abdout@rpi.edu",
+        "phone": "518-276-6544"
+      },
+      "Eyosias Ashenafi": {
+        "title": "Lecturer",
+        "email": "ashene2@rpi.edu",
+        "phone": "518-276-4890"
+      },
+      "Victoria Bennett": {
+        "title": "Associate Professor",
+        "email": "bennev@rpi.edu",
+        "phone": "518-276-6365"
+      },
+      "Tathagata Bhaduri": {
+        "title": "Lecturer",
+        "email": "bhadut2@rpi.edu",
+        "phone": "518-276-6360"
+      },
+      "Kimberly Boyce": {
+        "title": "Administrative Coordinator",
+        "email": "boycek@rpi.edu",
+        "phone": "518-276-6941"
+      },
+      "Julia Carroll": {
+        "title": "",
+        "email": "carroj7@rpi.edu",
+        "phone": "518-276-6360"
+      },
+      "Omar El-Shafee": {
+        "title": "Lecturer, Sr.",
+        "email": "elshao2@rpi.edu",
+        "phone": "518-276-2335"
+      },
+      "Mohamed Ghazy": {
+        "title": "Visiting Scholar/Adjunct",
+        "email": "ghazym@rpi.edu",
+        "phone": "518-276-6360"
+      },
+      "Steven Hagy": {
+        "title": "",
+        "email": "hagys2@rpi.edu",
+        "phone": "518-276-6360"
+      },
+      "Sean X. He": {
+        "title": "Assistant Professor",
+        "email": "hex6@rpi.edu",
+        "phone": "518-276-8043"
+      },
+      "Jose Holguin-Veras": {
+        "title": "Professor & Endowed Chair",
+        "email": "holguj2@rpi.edu",
+        "phone": "518-276-6221"
+      },
+      "Mark Kanonik": {
+        "title": "Adjunct",
+        "email": "kanonm@rpi.edu",
+        "phone": "518-276-6360"
+      },
+      "Chip Kilduff": {
+        "title": "Associate Professor",
+        "email": "kilduff@rpi.edu",
+        "phone": "518-276-2042"
+      },
+      "Daniel Lander": {
+        "title": "Lecturer",
+        "email": "landed2@rpi.edu",
+        "phone": "518-276-6916"
+      },
+      "Jon LaPointe": {
+        "title": "Laboratory Supervisor",
+        "email": "lapoij@rpi.edu",
+        "phone": "518-276-3046"
+      },
+      "Christopher Letchford": {
+        "title": "Professor & Department Head",
+        "email": "letchc@rpi.edu",
+        "phone": "518-276-6362"
+      },
+      "Paul McCoy": {
+        "title": "",
+        "email": "mccoyp@rpi.edu",
+        "phone": "518-276-6360"
+      },
+      "Marianne Nyman": {
+        "title": "Associate Professor",
+        "email": "nymanm@rpi.edu",
+        "phone": "518-276-2268"
+      },
+      "Sofia Perez Guzman": {
+        "title": "Postdoctoral Research Associate",
+        "email": "perezs2@rpi.edu",
+        "phone": "518-276-6360"
+      },
+      "Prabu Raja": {
+        "title": "Visiting Researcher",
+        "email": "rajap2@rpi.edu",
+        "phone": "518-276-6360"
+      },
+      "John Reilly": {
+        "title": "Professor of Practice",
+        "email": "reillj2@rpi.edu",
+        "phone": "518-276-6033"
+      },
+      "Debra Roden": {
+        "title": "Administrative Specialist",
+        "email": "rodend3@rpi.edu",
+        "phone": "518-276-6679"
+      },
+      "Michael Symans": {
+        "title": "Associate Professor",
+        "email": "symans@rpi.edu",
+        "phone": "518-276-6938"
+      },
+      "Shun Uchida": {
+        "title": "Associate Professor",
+        "email": "uchids@rpi.edu",
+        "phone": "518-276-6944"
+      },
+      "Christos Varsamis": {
+        "title": "Lecturer",
+        "email": "varsac3@rpi.edu",
+        "phone": "518-276-3956"
+      },
+      "Cara Wang": {
+        "title": "Professor",
+        "email": "wangx18@rpi.edu",
+        "phone": "518-276-2098"
+      },
+      "Mourad Zeghal": {
+        "title": "Professor",
+        "email": "zeghal@rpi.edu",
+        "phone": "518-276-2836"
+      }
+    },
+    "Core Engineering": {
+      "Boulos Abdallah": {
+        "title": "Student Services Administrator, Sr.",
+        "email": "abdalb@rpi.edu",
+        "phone": "518-276-6669"
+      },
+      "Mark Anderson": {
+        "title": "Academic Support Engineer, Sr.",
+        "email": "anderm8@rpi.edu",
+        "phone": "518-276-2733"
+      },
+      "Kristin Bergene": {
+        "title": "Student Services Administrator, Sr.",
+        "email": "bergek@rpi.edu",
+        "phone": "518-276-8137"
+      },
+      "Sam Chiappone": {
+        "title": "Director, Manufacturing Innovation",
+        "email": "chiaps@rpi.edu",
+        "phone": "518-276-8295"
+      },
+      "Dana Chichester": {
+        "title": "Manager, Student Services",
+        "email": "chichd@rpi.edu",
+        "phone": "518-276-6620"
+      },
+      "Kathryn A. Dannemann": {
+        "title": "Prof. of Practice and Director",
+        "email": "dannek2@rpi.edu",
+        "phone": "518-276-8293"
+      },
+      "Brad DeBoer": {
+        "title": "Academic Support Engineer, Sr.",
+        "email": "deboeb@rpi.edu",
+        "phone": "518-276-3769"
+      },
+      "Maddie Dwyer": {
+        "title": "Academic Support Engineer",
+        "email": "dwyerm3@rpi.edu",
+        "phone": "518-276-8411"
+      },
+      "Elizabeth Herkenham": {
+        "title": "Program Director, K-13",
+        "email": "herkee2@rpi.edu",
+        "phone": "518-276-6245"
+      },
+      "Junichi Kanai": {
+        "title": "Prof. of Practice, Assoc. Dir.",
+        "email": "kanaij@rpi.edu",
+        "phone": "518-276-3347"
+      },
+      "Karen Lewis": {
+        "title": "Manager, Student Services",
+        "email": "phelak@rpi.edu",
+        "phone": "518-276-6995"
+      },
+      "Kim Loring": {
+        "title": "Student Services Administrator, Sr.",
+        "email": "lorink@rpi.edu",
+        "phone": "518-276-6620"
+      },
+      "Valerie Masterson": {
+        "title": "Administrative Specialist",
+        "email": "mastev@rpi.edu",
+        "phone": "518-276-2724"
+      },
+      "Larry Oligny": {
+        "title": "Academic Support Engineer, Sr.",
+        "email": "olignl2@rpi.edu",
+        "phone": "518-276-6078"
+      },
+      "Aren Paster": {
+        "title": "Academic Support Engineer, Sr.",
+        "email": "pastea@rpi.edu",
+        "phone": "518-276-4829"
+      },
+      "Michelle Skomsky": {
+        "title": "Administrative Coordinator",
+        "email": "skomsm@rpi.edu",
+        "phone": "518-276-6626"
+      },
+      "Kelley Stuetz": {
+        "title": "Student Services Administrator, Sr.",
+        "email": "stuetk@rpi.edu",
+        "phone": "518-276-6620"
+      },
+      "John Szczesniak": {
+        "title": "Laboratory Manager",
+        "email": "szczej@rpi.edu",
+        "phone": "518-276-6551"
+      },
+      "Scott Yerbury": {
+        "title": "Academic Support Technician, Sr.",
+        "email": "yerbus@rpi.edu",
+        "phone": "518-276-8290"
+      }
+    },
+    "Electrical, Computer, and Systems Engineering": {
+      "Alhussein Abouzeid": {
+        "title": "Professor",
+        "email": "abouza@rpi.edu",
+        "phone": "518-276-6534"
+      },
+      "Jason Anthony": {
+        "title": "Academic Support Technician, Sr.",
+        "email": "anthoj4@rpi.edu",
+        "phone": "518-276-6225"
+      },
+      "Ishwara Bhat": {
+        "title": "Professor",
+        "email": "bhati@rpi.edu",
+        "phone": "518-276-2786"
+      },
+      "Tianyi Chen": {
+        "title": "Assistant Professor",
+        "email": "chent18@rpi.edu",
+        "phone": "518-276-3173"
+      },
+      "Joe Chow": {
+        "title": "Institute Professor",
+        "email": "chowj@rpi.edu",
+        "phone": "518-276-6374"
+      },
+      "Paul Chow": {
+        "title": "Professor",
+        "email": "chowt@rpi.edu",
+        "phone": "518-276-2910"
+      },
+      "W Randolph Franklin": {
+        "title": "Professor",
+        "email": "frankwr@rpi.edu",
+        "phone": "518-276-6077"
+      },
+      "Rama Hamarneh": {
+        "title": "Student Services Administrator, Sr.",
+        "email": "hamarr@rpi.edu",
+        "phone": "518-276-8557"
+      },
+      "Sang In Han": {
+        "title": "",
+        "email": "hans10@rpi.edu",
+        "phone": "518-276-6316"
+      },
+      "Mona Hella": {
+        "title": "Professor",
+        "email": "hellam@rpi.edu",
+        "phone": "518-276-6314"
+      },
+      "Rena Huang": {
+        "title": "Associate Professor",
+        "email": "huangz3@rpi.edu",
+        "phone": "518-276-6086"
+      },
+      "Qiang Ji": {
+        "title": "Professor",
+        "email": "jiq@rpi.edu",
+        "phone": "518-276-6440"
+      },
+      "Agung Julius": {
+        "title": "Professor",
+        "email": "juliua2@rpi.edu",
+        "phone": "518-276-6993"
+      },
+      "Koushik Kar": {
+        "title": "Professor",
+        "email": "kark@rpi.edu",
+        "phone": "518-276-2653"
+      },
+      "Bob Karlicek": {
+        "title": "Professor & Center Director",
+        "email": "karlir@rpi.edu",
+        "phone": "518-276-3310"
+      },
+      "Russell Kraft": {
+        "title": "Lecturer, Sr.",
+        "email": "kraftr2@rpi.edu",
+        "phone": "518-276-2765"
+      },
+      "Kelley Kritz": {
+        "title": "Student Services Administrator, Sr.",
+        "email": "kritzk@rpi.edu",
+        "phone": "518-276-2554"
+      },
+      "Liu Liu": {
+        "title": "Assistant Professor",
+        "email": "liul11@rpi.edu",
+        "phone": "518-276-6718"
+      },
+      "James Lu": {
+        "title": "Professor",
+        "email": "luj@rpi.edu",
+        "phone": "518-276-2909"
+      },
+      "Laraine Michaelides": {
+        "title": "Administrative Specialist",
+        "email": "michal@rpi.edu",
+        "phone": "518-276-8525"
+      },
+      "Bill Mnich": {
+        "title": "Academic Support Technician, Sr.",
+        "email": "mnichw2@rpi.edu",
+        "phone": "518-276-8334"
+      },
+      "Gina Moore": {
+        "title": "Administrative Coordinator",
+        "email": "mooreg4@rpi.edu",
+        "phone": "518-518-2150"
+      },
+      "Andrey Muraviev": {
+        "title": "Research Scientist, Sr.",
+        "email": "murava@rpi.edu",
+        "phone": "518-276-6316"
+      },
+      "Prabhakar Neti": {
+        "title": "Professor of Practice",
+        "email": "netip@rpi.edu",
+        "phone": "518-276-8160"
+      },
+      "Kimberly Oakes": {
+        "title": "Lecturer",
+        "email": "oakesk2@rpi.edu",
+        "phone": "518-276-6316"
+      },
+      "Denis Osipov": {
+        "title": "Research Scientist",
+        "email": "osipod@rpi.edu",
+        "phone": "518-276-6036"
+      },
+      "Santiago Paternain": {
+        "title": "Assistant Professor",
+        "email": "paters@rpi.edu",
+        "phone": "518-276-6087"
+      },
+      "Alex Patterson": {
+        "title": "Lecturer",
+        "email": "pattea5@rpi.edu",
+        "phone": "518-276-6316"
+      },
+      "Rich Radke": {
+        "title": "Professor",
+        "email": "radker@rpi.edu",
+        "phone": "518-276-6483"
+      },
+      "James Rees": {
+        "title": "Lecturer",
+        "email": "reesj3@rpi.edu",
+        "phone": "518-276-2601"
+      },
+      "Shayla Sawyer": {
+        "title": "Professor",
+        "email": "sawyes@rpi.edu",
+        "phone": "518-276-2164"
+      },
+      "E. Fred Schubert": {
+        "title": "Constellation Chair/Professor (ECSE and Physics Depts)",
+        "email": "schubert@rpi.edu",
+        "phone": "518-276-8775"
+      },
+      "Michael Shur": {
+        "title": "Patricia W. and C. Sheldon Roberts Professor (ECSE and Physics)",
+        "email": "shurm@rpi.edu",
+        "phone": "518-276-2201"
+      },
+      "William Stillman": {
+        "title": "",
+        "email": "stillw2@rpi.edu",
+        "phone": "518-276-6316"
+      },
+      "Ali Tajer": {
+        "title": "Associate Professor",
+        "email": "tajera@rpi.edu",
+        "phone": "518-276-8237"
+      },
+      "Luigi Vanfretti": {
+        "title": "Professor",
+        "email": "vanfrl@rpi.edu",
+        "phone": "518-276-2378"
+      },
+      "Meng Wang": {
+        "title": "Associate Professor",
+        "email": "wangm7@rpi.edu",
+        "phone": "518-276-3842"
+      },
+      "John Wason": {
+        "title": "Visiting Researcher",
+        "email": "wasonj@rpi.edu",
+        "phone": "518-276-6316"
+      },
+      "John Wen": {
+        "title": "Professor & Department Head",
+        "email": "wenj@rpi.edu",
+        "phone": "518-276-6156"
+      },
+      "Kyle Wilt": {
+        "title": "Lecturer",
+        "email": "wiltk2@rpi.edu",
+        "phone": "518-276-2170"
+      },
+      "Junfeng Wu": {
+        "title": "Research Specialist",
+        "email": "wuj25@rpi.edu",
+        "phone": "518-276-6316"
+      },
+      "Birsen Yazici": {
+        "title": "Professor",
+        "email": "yazicb@rpi.edu",
+        "phone": "518-276-2905"
+      },
+      "Tong Zhang": {
+        "title": "Professor",
+        "email": "zhangt4@rpi.edu",
+        "phone": "518-276-2945"
+      }
+    },
+    "Industrial and Systems Engineering": {
+      "Esra Agca Aktunc": {
+        "title": "Lecturer, Sr.",
+        "email": "agcaae@rpi.edu",
+        "phone": "518-276-2773"
+      },
+      "Nima Ahmadi": {
+        "title": "Lecturer",
+        "email": "ahmadn4@rpi.edu",
+        "phone": "518-276-2773"
+      },
+      "James Bailey": {
+        "title": "Assistant Professor",
+        "email": "bailej6@rpi.edu",
+        "phone": "518-276-2773"
+      },
+      "Martha Rose Grabowski": {
+        "title": "Research Scientist, Sr.",
+        "email": "grabom@rpi.edu",
+        "phone": "518-276-2954"
+      },
+      "Azita Hirsa": {
+        "title": "Lecturer",
+        "email": "hirsaa3@rpi.edu",
+        "phone": "518-276-8319"
+      },
+      "Rostyslav Korolov": {
+        "title": "Lecturer",
+        "email": "korolr2@rpi.edu",
+        "phone": "518-276-2773"
+      },
+      "Richard Little": {
+        "title": "Visiting Research Scholar",
+        "email": "littlr3@rpi.edu",
+        "phone": "518-276-2773"
+      },
+      "Emily Liu": {
+        "title": "Professor & Dept. Head",
+        "email": "liue@rpi.edu",
+        "phone": "518-276-8592"
+      },
+      "Lisa McCormick": {
+        "title": "Administrative Coordinator",
+        "email": "mccorl3@rpi.edu",
+        "phone": "518-276-2895"
+      },
+      "David Mendonca": {
+        "title": "Research Scientist, Sr.",
+        "email": "mendod@rpi.edu",
+        "phone": "518-276-4222"
+      },
+      "Jennifer Pazour": {
+        "title": "Associate Professor",
+        "email": "pazouj@rpi.edu",
+        "phone": "518-276-6486"
+      },
+      "Kristen Schell": {
+        "title": "Research Scientist",
+        "email": "schelk@rpi.edu",
+        "phone": "518-276-6622"
+      },
+      "Yinan Wang": {
+        "title": "Assistant Professor",
+        "email": "wangy88@rpi.edu",
+        "phone": "518-276-2773"
+      }
+    },
+    "Lighting Enabled Systems and Applications (LESA)": {
+      "Matthew Goldman": {
+        "title": "Research Technician",
+        "email": "goldmm2@rpi.edu",
+        "phone": "518-276-7220"
+      },
+      "Elsebeth Kolmos": {
+        "title": "Research Scientist, Sr.",
+        "email": "kolmoe@rpi.edu",
+        "phone": "518-276-6693"
+      },
+      "Richard Neal": {
+        "title": "Research Engineer",
+        "email": "nealr@rpi.edu",
+        "phone": "518-276-2229"
+      }
+    },
+    "Materials Science and Engineering": {
+      "Carl Adams": {
+        "title": "Laboratory Manager",
+        "email": "adamsc6@rpi.edu",
+        "phone": "518-276-8826"
+      },
+      "Leo Yechuan Chen": {
+        "title": "Laboratory Manager",
+        "email": "cheny74@rpi.edu",
+        "phone": "518-276-8034"
+      },
+      "Binghui Deng": {
+        "title": "Visiting Researcher",
+        "email": "dengb4@rpi.edu",
+        "phone": "518-276-6372"
+      },
+      "Raymond Dove": {
+        "title": "Laboratory Manager",
+        "email": "dover@rpi.edu",
+        "phone": "518-276-4079"
+      },
+      "David Duquette": {
+        "title": "Professor",
+        "email": "duqued@rpi.edu",
+        "phone": "518-276-6490"
+      },
+      "Edwin Fohtung": {
+        "title": "Associate Professor",
+        "email": "fohtue@rpi.edu",
+        "phone": "518-276-3363"
+      },
+      "Daniel Gall": {
+        "title": "Professor",
+        "email": "galld@rpi.edu",
+        "phone": "518-276-8471"
+      },
+      "Liping Huang": {
+        "title": "Professor",
+        "email": "huangl5@rpi.edu",
+        "phone": "518-276-2174"
+      },
+      "Jie Jiang": {
+        "title": "Research Associate",
+        "email": "jiangj2@rpi.edu",
+        "phone": "518-276-6372"
+      },
+      "Paul Keblinski": {
+        "title": "Professor & Department Head",
+        "email": "keblip@rpi.edu",
+        "phone": "518-276-6858"
+      },
+      "John LaGraff": {
+        "title": "Professor of Practice",
+        "email": "lagraj2@rpi.edu",
+        "phone": "518-276-6372"
+      },
+      "Tess Lecuyer": {
+        "title": "Administrative Coordinator",
+        "email": "lecuyt@rpi.edu",
+        "phone": "518-276-6373"
+      },
+      "Dan Lewis": {
+        "title": "Associate Professor",
+        "email": "lewisd2@rpi.edu",
+        "phone": "518-276-2297"
+      },
+      "Bishnu Majee": {
+        "title": "Postdoctoral Research Associate",
+        "email": "majeeb@rpi.edu",
+        "phone": "518-276-6372"
+      },
+      "Manichandra Morampudi": {
+        "title": "Research Scientist",
+        "email": "chandm6@rpi.edu",
+        "phone": "518-276-6372"
+      },
+      "Rahmi Ozisik": {
+        "title": "Associate Professor",
+        "email": "ozisik@rpi.edu",
+        "phone": "518-276-6786"
+      },
+      "Edmund Palermo": {
+        "title": "Associate Professor",
+        "email": "palere@rpi.edu",
+        "phone": "518-276-6124"
+      },
+      "Ganpati Ramanath": {
+        "title": "Professor",
+        "email": "ganapr@rpi.edu",
+        "phone": "518-276-6844"
+      },
+      "Jian Shi": {
+        "title": "Associate Professor",
+        "email": "shij4@rpi.edu",
+        "phone": "518-276-2904"
+      },
+      "Xiaowen Shi": {
+        "title": "Postdoctoral Research Associate",
+        "email": "shix4@rpi.edu",
+        "phone": "518-276-6372"
+      },
+      "Yunfeng Shi": {
+        "title": "Professor",
+        "email": "shiy2@rpi.edu",
+        "phone": "518-276-6729"
+      },
+      "Ravishankar Sundararaman": {
+        "title": "Associate Professor & Career Development Chair",
+        "email": "sundar@rpi.edu",
+        "phone": "518-276-6757"
+      },
+      "Liz Thornton": {
+        "title": "Administrative Specialist",
+        "email": "thorne3@rpi.edu",
+        "phone": "518-276-6372"
+      },
+      "Minoru Tomozawa": {
+        "title": "Professor",
+        "email": "tomozm@rpi.edu",
+        "phone": "518-276-6659"
+      },
+      "Chaitanya Ullal": {
+        "title": "Associate Professor",
+        "email": "ullalc@rpi.edu",
+        "phone": "518-276-3303"
+      },
+      "Venkat Venkataramani": {
+        "title": "Visiting Researcher",
+        "email": "venkav5@rpi.edu",
+        "phone": "518-276-6372"
+      },
+      "Chao Yang": {
+        "title": "Laboratory Manager",
+        "email": "yangc21@rpi.edu",
+        "phone": "518-276-4079"
+      }
+    },
+    "Mechanical, Aerospace and Nuclear Engineering": {
+      "Joe Adam": {
+        "title": "Postdoctoral Research Associate",
+        "email": "adamj2@rpi.edu",
+        "phone": "518-276-6351"
+      },
+      "Michael Amitay": {
+        "title": "Professor & Endowed Chair",
+        "email": "amitam@rpi.edu",
+        "phone": "518-276-4461"
+      },
+      "Kurt Anderson": {
+        "title": "Professor & Associate Dean",
+        "email": "anderk5@rpi.edu",
+        "phone": "518-276-6620"
+      },
+      "Bharat Bagepalli": {
+        "title": "Professor of Practice",
+        "email": "bagepb@rpi.edu",
+        "phone": "518-276-6217"
+      },
+      "Hunter Belanger": {
+        "title": "Visiting Researcher",
+        "email": "belanh2@rpi.edu",
+        "phone": "518-276-6351"
+      },
+      "Thierry Blanchet": {
+        "title": "Professor",
+        "email": "blanct@rpi.edu",
+        "phone": "518-276-8697"
+      },
+      "Diana Borca Tasciuc": {
+        "title": "Professor",
+        "email": "borcad@rpi.edu",
+        "phone": "518-276-3385"
+      },
+      "Theo Borca-Tasciuc": {
+        "title": "Professor",
+        "email": "borcat@rpi.edu",
+        "phone": "518-276-2627"
+      },
+      "Peter Brand": {
+        "title": "Director, Operations",
+        "email": "brandp@rpi.edu",
+        "phone": "518-276-6406"
+      },
+      "Michael Bretti": {
+        "title": "Research Support Engineer",
+        "email": "brettm3@rpi.edu",
+        "phone": "518-276-4020"
+      },
+      "Anirban Chandra": {
+        "title": "Visiting Researcher",
+        "email": "chanda8@rpi.edu",
+        "phone": "518-276-6351"
+      },
+      "Isaac Coffie": {
+        "title": "Academic Support Technician",
+        "email": "coffii@rpi.edu",
+        "phone": "518-276-3851"
+      },
+      "Yaron Danon": {
+        "title": "Professor and Director of  Gaerttner LINAC Laboratory",
+        "email": "danony@rpi.edu",
+        "phone": "518-276-4008"
+      },
+      "John Fava": {
+        "title": "Research Support Engineer",
+        "email": "favaj2@rpi.edu",
+        "phone": "518-276-6351"
+      },
+      "Sarah Felix": {
+        "title": "Professor of Practice",
+        "email": "felixs2@rpi.edu",
+        "phone": "518-276-4000"
+      },
+      "Etana Ferede": {
+        "title": "Lecturer",
+        "email": "ferede@rpi.edu",
+        "phone": "518-276-2854"
+      },
+      "Edwin Frank": {
+        "title": "Research Support Technician",
+        "email": "franke6@rpi.edu",
+        "phone": "518-276-6351"
+      },
+      "Farhan Gandhi": {
+        "title": "Professor & Endowed Chair",
+        "email": "gandhf@rpi.edu",
+        "phone": "518-276-3244"
+      },
+      "Asish Ghosh": {
+        "title": "Professor of Practice",
+        "email": "ghosha4@rpi.edu",
+        "phone": "518-276-3781"
+      },
+      "Matthew Gray": {
+        "title": "Research Support Technician, Sr.",
+        "email": "graym@rpi.edu",
+        "phone": "518-276-4004"
+      },
+      "Tom Haley": {
+        "title": "Professor of Practice",
+        "email": "haleyt2@rpi.edu",
+        "phone": "518-276-6975"
+      },
+      "Fudong Han": {
+        "title": "Asst Professor & Endowed Chair",
+        "email": "hanf2@rpi.edu",
+        "phone": "518-276-2573"
+      },
+      "Jason Hicken": {
+        "title": "Associate Professor",
+        "email": "hickej2@rpi.edu",
+        "phone": "518-276-4893"
+      },
+      "Amir Hirsa": {
+        "title": "Professor",
+        "email": "hirsaa@rpi.edu",
+        "phone": "518-276-6997"
+      },
+      "Allison Hoffman": {
+        "title": "Lecturer",
+        "email": "hoffma3@rpi.edu",
+        "phone": "518-276-6472"
+      },
+      "Kevin Housley": {
+        "title": "Lecturer",
+        "email": "houslk2@rpi.edu",
+        "phone": "518-276-2529"
+      },
+      "Joshua Hurst": {
+        "title": "Lecturer, Sr.",
+        "email": "hurstj2@rpi.edu",
+        "phone": "518-276-3947"
+      },
+      "Wei Ji": {
+        "title": "Professor",
+        "email": "jiw2@rpi.edu",
+        "phone": "518-276-6602"
+      },
+      "Kartik Josyula": {
+        "title": "Lecturer",
+        "email": "josyuk2@rpi.edu",
+        "phone": "518-276-6351"
+      },
+      "Hyun Kang": {
+        "title": "Professor",
+        "email": "kangh6@rpi.edu",
+        "phone": "518-276-8251"
+      },
+      "Azeddine Kerdoun": {
+        "title": "Research Support Technician, Sr.",
+        "email": "kerdoa2@rpi.edu",
+        "phone": "518-276-4004"
+      },
+      "Doyeon Kim": {
+        "title": "Visiting Researcher",
+        "email": "kimd27@rpi.edu",
+        "phone": "518-276-6351"
+      },
+      "Fotios Kopsaftopoulos": {
+        "title": "Assistant Professor",
+        "email": "kopsaf@rpi.edu",
+        "phone": "518-276-6439"
+      },
+      "Nikhil Koratkar": {
+        "title": "Professor & Endowed Chair",
+        "email": "koratn@rpi.edu",
+        "phone": "518-276-2630"
+      },
+      "Seung Jun Lee": {
+        "title": "Visiting Scholar/Adjunct",
+        "email": "lees39@rpi.edu",
+        "phone": "518-276-6351"
+      },
+      "Jie Lian": {
+        "title": "Professor",
+        "email": "lianj@rpi.edu",
+        "phone": "518-276-6081"
+      },
+      "Dan Lyles": {
+        "title": "Lecturer",
+        "email": "lylesd2@rpi.edu",
+        "phone": "518-276-6351"
+      },
+      "Beth Macey": {
+        "title": "Student Services Administrator, Sr.",
+        "email": "maceyb2@rpi.edu",
+        "phone": "518-276-2031"
+      },
+      "Bimal Malaviya": {
+        "title": "Professor",
+        "email": "malavb@rpi.edu",
+        "phone": "518-276-8578"
+      },
+      "Antoinette Maniatty": {
+        "title": "Professor & Acting Dept. Head",
+        "email": "maniaa@rpi.edu",
+        "phone": "518-276-6984"
+      },
+      "Brian Martindale": {
+        "title": "Research Support Technician",
+        "email": "martib5@rpi.edu",
+        "phone": "518-276-6351"
+      },
+      "Randy McDougall": {
+        "title": "Technical Manager",
+        "email": "mcdour@rpi.edu",
+        "phone": "518-276-2391"
+      },
+      "Susan Miller": {
+        "title": "Administrative Coordinator",
+        "email": "milles7@rpi.edu",
+        "phone": "518-276-6432"
+      },
+      "Kristen Mills": {
+        "title": "Associate Professor",
+        "email": "millsk2@rpi.edu",
+        "phone": "518-276-8390"
+      },
+      "Sandipan Mishra": {
+        "title": "Professor",
+        "email": "mishrs2@rpi.edu",
+        "phone": "518-276-2020"
+      },
+      "Jeff Morris": {
+        "title": "Lecturer",
+        "email": "morrij5@rpi.edu",
+        "phone": "518-276-2613"
+      },
+      "Shankar Narayan": {
+        "title": "Associate Professor",
+        "email": "narays5@rpi.edu",
+        "phone": "518-276-6988"
+      },
+      "Robert Niemiec": {
+        "title": "Lecturer",
+        "email": "niemir2@rpi.edu",
+        "phone": "518-276-2531"
+      },
+      "Matt Oehlschlaeger": {
+        "title": "Professor & Assoc. Dean",
+        "email": "oehlsm@rpi.edu",
+        "phone": "518-276-6626"
+      },
+      "James Olson": {
+        "title": "Lecturer, Sr.",
+        "email": "olsonj7@rpi.edu",
+        "phone": "518-276-2389"
+      },
+      "Karthik Panneerselvam": {
+        "title": "Lecturer",
+        "email": "pannek2@rpi.edu",
+        "phone": "518-276-2389"
+      },
+      "Shaowu Pan": {
+        "title": "Assistant Professor",
+        "email": "pans2@rpi.edu",
+        "phone": "518-276-6096"
+      },
+      "Ukwatte Lokuliyanage Indika Perera": {
+        "title": "Lecturer",
+        "email": "pereru2@rpi.edu",
+        "phone": "518-276-7133"
+      },
+      "Catalin Picu": {
+        "title": "Professor",
+        "email": "picuc@rpi.edu",
+        "phone": "518-276-2195"
+      },
+      "Malcolm Porterfield": {
+        "title": "Visiting Researcher",
+        "email": "portem6@rpi.edu",
+        "phone": "518-276-6351"
+      },
+      "Sama Rakhshan Pouri": {
+        "title": "Lecturer",
+        "email": "rakhss@rpi.edu",
+        "phone": "518-276-2854"
+      },
+      "Jason Reed": {
+        "title": "Academic Support Technician",
+        "email": "reedj8@rpi.edu",
+        "phone": "518-276-6158"
+      },
+      "Luiz Victor Repolho Cagliari": {
+        "title": "Lecturer",
+        "email": "repoll2@rpi.edu",
+        "phone": "518-276-2531"
+      },
+      "Onkar Sahni": {
+        "title": "Associate Professor",
+        "email": "sahni@rpi.edu",
+        "phone": "518-276-8560"
+      },
+      "Johnson Samuel": {
+        "title": "Associate Professor",
+        "email": "samuej2@rpi.edu",
+        "phone": "518-276-3682"
+      },
+      "Subrato Sarkar": {
+        "title": "Postdoctoral Research Associate",
+        "email": "sarkas6@rpi.edu",
+        "phone": "518-276-6351"
+      },
+      "Julia Schatz": {
+        "title": "Administrative Specialist",
+        "email": "schatj4@rpi.edu",
+        "phone": "518-276-6714"
+      },
+      "Ali Shahsavari": {
+        "title": "Lecturer",
+        "email": "shahsa3@rpi.edu",
+        "phone": "518-276-3287"
+      },
+      "Saurabh Sharma": {
+        "title": "Postdoctoral Research Associate",
+        "email": "sharms8@rpi.edu",
+        "phone": "518-276-6351"
+      },
+      "Shanbin Shi": {
+        "title": "Assistant Professor",
+        "email": "shis3@rpi.edu",
+        "phone": "518-276-8406"
+      },
+      "Sandeep Singh": {
+        "title": "Assistant Professor",
+        "email": "sandes5@rpi.edu",
+        "phone": "518-276-2625"
+      },
+      "Kate Stockton": {
+        "title": "Student Services Administrator, Sr.",
+        "email": "stockk@rpi.edu",
+        "phone": "518-276-3014"
+      },
+      "Keith Taylor": {
+        "title": "Lecturer",
+        "email": "taylok5@rpi.edu",
+        "phone": "518-276-4406"
+      },
+      "Jason Thompson": {
+        "title": "Reactor Operator, Sr.",
+        "email": "thompj11@rpi.edu",
+        "phone": "518-276-6351"
+      },
+      "John Tichy": {
+        "title": "Professor",
+        "email": "tichyj@rpi.edu",
+        "phone": "518-276-6986"
+      },
+      "Catie Truscello": {
+        "title": "Administrative Specialist",
+        "email": "truscc@rpi.edu",
+        "phone": "518-276-6521"
+      },
+      "Daniel Walczyk": {
+        "title": "Professor & Center Director",
+        "email": "walczd@rpi.edu",
+        "phone": "518-276-2397"
+      },
+      "Fred Willett": {
+        "title": "Professor of Practice",
+        "email": "willef2@rpi.edu",
+        "phone": "518-276-6978"
+      },
+      "Lucy Zhang": {
+        "title": "Professor",
+        "email": "zhangl12@rpi.edu",
+        "phone": "518-276-6914"
+      }
+    }
+  },
+  "School of Humanities, Arts and  Social Sciences (HASS)": {
+    "Arts": {
+      "David Bebe": {
+        "title": "Adjunct",
+        "email": "bebed@rpi.edu",
+        "phone": "518-276-4778"
+      },
+      "Rebecca Benjamin": {
+        "title": "Performer",
+        "email": "benjar2@rpi.edu",
+        "phone": "518-276-4778"
+      },
+      "Patrick Burke": {
+        "title": "",
+        "email": "burkep4@rpi.edu",
+        "phone": "518-276-4778"
+      },
+      "Michael Century": {
+        "title": "Professor",
+        "email": "century@rpi.edu",
+        "phone": "518-276-2302"
+      },
+      "Paul Cronin": {
+        "title": "Life Model",
+        "email": "cronip@rpi.edu",
+        "phone": "518-276-4778"
+      },
+      "Christopher Fisher-Lochhead": {
+        "title": "Lecturer",
+        "email": "fishec5@rpi.edu",
+        "phone": "518-276-4778"
+      },
+      "Mark Foster": {
+        "title": "Adjunct",
+        "email": "fostem6@rpi.edu",
+        "phone": "518-276-4778"
+      },
+      "Kathleen Galloway": {
+        "title": "Assistant Professor",
+        "email": "gallok2@rpi.edu",
+        "phone": "518-276-4778"
+      },
+      "Matthew Goodheart": {
+        "title": "Assistant Professor",
+        "email": "goodhm@rpi.edu",
+        "phone": "518-276-3361"
+      },
+      "Rob Hamilton": {
+        "title": "Associate Professor",
+        "email": "hamilr4@rpi.edu",
+        "phone": "518-276-4778"
+      },
+      "Kathy High": {
+        "title": "Professor",
+        "email": "highk@rpi.edu",
+        "phone": "518-276-4813"
+      },
+      "Monica Hughes": {
+        "title": "Adjunct",
+        "email": "hughem7@rpi.edu",
+        "phone": "518-276-4778"
+      },
+      "Jenny Kemp": {
+        "title": "Lecturer",
+        "email": "kempj@rpi.edu",
+        "phone": "518-276-4778"
+      },
+      "Stephanie Loveless": {
+        "title": "Lecturer",
+        "email": "lovels3@rpi.edu",
+        "phone": "518-276-4778"
+      },
+      "Nathan Meltz": {
+        "title": "Lecturer, Sr.",
+        "email": "meltzn@rpi.edu",
+        "phone": "518-276-3871"
+      },
+      "Maria Michails-Posidis": {
+        "title": "Visiting Researcher",
+        "email": "micham8@rpi.edu",
+        "phone": "518-276-4778"
+      },
+      "Branda Miller": {
+        "title": "Professor",
+        "email": "milleb@rpi.edu",
+        "phone": "518-276-4783"
+      },
+      "Jamecyn Morey": {
+        "title": "Performer",
+        "email": "moreyj@rpi.edu",
+        "phone": "518-276-4778"
+      },
+      "Chrysi Nanou": {
+        "title": "Adjunct",
+        "email": "nanouc@rpi.edu",
+        "phone": "518-276-4778"
+      },
+      "Robert Nideffer": {
+        "title": "Professor",
+        "email": "nidefr@rpi.edu",
+        "phone": "518-276-2371"
+      },
+      "Elizabeth Press": {
+        "title": "Lecturer",
+        "email": "presse2@rpi.edu",
+        "phone": "518-276-4778"
+      },
+      "Paul Quigley": {
+        "title": "Adjunct",
+        "email": "quiglp@rpi.edu",
+        "phone": "518-276-4778"
+      },
+      "Kenneth Ragsdale": {
+        "title": "Lecturer, Sr.",
+        "email": "ragsdk@rpi.edu",
+        "phone": "518-276-3870"
+      },
+      "Ross Rice": {
+        "title": "Lecturer",
+        "email": "ricer3@rpi.edu",
+        "phone": "518-276-4778"
+      },
+      "Kathleen Ruiz": {
+        "title": "Associate Professor",
+        "email": "ruiz@rpi.edu",
+        "phone": "518-276-2539"
+      },
+      "Silvia Ruzanka": {
+        "title": "Assistant Professor",
+        "email": "ruzans@rpi.edu",
+        "phone": "518-276-3856"
+      },
+      "Seth Schwartzbach": {
+        "title": "Life Model",
+        "email": "schwas4@rpi.edu",
+        "phone": "518-276-4778"
+      },
+      "Mary Anne Staniszewski": {
+        "title": "Associate Professor",
+        "email": "stanim@rpi.edu",
+        "phone": "518-276-2544"
+      },
+      "Matthew Steckler": {
+        "title": "Adjunct",
+        "email": "steckm@rpi.edu",
+        "phone": "518-276-4778"
+      },
+      "Laura Teeter": {
+        "title": "Life Model",
+        "email": "teetel2@rpi.edu",
+        "phone": "518-276-4778"
+      },
+      "Carolyn Tennant": {
+        "title": "",
+        "email": "tennac3@rpi.edu",
+        "phone": "518-276-4778"
+      },
+      "Jingwen Tu": {
+        "title": "Adjunct",
+        "email": "tuj3@rpi.edu",
+        "phone": "518-276-4778"
+      },
+      "Igor Vamos": {
+        "title": "Professor & Department Head",
+        "email": "vamosi@rpi.edu",
+        "phone": "518-276-4778"
+      },
+      "Z\u00e9 Wille Kielwagen": {
+        "title": "Lecturer",
+        "email": "willej2@rpi.edu",
+        "phone": "518-276-4778"
+      },
+      "Jillian Willis": {
+        "title": "Lecturer",
+        "email": "willij28@rpi.edu",
+        "phone": "518-276-4778"
+      },
+      "Akina Yura": {
+        "title": "Adjunct",
+        "email": "yuraa@rpi.edu",
+        "phone": "518-276-4778"
+      }
+    },
+    "Cognitive Science": {
+      "Eric Ameres": {
+        "title": "Lecturer, Sr.",
+        "email": "ameree@rpi.edu",
+        "phone": "518-276-4408"
+      },
+      "Gunnar Babcock": {
+        "title": "Lecturer",
+        "email": "babcog@rpi.edu",
+        "phone": "518-276-6472"
+      },
+      "Selmer Bringsjord": {
+        "title": "Professor",
+        "email": "brings@rpi.edu",
+        "phone": "518-276-8105"
+      },
+      "Jesse English": {
+        "title": "Research Scientist, Sr.",
+        "email": "englij2@rpi.edu",
+        "phone": "518-276-6472"
+      },
+      "Brett Fajen": {
+        "title": "Professor & Assoc. Dean",
+        "email": "fajenb@rpi.edu",
+        "phone": "518-276-8266"
+      },
+      "Wayne Gray": {
+        "title": "Professor",
+        "email": "grayw@rpi.edu",
+        "phone": "518-276-3315"
+      },
+      "Jason Jacobskind": {
+        "title": "Lecturer",
+        "email": "jacobj9@rpi.edu",
+        "phone": "518-276-6472"
+      },
+      "Joseph Markowski": {
+        "title": "Lecturer",
+        "email": "markoj4@rpi.edu",
+        "phone": "518-276-6472"
+      },
+      "Marjorie McShane": {
+        "title": "Professor",
+        "email": "mcsham2@rpi.edu",
+        "phone": "518-276-3885"
+      },
+      "John Milanese": {
+        "title": "Lecturer",
+        "email": "milanj3@rpi.edu",
+        "phone": "518-276-8645"
+      },
+      "Sam Miller": {
+        "title": "Lecturer",
+        "email": "milles40@rpi.edu",
+        "phone": "518-276-6472"
+      },
+      "Sergei Nirenburg": {
+        "title": "Professor & Department Head",
+        "email": "nirens@rpi.edu",
+        "phone": "518-276-3880"
+      },
+      "Ralph Noble": {
+        "title": "Associate Professor",
+        "email": "nobler@rpi.edu",
+        "phone": "518-276-6493"
+      },
+      "Larry Reid": {
+        "title": "Professor",
+        "email": "reidl@rpi.edu",
+        "phone": "518-276-8270"
+      },
+      "Ning Sa": {
+        "title": "Postdoctoral Research Associate",
+        "email": "san2@rpi.edu",
+        "phone": "518-276-6472"
+      },
+      "Mei Si": {
+        "title": "Associate Professor",
+        "email": "sim@rpi.edu",
+        "phone": "518-276-3788"
+      },
+      "Christopher Sims": {
+        "title": "Assistant Professor",
+        "email": "simsc3@rpi.edu",
+        "phone": "518-276-3879"
+      },
+      "Susan Smith": {
+        "title": "Lecturer",
+        "email": "smiths27@rpi.edu",
+        "phone": "518-276-3881"
+      },
+      "Tomek Strzalkowski": {
+        "title": "Professor",
+        "email": "tomek@rpi.edu",
+        "phone": "518-276-8101"
+      },
+      "Ron Sun": {
+        "title": "Professor",
+        "email": "sunr@rpi.edu",
+        "phone": "518-276-3409"
+      },
+      "Daniel Thero": {
+        "title": "Lecturer",
+        "email": "therod@rpi.edu",
+        "phone": "518-276-8102"
+      },
+      "Holly Traver": {
+        "title": "Lecturer",
+        "email": "traveh@rpi.edu",
+        "phone": "518-276-8272"
+      },
+      "Bram Van Heuveln": {
+        "title": "Lecturer",
+        "email": "heuveb@rpi.edu",
+        "phone": "518-276-3316"
+      },
+      "Alicia Walf": {
+        "title": "Lecturer, Sr.",
+        "email": "walfa@rpi.edu",
+        "phone": "518-276-3840"
+      },
+      "Benjamin Weissman": {
+        "title": "Lecturer",
+        "email": "weissb2@rpi.edu",
+        "phone": "518-276-3318"
+      },
+      "Yingrui Yang": {
+        "title": "Associate Professor",
+        "email": "yangyri@rpi.edu",
+        "phone": "518-276-8273"
+      }
+    },
+    "Communication and Media": {
+      "Skye Anicca": {
+        "title": "Lecturer",
+        "email": "aniccs@rpi.edu",
+        "phone": ""
+      },
+      "Simona Bortis-Schultz": {
+        "title": "Adjunct",
+        "email": "bortis@rpi.edu",
+        "phone": ""
+      },
+      "Jami Cotler": {
+        "title": "",
+        "email": "cotlej3@rpi.edu",
+        "phone": ""
+      },
+      "June Deery": {
+        "title": "Professor & Department Head",
+        "email": "deeryj@rpi.edu",
+        "phone": "518-276-4047"
+      },
+      "Joe Donahue": {
+        "title": "",
+        "email": "donahj5@rpi.edu",
+        "phone": ""
+      },
+      "Sam Estabrooks": {
+        "title": "Lecturer",
+        "email": "estabs@rpi.edu",
+        "phone": ""
+      },
+      "Andrew Fitzgerald": {
+        "title": "Assistant Professor",
+        "email": "fitzga2@rpi.edu",
+        "phone": ""
+      },
+      "Tamar Gordon": {
+        "title": "Acting Department Head & Associate Professor",
+        "email": "gordot@rpi.edu",
+        "phone": "518-276-8121"
+      },
+      "Anita Greenfield": {
+        "title": "",
+        "email": "greena15@rpi.edu",
+        "phone": ""
+      },
+      "Carolin Hofmann": {
+        "title": "Lecturer",
+        "email": "hofmac@rpi.edu",
+        "phone": ""
+      },
+      "Thomas Ingram": {
+        "title": "Adjunct",
+        "email": "ingrat@rpi.edu",
+        "phone": ""
+      },
+      "Cristina James": {
+        "title": "Lecturer",
+        "email": "jamesc5@rpi.edu",
+        "phone": ""
+      },
+      "Christopher Jeansonne": {
+        "title": "Lecturer",
+        "email": "jeansc@rpi.edu",
+        "phone": ""
+      },
+      "Miles Kimball": {
+        "title": "Professor",
+        "email": "kimbam2@rpi.edu",
+        "phone": "518-276-8264"
+      },
+      "Weina Ran": {
+        "title": "Lecturer",
+        "email": "ranw@rpi.edu",
+        "phone": ""
+      },
+      "Patricia Search": {
+        "title": "Professor & Director, COMM&D",
+        "email": "searcp@rpi.edu",
+        "phone": "518-276-6470"
+      },
+      "Sara Tack": {
+        "title": "Lecturer",
+        "email": "tacks2@rpi.edu",
+        "phone": "518-276-6387"
+      },
+      "Lorelei Wagner": {
+        "title": "Adjunct",
+        "email": "wagnel2@rpi.edu",
+        "phone": ""
+      },
+      "Jianling Yue": {
+        "title": "Lecturer",
+        "email": "yuej2@rpi.edu",
+        "phone": "518-276-3866"
+      },
+      "Helen Zhou": {
+        "title": "Associate Professor",
+        "email": "zhouy12@rpi.edu",
+        "phone": "518-276-3867"
+      }
+    },
+    "Economics": {
+      "Billur Aksoy": {
+        "title": "Assistant Professor",
+        "email": "aksoyb3@rpi.edu",
+        "phone": ""
+      },
+      "Ian Chadd": {
+        "title": "Assistant Professor",
+        "email": "chaddi@rpi.edu",
+        "phone": ""
+      },
+      "Rui Fan": {
+        "title": "Assistant Professor",
+        "email": "fanr5@rpi.edu",
+        "phone": ""
+      },
+      "Vivek Ghosal": {
+        "title": "Professor & Department Head",
+        "email": "ghosav@rpi.edu",
+        "phone": ""
+      },
+      "Sarah Greene": {
+        "title": "Lecturer",
+        "email": "parras2@rpi.edu",
+        "phone": "518-276-6413"
+      },
+      "Jason Huh": {
+        "title": "Assistant Professor",
+        "email": "huhj2@rpi.edu",
+        "phone": ""
+      },
+      "Robert Jones": {
+        "title": "Lecturer",
+        "email": "jonesr2@rpi.edu",
+        "phone": "518-276-4773"
+      },
+      "Michael Klein": {
+        "title": "Assistant Professor",
+        "email": "kleinm5@rpi.edu",
+        "phone": ""
+      },
+      "Conor Lennon": {
+        "title": "Associate Professor",
+        "email": "lennoc@rpi.edu",
+        "phone": ""
+      },
+      "Jianjing Lin": {
+        "title": "",
+        "email": "linj17@rpi.edu",
+        "phone": ""
+      },
+      "Mina Mahmoudi": {
+        "title": "Lecturer",
+        "email": "mahmom2@rpi.edu",
+        "phone": ""
+      },
+      "Huaming Peng": {
+        "title": "Lecturer",
+        "email": "pengh5@rpi.edu",
+        "phone": ""
+      },
+      "Ken Simons": {
+        "title": "Associate Professor",
+        "email": "simonk@rpi.edu",
+        "phone": "518-276-3296"
+      },
+      "Prakrati Thakur": {
+        "title": "Assistant Professor",
+        "email": "thakup@rpi.edu",
+        "phone": ""
+      }
+    },
+    "GSAS": {
+      "Benjamin Chang": {
+        "title": "Professor",
+        "email": "changb3@rpi.edu",
+        "phone": "518-276-2366"
+      },
+      "Nicholas Mizer": {
+        "title": "Lecturer",
+        "email": "mizern@rpi.edu",
+        "phone": ""
+      },
+      "Cassandra Sammartano": {
+        "title": "Adjunct",
+        "email": "sammac@rpi.edu",
+        "phone": ""
+      },
+      "Darian Shump": {
+        "title": "Administrative Coordinator",
+        "email": "shumpd@rpi.edu",
+        "phone": ""
+      },
+      "Nina Stanley": {
+        "title": "",
+        "email": "stanln2@rpi.edu",
+        "phone": ""
+      },
+      "Maurice Suckling": {
+        "title": "Assistant Professor",
+        "email": "sucklm@rpi.edu",
+        "phone": ""
+      }
+    },
+    "Science and Technology Studies": {
+      "Nancy Campbell": {
+        "title": "Professor & Department Head",
+        "email": "campbn2@rpi.edu",
+        "phone": "518-276-6065"
+      },
+      "Jennifer Cardinal": {
+        "title": "Lecturer",
+        "email": "cardij3@rpi.edu",
+        "phone": "518-276-2659"
+      },
+      "Brandon Costelloe-Kuehn": {
+        "title": "Lecturer",
+        "email": "costeb2@rpi.edu",
+        "phone": "518-276-6387"
+      },
+      "Abby Kinchy": {
+        "title": "Professor",
+        "email": "kincha@rpi.edu",
+        "phone": "518-276-6980"
+      },
+      "James Malazita": {
+        "title": "Assistant Professor",
+        "email": "malazj@rpi.edu",
+        "phone": "518-276-2659"
+      },
+      "Jarrett Rose": {
+        "title": "Lecturer",
+        "email": "rosej4@rpi.edu",
+        "phone": "518-276-2659"
+      },
+      "Patrick Royer": {
+        "title": "Adjunct",
+        "email": "royerp2@rpi.edu",
+        "phone": "518-276-2659"
+      },
+      "Eric Schaffer": {
+        "title": "Lecturer",
+        "email": "schafe2@rpi.edu",
+        "phone": "518-276-2659"
+      },
+      "Brian Tolle": {
+        "title": "Lecturer, Sr.",
+        "email": "tolleb3@rpi.edu",
+        "phone": "518-276-2659"
+      },
+      "Christopher Tozzi": {
+        "title": "Lecturer, Sr.",
+        "email": "tozzic@rpi.edu",
+        "phone": "518-276-2659"
+      },
+      "Raquel Velho": {
+        "title": "Assistant Professor",
+        "email": "velhor@rpi.edu",
+        "phone": "518-276-2659"
+      }
+    }
+  },
+  "School of Science": {
+    "Biocatalysis & Metabolic Engineerging Constellation": {
+      "Manish Rai": {
+        "title": "Postdoctoral Research Associate",
+        "email": "raim@rpi.edu",
+        "phone": ""
+      },
+      "Ashmeet Singh": {
+        "title": "Postdoctoral Research Associate",
+        "email": "singha17@rpi.edu",
+        "phone": ""
+      }
+    },
+    "Biological Sciences": {
+      "Blanca Barquera": {
+        "title": "Professor",
+        "email": "barqub@rpi.edu",
+        "phone": "518-276-3861"
+      },
+      "Marvin Bentley": {
+        "title": "Assistant Professor",
+        "email": "bentlm3@rpi.edu",
+        "phone": "518-276-2166"
+      },
+      "Richard Bonocora": {
+        "title": "Lecturer, Sr.",
+        "email": "bonocr@rpi.edu",
+        "phone": "518-276-6446"
+      },
+      "Chris Bystroff": {
+        "title": "Professor",
+        "email": "bystrc@rpi.edu",
+        "phone": "518-276-3185"
+      },
+      "Keylon Cheeseman": {
+        "title": "Adjunct",
+        "email": "cheesk@rpi.edu",
+        "phone": "518-276-6446"
+      },
+      "Dallas Dudley": {
+        "title": "Administrative Coordinator",
+        "email": "dudled@rpi.edu",
+        "phone": "518-276-2808"
+      },
+      "Jeremy Farrell": {
+        "title": "Lecturer, Sr.",
+        "email": "farrej2@rpi.edu",
+        "phone": "518-276-4342"
+      },
+      "Scott Forth": {
+        "title": "Assistant Professor",
+        "email": "forths@rpi.edu",
+        "phone": "518-276-8288"
+      },
+      "Keith Fraser": {
+        "title": "Lecturer, Sr.",
+        "email": "frasek2@rpi.edu",
+        "phone": "518-276-2143"
+      },
+      "Susan Gilbert": {
+        "title": "Professor & Department Head",
+        "email": "gilbes2@rpi.edu",
+        "phone": "518-276-4415"
+      },
+      "Lauren Hartman": {
+        "title": "Student Services Administrator, Sr.",
+        "email": "hartml2@rpi.edu",
+        "phone": "518-276-3987"
+      },
+      "Darrin Hunt": {
+        "title": "Lecturer",
+        "email": "huntd6@rpi.edu",
+        "phone": "518-276-6446"
+      },
+      "Jennifer Hurley": {
+        "title": "Associate Professor",
+        "email": "hurlej2@rpi.edu",
+        "phone": "518-276-8458"
+      },
+      "Michael Klein": {
+        "title": "Lecturer",
+        "email": "kleinm6@rpi.edu",
+        "phone": "518-276-3299"
+      },
+      "Lee Ligon": {
+        "title": "Assoc. Prof. & Assoc. Dean",
+        "email": "ligonl@rpi.edu",
+        "phone": "518-276-3458"
+      },
+      "George Makhatadze": {
+        "title": "Professor & Assoc. Dept. Head",
+        "email": "makhag@rpi.edu",
+        "phone": "518-276-4417"
+      },
+      "Kripa Nidhana Nand": {
+        "title": "Research Associate",
+        "email": "nandk@rpi.edu",
+        "phone": "518-276-6446"
+      },
+      "Sandra Nierzwicki-Bauer": {
+        "title": "Director of DFWI & Professor",
+        "email": "nierzs@rpi.edu",
+        "phone": "518-276-2359"
+      },
+      "Jinal Patel": {
+        "title": "Postdoctoral Research Associate",
+        "email": "patelj7@rpi.edu",
+        "phone": "518-276-6446"
+      },
+      "Gerri Quinones": {
+        "title": "Research Specialist, Sr.",
+        "email": "quinog@rpi.edu",
+        "phone": "518-276-4175"
+      },
+      "Seemanti Ramanath": {
+        "title": "Lecturer",
+        "email": "ramans@rpi.edu",
+        "phone": "518-276-8338"
+      },
+      "Kevin Rose": {
+        "title": "Associate Professor",
+        "email": "rosek4@rpi.edu",
+        "phone": "518-276-8288"
+      },
+      "Catherine Royer": {
+        "title": "Prof. & Constellation Chair",
+        "email": "royerc@rpi.edu",
+        "phone": "518-276-3796"
+      },
+      "Eric Rutledge": {
+        "title": "Lecturer, Sr.",
+        "email": "rutlee@rpi.edu",
+        "phone": "518-276-3311"
+      },
+      "Georgi Shablovsky": {
+        "title": "Course Developer",
+        "email": "shablg@rpi.edu",
+        "phone": "518-892-9592"
+      },
+      "Jonathan Stetler": {
+        "title": "Lecturer",
+        "email": "stetlj2@rpi.edu",
+        "phone": "518-276-2359"
+      },
+      "Doug Swank": {
+        "title": "Professor",
+        "email": "swankd@rpi.edu",
+        "phone": "518-276-4174"
+      },
+      "Chunyu Wang": {
+        "title": "Professor",
+        "email": "wangc5@rpi.edu",
+        "phone": "518-276-3497"
+      }
+    },
+    "Chemistry and Chemical Biology": {
+      "Codie Addington": {
+        "title": "Equipment & Inventory Technician",
+        "email": "addinc@rpi.edu",
+        "phone": "518-276-8474"
+      },
+      "Chulsung Bae": {
+        "title": "Professor",
+        "email": "baec@rpi.edu",
+        "phone": "518-276-3783"
+      },
+      "Amgalanbaatar Baldansuren": {
+        "title": "Lecturer",
+        "email": "baldaa@rpi.edu",
+        "phone": "518-276-6456"
+      },
+      "Peter J.  Bonitatibus": {
+        "title": "Professor of Practice",
+        "email": "bonitp2@rpi.edu",
+        "phone": "518-276-2085"
+      },
+      "Yasin Brown": {
+        "title": "Equipment & Inventory Technician",
+        "email": "browny@rpi.edu",
+        "phone": "518-276-6774"
+      },
+      "Christopher Cioffi": {
+        "title": "Assoc. Prof & Endowed Chair",
+        "email": "cioffc4@rpi.edu",
+        "phone": "518-276-6456"
+      },
+      "Wilfredo Colon": {
+        "title": "Professor & Department Head",
+        "email": "colonw@rpi.edu",
+        "phone": "518-276-2515"
+      },
+      "Peter Dinolfo": {
+        "title": "Assoc. Prof. & Assoc. Head",
+        "email": "dinolp@rpi.edu",
+        "phone": "518-276-2326"
+      },
+      "Cody Edson": {
+        "title": "Lecturer",
+        "email": "edsonc2@rpi.edu",
+        "phone": "518-276-6456"
+      },
+      "Keith Fraga": {
+        "title": "Postdoctoral Research Associate",
+        "email": "fragak2@rpi.edu",
+        "phone": "518-276-6456"
+      },
+      "Sharon Gardner": {
+        "title": "Administrative Coordinator",
+        "email": "derris@rpi.edu",
+        "phone": "518-276-2140"
+      },
+      "Richard Gross": {
+        "title": "Professor & Constell. Chair",
+        "email": "grossr@rpi.edu",
+        "phone": "518-276-3734"
+      },
+      "Kassie Hooker": {
+        "title": "Project Administrator",
+        "email": "hookek@rpi.edu",
+        "phone": "518-276-4825"
+      },
+      "Md Anarul Hoque": {
+        "title": "Postdoctoral Research Associate",
+        "email": "hoquem@rpi.edu",
+        "phone": "518-276-6456"
+      },
+      "Srinivasan Jayakumar": {
+        "title": "Postdoctoral Research Associate",
+        "email": "jayaks@rpi.edu",
+        "phone": "518-276-6456"
+      },
+      "Kristin Johnson": {
+        "title": "Assistant Professor",
+        "email": "johnsk28@rpi.edu",
+        "phone": "518-276-6625"
+      },
+      "Margarita Kirova-Snover": {
+        "title": "Lecturer",
+        "email": "kirovm@rpi.edu",
+        "phone": "518-276-3828"
+      },
+      "Gerald Korenowski": {
+        "title": "Professor",
+        "email": "koreng@rpi.edu",
+        "phone": "518-276-8480"
+      },
+      "K. V. Lakshmi": {
+        "title": "Professor",
+        "email": "lakshk@rpi.edu",
+        "phone": "518-276-3271"
+      },
+      "John Leman": {
+        "title": "Research Scientist",
+        "email": "lemanj@rpi.edu",
+        "phone": "518-276-6456"
+      },
+      "Alexander Ma": {
+        "title": "Lecturer, Sr.",
+        "email": "maa4@rpi.edu",
+        "phone": "518-276-3930"
+      },
+      "Gaetano Montelione": {
+        "title": "Prof. & Constellation Chair",
+        "email": "monteg3@rpi.edu",
+        "phone": "518-276-6456"
+      },
+      "Kathleen Morrissey": {
+        "title": "Laboratory Manager",
+        "email": "morrik8@rpi.edu",
+        "phone": "518-276-4863"
+      },
+      "Arunan Palanimuthu": {
+        "title": "Postdoctoral Research Associate",
+        "email": "palana@rpi.edu",
+        "phone": "518-276-6456"
+      },
+      "Nick Platts": {
+        "title": "Lecturer",
+        "email": "platts2@rpi.edu",
+        "phone": "518-276-6456"
+      },
+      "Geetu Sharma": {
+        "title": "Lecturer",
+        "email": "sharmg4@rpi.edu",
+        "phone": "518-276-6456"
+      },
+      "Jacob Shelley": {
+        "title": "Assistant Professor",
+        "email": "shellj@rpi.edu",
+        "phone": "518-276-8173"
+      },
+      "Liz Sprague": {
+        "title": "Lecturer, Sr.",
+        "email": "sprage@rpi.edu",
+        "phone": "518-276-2115"
+      },
+      "Filbert Totsingan": {
+        "title": "Lecturer",
+        "email": "totsif@rpi.edu",
+        "phone": "518-276-8648"
+      },
+      "Steven Tysoe": {
+        "title": "Lecturer",
+        "email": "tysoes@rpi.edu",
+        "phone": "518-276-6456"
+      }
+    },
+    "Computer Science": {
+      "Sibel Adali": {
+        "title": "Professor & Assoc. Dean",
+        "email": "adalis@rpi.edu",
+        "phone": "518-276-8047"
+      },
+      "Elliot Anshelevich": {
+        "title": "Professor",
+        "email": "anshee@rpi.edu",
+        "phone": "518-276-6491"
+      },
+      "Aimee Becker": {
+        "title": "Student Services Administrator, Sr.",
+        "email": "beckea3@rpi.edu",
+        "phone": "518-276-8326"
+      },
+      "Shannon Carrothers": {
+        "title": "Administrative Coordinator",
+        "email": "bornts@rpi.edu",
+        "phone": "518-276-8291"
+      },
+      "Barbara Cutler": {
+        "title": "Associate Professor",
+        "email": "cutleb@rpi.edu",
+        "phone": "518-276-3274"
+      },
+      "Jianxi Gao": {
+        "title": "Associate Professor",
+        "email": "gaoj8@rpi.edu",
+        "phone": "518-276-6861"
+      },
+      "Alex Gittens": {
+        "title": "Assistant Professor",
+        "email": "gittea@rpi.edu",
+        "phone": "518-276-6476"
+      },
+      "David Goldschmidt": {
+        "title": "Lecturer, Sr.",
+        "email": "goldsd3@rpi.edu",
+        "phone": "518-276-2819"
+      },
+      "Tracy Hoffman": {
+        "title": "Student Services Administrator, Sr.",
+        "email": "morizt@rpi.edu",
+        "phone": "518-276-8419"
+      },
+      "Shianne Hulbert": {
+        "title": "Instrutional Support Coordinator",
+        "email": "hulbes@rpi.edu",
+        "phone": "518-276-6911"
+      },
+      "Radoslav Ivanov": {
+        "title": "Assistant Professor",
+        "email": "ivanor@rpi.edu",
+        "phone": "518-276-8326"
+      },
+      "Konstantin Kuzmin": {
+        "title": "Lecturer",
+        "email": "kuzmik2@rpi.edu",
+        "phone": "518-276-2609"
+      },
+      "Malik Magdon-Ismail": {
+        "title": "Professor",
+        "email": "magdon@rpi.edu",
+        "phone": "518-276-4857"
+      },
+      "Deborah McGuinness": {
+        "title": "Sr. Constellation Prof. of Tetherless World Res. Constellation",
+        "email": "mcguid@rpi.edu",
+        "phone": "518-276-4404"
+      },
+      "Ana Milanova": {
+        "title": "Associate Professor",
+        "email": "milana2@rpi.edu",
+        "phone": "518-276-6887"
+      },
+      "Uzma Mushtaque": {
+        "title": "Lecturer",
+        "email": "mushtu@rpi.edu",
+        "phone": "518-276-2712"
+      },
+      "Stacy Patterson": {
+        "title": "Associate Professor",
+        "email": "pattes3@rpi.edu",
+        "phone": "518-276-2054"
+      },
+      "Jasmine Plum": {
+        "title": "Lecturer",
+        "email": "holzbh2@rpi.edu",
+        "phone": "518-276-6716"
+      },
+      "Meaghan Potter": {
+        "title": "Student Services Administrator, Sr.",
+        "email": "molinm2@rpi.edu",
+        "phone": "518-276-8610"
+      },
+      "Oshani Seneviratne": {
+        "title": "Assistant Professor",
+        "email": "senevo@rpi.edu",
+        "phone": "518-276-8326"
+      },
+      "Manan Shukla": {
+        "title": "Research Specialist",
+        "email": "shuklm2@rpi.edu",
+        "phone": "518-276-8326"
+      },
+      "George Slota": {
+        "title": "Assistant Professor",
+        "email": "slotag@rpi.edu",
+        "phone": "518-276-8265"
+      },
+      "Chuck Stewart": {
+        "title": "Professor & Department Head",
+        "email": "stewart@rpi.edu",
+        "phone": "518-276-6731"
+      },
+      "John Sturman": {
+        "title": "Lecturer",
+        "email": "sturmj@rpi.edu",
+        "phone": "518-276-8326"
+      },
+      "Bolek Szymanski": {
+        "title": "Claire & Roland Schmitt Distinguished Prof. of Computer Science",
+        "email": "szymab@rpi.edu",
+        "phone": "518-276-6838"
+      },
+      "Wes Turner": {
+        "title": "Lecturer, Sr.",
+        "email": "turnew2@rpi.edu",
+        "phone": "518-276-8184"
+      },
+      "Carlos Varela": {
+        "title": "Professor",
+        "email": "varelc@rpi.edu",
+        "phone": "518-276-6912"
+      },
+      "Lirong Xia": {
+        "title": "Associate Professor",
+        "email": "xial@rpi.edu",
+        "phone": "518-276-6720"
+      },
+      "Jidong Xiao": {
+        "title": "",
+        "email": "xiaoj8@rpi.edu",
+        "phone": "518-276-8326"
+      },
+      "Bulent Yener": {
+        "title": "Professor",
+        "email": "yener@rpi.edu",
+        "phone": "518-276-6907"
+      },
+      "Lei Yu": {
+        "title": "Assistant Professor",
+        "email": "yul9@rpi.edu",
+        "phone": "518-276-8326"
+      },
+      "Mohammed Zaki": {
+        "title": "Professor & Department Head",
+        "email": "zakim@rpi.edu",
+        "phone": "518-276-6340"
+      },
+      "Lu Zhong": {
+        "title": "Postdoctoral Research Associate",
+        "email": "zhongl2@rpi.edu",
+        "phone": "518-276-8326"
+      }
+    },
+    "Earth and Environmental Sciences": {
+      "Sarah Cadieux": {
+        "title": "Lecturer",
+        "email": "cadies@rpi.edu",
+        "phone": "518-276-6474"
+      },
+      "Daniele Cherniak": {
+        "title": "Visiting Researcher",
+        "email": "chernd@rpi.edu",
+        "phone": "518-276-8827"
+      },
+      "Jennifer Gorce": {
+        "title": "Laboratory Manager",
+        "email": "gorcej@rpi.edu",
+        "phone": "518-276-6474"
+      },
+      "Michelle Kolota": {
+        "title": "Administrative Coordinator",
+        "email": "kolotm@rpi.edu",
+        "phone": "518-276-6474"
+      },
+      "Andrea Paz Navarro Aranguiz": {
+        "title": "Visiting Scholar/Adjunct",
+        "email": "navara3@rpi.edu",
+        "phone": "518-276-6474"
+      },
+      "Steven Roecker": {
+        "title": "Professor",
+        "email": "roecks@rpi.edu",
+        "phone": "518-276-6773"
+      },
+      "Karyn Rogers": {
+        "title": "Associate Professor",
+        "email": "rogerk5@rpi.edu",
+        "phone": "518-276-2372"
+      },
+      "Morgan Schaller": {
+        "title": "Associate Professor",
+        "email": "schall@rpi.edu",
+        "phone": "518-276-3358"
+      },
+      "Stephen Signell": {
+        "title": "",
+        "email": "signes@rpi.edu",
+        "phone": "518-276-6474"
+      },
+      "Frank Spear": {
+        "title": "Professor & Department Head",
+        "email": "spearf@rpi.edu",
+        "phone": "518-276-6103"
+      },
+      "Andrew Steele": {
+        "title": "",
+        "email": "steela3@rpi.edu",
+        "phone": "518-276-6474"
+      },
+      "Sasha Wagner": {
+        "title": "Assistant Professor",
+        "email": "wagnes3@rpi.edu",
+        "phone": "518-276-3075"
+      }
+    },
+    "Information Technology and Web Science": {
+      "Brian Callahan": {
+        "title": "Lecturer",
+        "email": "callab5@rpi.edu",
+        "phone": "518-276-2660"
+      },
+      "Kathy Fontaine": {
+        "title": "Lecturer, Sr.",
+        "email": "fontak@rpi.edu",
+        "phone": "518-276-4384"
+      },
+      "Linda Kramarchyk": {
+        "title": "Program Manager",
+        "email": "kramal@rpi.edu",
+        "phone": "518-276-6304"
+      },
+      "Jeanne Luker": {
+        "title": "Student Services Coordinator",
+        "email": "lukerj2@rpi.edu",
+        "phone": "518-276-2660"
+      },
+      "Thilanka Munasinghe": {
+        "title": "Lecturer",
+        "email": "munast@rpi.edu",
+        "phone": "518-276-2660"
+      },
+      "Richard  Plotka": {
+        "title": "Professor of Practice",
+        "email": "plotkr2@rpi.edu",
+        "phone": "518-276-2108"
+      },
+      "Kevin Stewart": {
+        "title": "Lecturer",
+        "email": "stewak4@rpi.edu",
+        "phone": "518-276-2660"
+      }
+    },
+    "Mathematical Sciences": {
+      "Jeffrey Banks": {
+        "title": "Associate Professor",
+        "email": "banksj3@rpi.edu",
+        "phone": "518-276-6412"
+      },
+      "Kristin Bennett": {
+        "title": "Professor & Assoc. Director",
+        "email": "bennek@rpi.edu",
+        "phone": "518-276-6899"
+      },
+      "Elisabeth Brown": {
+        "title": "Lecturer",
+        "email": "browne10@rpi.edu",
+        "phone": "518-276-6345"
+      },
+      "Giovanni Dematteis": {
+        "title": "Postdoctoral Research Associate",
+        "email": "dematg@rpi.edu",
+        "phone": "518-276-6345"
+      },
+      "Belmiro Galo da Silva": {
+        "title": "Lecturer",
+        "email": "galodb@rpi.edu",
+        "phone": "518-276-6345"
+      },
+      "William Henshaw": {
+        "title": "Professor",
+        "email": "henshw@rpi.edu",
+        "phone": "518-276-2994"
+      },
+      "Elizabeth Kam": {
+        "title": "Lecturer",
+        "email": "kamw@rpi.edu",
+        "phone": "518-276-6345"
+      },
+      "Ashwani Kapila": {
+        "title": "Professor",
+        "email": "kapila@rpi.edu",
+        "phone": "518-276-6894"
+      },
+      "Maya Kiehl": {
+        "title": "Lecturer",
+        "email": "kiehlm@rpi.edu",
+        "phone": "518-276-2307"
+      },
+      "Kseniya Klyachko": {
+        "title": "Lecturer",
+        "email": "klyack@rpi.edu",
+        "phone": "518-276-6345"
+      },
+      "Gregor Kovacic": {
+        "title": "Professor",
+        "email": "kovacg@rpi.edu",
+        "phone": "518-276-6908"
+      },
+      "Peter Kramer": {
+        "title": "Professor",
+        "email": "kramep@rpi.edu",
+        "phone": "518-276-6896"
+      },
+      "Gina Kucinski": {
+        "title": "Lecturer, Sr.",
+        "email": "kucing@rpi.edu",
+        "phone": "518-276-6889"
+      },
+      "Rongjie Lai": {
+        "title": "Associate Professor",
+        "email": "lair@rpi.edu",
+        "phone": "518-276-2677"
+      },
+      "Fengyan Li": {
+        "title": "Professor",
+        "email": "lif@rpi.edu",
+        "phone": "518-276-3201"
+      },
+      "Chjan Lim": {
+        "title": "Professor",
+        "email": "limc@rpi.edu",
+        "phone": "518-276-6904"
+      },
+      "Yuri Lvov": {
+        "title": "Professor",
+        "email": "lvovy@rpi.edu",
+        "phone": "518-276-6893"
+      },
+      "John Mitchell": {
+        "title": "Professor",
+        "email": "mitchj@rpi.edu",
+        "phone": "518-276-6915"
+      },
+      "Bruce Piper": {
+        "title": "Assoc. Prof & Assoc. Dept Head",
+        "email": "piperb@rpi.edu",
+        "phone": "518-276-6892"
+      },
+      "Donald Schwendeman": {
+        "title": "Professor & Department Head",
+        "email": "schwed@rpi.edu",
+        "phone": "518-276-2647"
+      },
+      "Daniel Stevenson": {
+        "title": "Lecturer",
+        "email": "steved8@rpi.edu",
+        "phone": "518-276-6345"
+      },
+      "Yangyang Xu": {
+        "title": "Assistant Professor",
+        "email": "xuy21@rpi.edu",
+        "phone": "518-276-6345"
+      },
+      "Eliane Zerbetto Traldi": {
+        "title": "Lecturer",
+        "email": "zerbee@rpi.edu",
+        "phone": "518-276-6345"
+      }
+    },
+    "Physics, Applied Physics & Astronomy": {
+      "Pascal Bassene": {
+        "title": "Postdoctoral Research Associate",
+        "email": "bassep@rpi.edu",
+        "phone": "518-276-2029"
+      },
+      "Romakanta Bhattarai": {
+        "title": "Postdoctoral Research Associate",
+        "email": "bhattr2@rpi.edu",
+        "phone": "518-276-6310"
+      },
+      "Juan Borja": {
+        "title": "Adjunct",
+        "email": "borjaj2@rpi.edu",
+        "phone": "518-276-6310"
+      },
+      "Alexander Brodie": {
+        "title": "Laboratory Supervisor",
+        "email": "brodia@rpi.edu",
+        "phone": "518-276-8391"
+      },
+      "Ethan Brown": {
+        "title": "Associate Professor",
+        "email": "browne7@rpi.edu",
+        "phone": "518-276-6331"
+      },
+      "Jonathan Cassidy": {
+        "title": "Research Assistant",
+        "email": "cassij@rpi.edu",
+        "phone": "518-276-6310"
+      },
+      "Glenn Ciolek": {
+        "title": "Lecturer, Sr.",
+        "email": "cioleg@rpi.edu",
+        "phone": "518-276-8077"
+      },
+      "Julian Georg": {
+        "title": "Lecturer",
+        "email": "georgj9@rpi.edu",
+        "phone": "518-276-6310"
+      },
+      "Joel Giedt": {
+        "title": "Professor",
+        "email": "giedtj@rpi.edu",
+        "phone": "518-276-6455"
+      },
+      "Hesham Hassan": {
+        "title": "Lecturer",
+        "email": "hassah2@rpi.edu",
+        "phone": "518-276-6310"
+      },
+      "Mei-Li Hsieh": {
+        "title": "Visiting Scholar",
+        "email": "hsiehm@rpi.edu",
+        "phone": "518-276-6310"
+      },
+      "Zeyu Jiang": {
+        "title": "Postdoctoral Research Associate",
+        "email": "jiangz10@rpi.edu",
+        "phone": "518-276-6310"
+      },
+      "Yong Sung Kim": {
+        "title": "Lecturer, Sr.",
+        "email": "kimy10@rpi.edu",
+        "phone": "518-276-2542"
+      },
+      "Gyorgy Korniss": {
+        "title": "Professor & Department Head",
+        "email": "korniss@rpi.edu",
+        "phone": "518-276-2555"
+      },
+      "Shawn Yu Lin": {
+        "title": "Professor",
+        "email": "sylin@rpi.edu",
+        "phone": "518-276-2978"
+      },
+      "Charles Martin": {
+        "title": "Lecturer, Sr.",
+        "email": "martic13@rpi.edu",
+        "phone": "518-276-6454"
+      },
+      "Vincent Meunier": {
+        "title": "Visiting Researcher",
+        "email": "meuniv@rpi.edu",
+        "phone": "518-276-6886"
+      },
+      "Joseph Michael": {
+        "title": "Lecturer",
+        "email": "michaj2@rpi.edu",
+        "phone": "518-276-8413"
+      },
+      "David Morton": {
+        "title": "Research Assistant",
+        "email": "mortod2@rpi.edu",
+        "phone": "518-276-6310"
+      },
+      "Heidi Newberg": {
+        "title": "Professor",
+        "email": "newbeh@rpi.edu",
+        "phone": "518-276-2652"
+      },
+      "Moussa Ngom": {
+        "title": "Assistant Professor",
+        "email": "ngomm@rpi.edu",
+        "phone": "518-276-3978"
+      },
+      "Joan Perras": {
+        "title": "Assistant to the Chair",
+        "email": "perraj@rpi.edu",
+        "phone": "518-276-4881"
+      },
+      "Peter Persans": {
+        "title": "Professor",
+        "email": "persap@rpi.edu",
+        "phone": "518-276-2934"
+      },
+      "Steven Relles": {
+        "title": "Research Assistant",
+        "email": "relles@rpi.edu",
+        "phone": "518-276-6310"
+      },
+      "Trevor Rhone": {
+        "title": "Assistant Professor",
+        "email": "rhonet@rpi.edu",
+        "phone": "518-276-8655"
+      },
+      "Victor Robles Sanchez": {
+        "title": "",
+        "email": "roblev@rpi.edu",
+        "phone": "518-276-6310"
+      },
+      "John Schroeder": {
+        "title": "Professor",
+        "email": "schroj@rpi.edu",
+        "phone": "518-276-8408"
+      },
+      "Humberto Terrones Maldonado": {
+        "title": "Professor",
+        "email": "terroh@rpi.edu",
+        "phone": "518-276-2932"
+      },
+      "Jeffery Thompson": {
+        "title": "Visiting Researcher",
+        "email": "thompj16@rpi.edu",
+        "phone": "518-276-6310"
+      },
+      "Gwo Ching Wang": {
+        "title": "Professor",
+        "email": "wangg@rpi.edu",
+        "phone": "518-276-2435"
+      },
+      "Esther Wertz": {
+        "title": "Associate Professor",
+        "email": "wertze@rpi.edu",
+        "phone": "518-276-2674"
+      },
+      "Damien West": {
+        "title": "Lecturer",
+        "email": "westd2@rpi.edu",
+        "phone": "518-276-6310"
+      },
+      "Christian Wetzel": {
+        "title": "Professor",
+        "email": "wetzel@rpi.edu",
+        "phone": "518-276-3755"
+      },
+      "Ingrid Wilke": {
+        "title": "Associate Professor",
+        "email": "wilkei@rpi.edu",
+        "phone": "518-276-6318"
+      },
+      "Yuan Xuan": {
+        "title": "Visiting Researcher",
+        "email": "xuany@rpi.edu",
+        "phone": "518-276-6310"
+      },
+      "Shengbai Zhang": {
+        "title": "Professor, Constellation",
+        "email": "zhangs9@rpi.edu",
+        "phone": "518-276-6127"
+      },
+      "Yong Zheng": {
+        "title": "Assistant Professor",
+        "email": "zhengy14@rpi.edu",
+        "phone": "518-276-6310"
+      }
+    },
+    "Tetherless World Constellation": {
+      "Rebecca Cowan": {
+        "title": "Project Administrator",
+        "email": "cowanr@rpi.edu",
+        "phone": "518-276-4384"
+      },
+      "Amy Hodor": {
+        "title": "Administrative Coordinator",
+        "email": "hodora@rpi.edu",
+        "phone": "518-276-4384"
+      },
+      "Jamie McCusker": {
+        "title": "Director, Data Operations",
+        "email": "mccusj2@rpi.edu",
+        "phone": "518-276-4384"
+      },
+      "Alice Mulvehill": {
+        "title": "Research Scientist, Sr.",
+        "email": "mulvea@rpi.edu",
+        "phone": "518-276-4384"
+      }
+    }
+  },
+  "Strategic Communications and External Relations (SCER)": {
+    "Creative Services": {
+      "Christopher Browne": {
+        "title": "Director, Creative Services",
+        "email": "brownc18@rpi.edu",
+        "phone": "518-276-8983"
+      }
+    },
+    "Government & Community Relations": {
+      "Kirk Ives": {
+        "title": "Director, State & Community Relations",
+        "email": "ivesk2@rpi.edu",
+        "phone": "518-276-6120"
+      }
+    },
+    "News & Editorial Services": {
+      "Katie Malatino": {
+        "title": "Communications Specialist, Sr.",
+        "email": "malatk@rpi.edu",
+        "phone": "518-276-2146"
+      }
+    },
+    "Periodicals and Editorial Content": {
+      "Tracey Leibach": {
+        "title": "Director, Periodicals & Editorial Content",
+        "email": "leibat@rpi.edu",
+        "phone": "518-276-3021"
+      },
+      "Christian TeBordo": {
+        "title": "Communications Specialist, Sr.",
+        "email": "teborc@rpi.edu",
+        "phone": "518-276-8983"
+      }
+    },
+    "University Events": {
+      "Cheryl McGlothlin": {
+        "title": "Manager, University Events",
+        "email": "largec@rpi.edu",
+        "phone": "518-276-6608"
+      }
+    }
+  },
+  "Student Life": {
+    "Athletics Department": {
+      "Robert Barbieri": {
+        "title": "Assistant Coach, Football",
+        "email": "barbir@rpi.edu",
+        "phone": "518-276-6011"
+      },
+      "Jordan Baum": {
+        "title": "Head Coach, Strength & Conditioning",
+        "email": "baumj2@rpi.edu",
+        "phone": "518-276-6641"
+      },
+      "Kevin Beattie": {
+        "title": "Associate Athletic Director",
+        "email": "beattk@rpi.edu",
+        "phone": "518-276-2187"
+      },
+      "Brett Bosley": {
+        "title": "Athletics Communications Specialist, Sr.",
+        "email": "bosleb@rpi.edu",
+        "phone": "518-276-8417"
+      },
+      "Bryan Carr": {
+        "title": "Field House Temporary Staff",
+        "email": "carrb3@rpi.edu",
+        "phone": "518-276-6694"
+      },
+      "David Carr": {
+        "title": "Field House Temporary Staff",
+        "email": "carrd3@rpi.edu",
+        "phone": "518-276-6262"
+      },
+      "Scott Chandler": {
+        "title": "Field House Temporary Staff",
+        "email": "chands8@rpi.edu",
+        "phone": "518-276-6262"
+      },
+      "Rick Choppa": {
+        "title": "Assistant Coach, Track & Field",
+        "email": "choppr@rpi.edu",
+        "phone": "518-276-6184"
+      },
+      "Adam Clinton": {
+        "title": "Head Coach, Men's Soccer",
+        "email": "clinta@rpi.edu",
+        "phone": "518-276-6563"
+      },
+      "Tara Connolly": {
+        "title": "Assistant Coach, Women's Hockey",
+        "email": "connot5@rpi.edu",
+        "phone": "518-276-3795"
+      },
+      "Maria Coomaraswamy-Falkenstein": {
+        "title": "Head Coach, Diving",
+        "email": "coomam@rpi.edu",
+        "phone": "518-276-4954"
+      },
+      "Leslie DeLano": {
+        "title": "Head Coach, Women's Lacrosse",
+        "email": "khachl@rpi.edu",
+        "phone": "518-276-6182"
+      },
+      "Marcie DelVecchio": {
+        "title": "Field House Temporary Staff",
+        "email": "delvem@rpi.edu",
+        "phone": "518-276-6656"
+      },
+      "Jeff Dittman": {
+        "title": "Assistant Coach, Football",
+        "email": "dittmj@rpi.edu",
+        "phone": "518-276-6193"
+      },
+      "Jason Falcon": {
+        "title": "Head Coach, Baseball",
+        "email": "falcoj2@rpi.edu",
+        "phone": "518-276-8373"
+      },
+      "Ben Fazio": {
+        "title": "Assistant Coach, Track & Field",
+        "email": "faziob2@rpi.edu",
+        "phone": "518-276-6184"
+      },
+      "Paul Fowler": {
+        "title": "Assistant Coach, Men's Soccer",
+        "email": "fowlep@rpi.edu",
+        "phone": "518-276-6563"
+      },
+      "James Fox": {
+        "title": "Field House Temporary Staff",
+        "email": "foxj5@rpi.edu",
+        "phone": "518-276-6262"
+      },
+      "Andre-Quinn Francis": {
+        "title": "Field House Temporary Staff",
+        "email": "franca3@rpi.edu",
+        "phone": "518-276-6262"
+      },
+      "Timothy Gallagher": {
+        "title": "Field House Temporary Staff",
+        "email": "gallat6@rpi.edu",
+        "phone": "518-276-6694"
+      },
+      "William Gallagher": {
+        "title": "Field House Temporary Staff",
+        "email": "gallaw2@rpi.edu",
+        "phone": "518-276-6689"
+      },
+      "Raymond Gaston": {
+        "title": "Field House Temporary Staff",
+        "email": "gastor@rpi.edu",
+        "phone": "518-276-6694"
+      },
+      "Mark Gilbride": {
+        "title": "Head Coach, Men's Basketball",
+        "email": "gilbrm@rpi.edu",
+        "phone": "518-276-8624"
+      },
+      "John Greene": {
+        "title": "Head Coach, Women's Basketball",
+        "email": "greenj5@rpi.edu",
+        "phone": "518-276-8037"
+      },
+      "James Griffin": {
+        "title": "Field House Temporary Staff",
+        "email": "griffj4@rpi.edu",
+        "phone": "518-276-6262"
+      },
+      "Scott Hackett-Dalgliesh": {
+        "title": "Head Coach, Men's Lacrosse",
+        "email": "hackes@rpi.edu",
+        "phone": "518-276-6181"
+      },
+      "Kenneth Hartman-Wexler": {
+        "title": "Field House Temporary Staff",
+        "email": "wexlek2@rpi.edu",
+        "phone": "518-276-6262"
+      },
+      "Ralph Isernia": {
+        "title": "Head Coach, Football",
+        "email": "isernr@rpi.edu",
+        "phone": "518-276-3700"
+      },
+      "Mitchell Jordon": {
+        "title": "Assistant Coach, Men's Soccer",
+        "email": "jordam3@rpi.edu",
+        "phone": "518-276-6563"
+      },
+      "Nicholas Karpovich": {
+        "title": "Operations Coordinator",
+        "email": "karpon2@rpi.edu",
+        "phone": "518-276-6777"
+      },
+      "Mathias Lange": {
+        "title": "Assistant Coach, Men's Hockey",
+        "email": "langem3@rpi.edu",
+        "phone": "518-276-6751"
+      },
+      "Bre Lowe": {
+        "title": "Head Coach, Field Hockey",
+        "email": "loweb2@rpi.edu",
+        "phone": "518-276-8623"
+      },
+      "Warren Lutes": {
+        "title": "Director, Off Ice Officials",
+        "email": "lutesw@rpi.edu",
+        "phone": "518-276-6184"
+      },
+      "Justin Luzinas": {
+        "title": "Field House Temporary Staff",
+        "email": "luzinj2@rpi.edu",
+        "phone": "518-276-6262"
+      },
+      "John Lynch": {
+        "title": "Head Coach, Cross Country",
+        "email": "lynchj6@rpi.edu",
+        "phone": "518-276-6168"
+      },
+      "Robert MacLeod": {
+        "title": "Assistant Coach, Swimming & Diving",
+        "email": "macler2@rpi.edu",
+        "phone": "518-276-4960"
+      },
+      "Amber Maisonet": {
+        "title": "Head Coach, Softball",
+        "email": "maisoa2@rpi.edu",
+        "phone": "518-276-8373"
+      },
+      "Nick Marcella": {
+        "title": "Assistant Coach, Football",
+        "email": "marcen@rpi.edu",
+        "phone": "518-276-2556"
+      },
+      "Sean Maruscsak": {
+        "title": "Athletic Facilities & Equipment Specialist",
+        "email": "maruss@rpi.edu",
+        "phone": "518-276-8038"
+      },
+      "Lee McElroy": {
+        "title": "Associate Vice President & Director, Athletics",
+        "email": "mcelrl@rpi.edu",
+        "phone": "518-276-6702"
+      },
+      "Ryan Michel": {
+        "title": "Operations Coordinator",
+        "email": "micher2@rpi.edu",
+        "phone": "518-276-6751"
+      },
+      "BreLynn Nasypany": {
+        "title": "Head Coach, Women's Soccer",
+        "email": "nasypb@rpi.edu",
+        "phone": "518-276-6038"
+      },
+      "Shannon O'Brien": {
+        "title": "Head Coach, Swimming & Pool Director",
+        "email": "obries@rpi.edu",
+        "phone": "518-276-2642"
+      },
+      "Kathryn Paradise": {
+        "title": "Athletics Compliance Specialist",
+        "email": "bishok3@rpi.edu",
+        "phone": "518-276-3988"
+      },
+      "Peter Patti": {
+        "title": "Field House Temporary Staff",
+        "email": "pattip@rpi.edu",
+        "phone": "518-276-6656"
+      },
+      "Norris Pearson": {
+        "title": "Manager, Operations",
+        "email": "pearsn@rpi.edu",
+        "phone": "518-276-6121"
+      },
+      "Shelby Perry": {
+        "title": "Assistant Coach, Women's Hockey",
+        "email": "perrys7@rpi.edu",
+        "phone": "518-276-3989"
+      },
+      "Christopher Piatelli": {
+        "title": "Assistant Coach, Men's Lacrosse",
+        "email": "piatec@rpi.edu",
+        "phone": "518-276-6157"
+      },
+      "Austin Rivera": {
+        "title": "Field House Temporary Staff",
+        "email": "rivera6@rpi.edu",
+        "phone": "518-276-6694"
+      },
+      "Justin Roe": {
+        "title": "Head Coach, Women's Tennis",
+        "email": "roej2@rpi.edu",
+        "phone": "518-276-6375"
+      },
+      "Carole Romano": {
+        "title": "Administrative Specialist",
+        "email": "romanc4@rpi.edu",
+        "phone": "518-276-6685"
+      },
+      "Matthew Santa Maria": {
+        "title": "Assistant Equipment Manager",
+        "email": "santam@rpi.edu",
+        "phone": "518-276-6514"
+      },
+      "Jonathan Satkowski": {
+        "title": "Head Coach, Men's Tennis",
+        "email": "satkoj@rpi.edu",
+        "phone": "518-276-6389"
+      },
+      "Walt Sessions Jr": {
+        "title": "Athletic Facilities & Equipment Specialist, Sr.",
+        "email": "sessiw@rpi.edu",
+        "phone": "518-276-8038"
+      },
+      "Donald Shannon": {
+        "title": "Field House Temporary Staff",
+        "email": "shannd3@rpi.edu",
+        "phone": "518-276-6694"
+      },
+      "Michael Shine": {
+        "title": "Athletic Facilities & Equipment Specialist",
+        "email": "shinem@rpi.edu",
+        "phone": "518-276-6256"
+      },
+      "David Smith": {
+        "title": "Head Coach, Men's Hockey",
+        "email": "smithd25@rpi.edu",
+        "phone": "518-276-2295"
+      },
+      "Michael Sorrentino": {
+        "title": "Assistant Coach, Swimming & Diving",
+        "email": "sorrem3@rpi.edu",
+        "phone": "518-276-4960"
+      },
+      "Alec Swider": {
+        "title": "Athletic Facilities & Equipment Specialist",
+        "email": "swidea@rpi.edu",
+        "phone": "518-276-6256"
+      },
+      "Colin Tory": {
+        "title": "Head Mens/Womens Track -Cross Country Coach",
+        "email": "toryc@rpi.edu",
+        "phone": "518-276-6184"
+      },
+      "Bryan Vines": {
+        "title": "Head Coach, Women's Hockey",
+        "email": "vinesb@rpi.edu",
+        "phone": "518-276-6118"
+      },
+      "Sachiko Vines": {
+        "title": "Director, Marketing & Promotions",
+        "email": "enas@rpi.edu",
+        "phone": "518-276-4855"
+      },
+      "Joseph Vrablic": {
+        "title": "Building Supervisor",
+        "email": "vrablj@rpi.edu",
+        "phone": "518-276-8038"
+      },
+      "Chuck Weber": {
+        "title": "Assistant Coach, Men's Hockey",
+        "email": "weberc4@rpi.edu",
+        "phone": "518-276-8974"
+      },
+      "Cecilia Widomski": {
+        "title": "Business Coordinator",
+        "email": "widomc@rpi.edu",
+        "phone": "518-276-6694"
+      },
+      "Kyle Wood": {
+        "title": "Field House Temporary Staff",
+        "email": "woodk7@rpi.edu",
+        "phone": "518-276-6262"
+      },
+      "Chantel Zarek": {
+        "title": "Business Administrator, Sr.",
+        "email": "zarekc@rpi.edu",
+        "phone": "518-276-6686"
+      }
+    },
+    "Campus Experience": {
+      "Travis Apgar": {
+        "title": "Associate Vice President & Dean of Students",
+        "email": "apgart@rpi.edu",
+        "phone": "518-276-6266"
+      },
+      "Victoria Luzinas": {
+        "title": "Administrative Coordinator",
+        "email": "luzinv@rpi.edu",
+        "phone": "518-276-6266"
+      },
+      "Samantha Tymchyn": {
+        "title": "Director, Student Rights, Responsibilities, & Conduct",
+        "email": "tymchs@rpi.edu",
+        "phone": "518-276-6266"
+      }
+    },
+    "Center for Career and Professional Development": {
+      "Philip Bruce": {
+        "title": "Director, Center for Career & Professional Development",
+        "email": "brucep@rpi.edu",
+        "phone": "518-276-6234"
+      },
+      "Emily Killian": {
+        "title": "Career Counselor",
+        "email": "killie@rpi.edu",
+        "phone": "518-276-6234"
+      },
+      "Rawdon Marroquin": {
+        "title": "Career Counselor",
+        "email": "marror@rpi.edu",
+        "phone": "518-276-6234"
+      },
+      "Tammy Taylor": {
+        "title": "Administrative Coordinator",
+        "email": "taylot8@rpi.edu",
+        "phone": "518-276-6234"
+      },
+      "Michael Wager": {
+        "title": "Career Counselor",
+        "email": "wagerm@rpi.edu",
+        "phone": "518-276-6234"
+      }
+    },
+    "Religious Affairs": {
+      "Kevin Krolik": {
+        "title": "Religous Affairs Associate",
+        "email": "krolik2@rpi.edu",
+        "phone": "518-274-7793"
+      },
+      "Barbara Musial": {
+        "title": "Religous Affairs Associate",
+        "email": "musiab@rpi.edu",
+        "phone": "518-274-7793"
+      },
+      "Lawrence Rice": {
+        "title": "Religous Affairs Associate",
+        "email": "ricel3@rpi.edu",
+        "phone": "518-276-6518"
+      },
+      "Paula Rohl": {
+        "title": "Religous Affairs Associate",
+        "email": "rohlp@rpi.edu",
+        "phone": "518-276-6518"
+      },
+      "Monica Rokjer": {
+        "title": "Religous Affairs Associate",
+        "email": "rokjem@rpi.edu",
+        "phone": "518-276-6518"
+      },
+      "Tracy Watson": {
+        "title": "Religous Affairs Associate",
+        "email": "watsot4@rpi.edu",
+        "phone": "518-276-6518"
+      }
+    },
+    "Student Success": {
+      "Lisa Trahan": {
+        "title": "Assistant Vice President, Student Success",
+        "email": "trahanl@rpi.edu",
+        "phone": "518-276-8022"
+      }
+    },
+    "Student Support and Resources Centers": {
+      "La Tasha Brown": {
+        "title": "Director, Multicultural Programs",
+        "email": "brownl11@rpi.edu",
+        "phone": "518-276-6644"
+      }
+    },
+    "Student Transitions": {
+      "Emily Brew": {
+        "title": "International Exchange Specialist",
+        "email": "brewe@rpi.edu",
+        "phone": "518-276-4966"
+      },
+      "Emilie Buse": {
+        "title": "Assistant Director, International Services for Students & Scholars",
+        "email": "busee@rpi.edu",
+        "phone": "518-276-4966"
+      },
+      "Reba Cappelli": {
+        "title": "International Student Advisor",
+        "email": "capper@rpi.edu",
+        "phone": "518-276-4966"
+      },
+      "Kaylyn Getwright": {
+        "title": "Operations Specialist",
+        "email": "getwrk@rpi.edu",
+        "phone": "518-276-4966"
+      },
+      "Mary Nellis": {
+        "title": "Director, International Services for Students & Scholars",
+        "email": "nellim@rpi.edu",
+        "phone": "518-276-4966"
+      }
+    }
+  },
+  "Undergraduate Education": {
+    "Advising and Learning Assistance Center": {
+      "Nanjie Caihua": {
+        "title": "Academic Counselor",
+        "email": "caihun@rpi.edu",
+        "phone": "518-276-6269"
+      },
+      "Carrie Gratton": {
+        "title": "Administrative Specialist",
+        "email": "grattc2@rpi.edu",
+        "phone": "518-276-6269"
+      },
+      "Sharon McGrath": {
+        "title": "Program Manager, Supplementary Education",
+        "email": "mcgras@rpi.edu",
+        "phone": "518-276-6269"
+      },
+      "David Milford": {
+        "title": "Academic Counselor, Sr.",
+        "email": "milfod@rpi.edu",
+        "phone": "518-276-6269"
+      },
+      "Arielle Roberts": {
+        "title": "Learning Skills Specialist",
+        "email": "robera6@rpi.edu",
+        "phone": "518-276-6269"
+      },
+      "Jeannie Steigler": {
+        "title": "Associate Director, Advising & Learning Assistance Center",
+        "email": "steigj2@rpi.edu",
+        "phone": "518-276-6820"
+      },
+      "Alisha Wein": {
+        "title": "Student Services Administrator, Sr.",
+        "email": "weina@rpi.edu",
+        "phone": "518-276-2528"
+      }
+    },
+    "International Programs": {
+      "Karen Dvorak": {
+        "title": "Program Manager",
+        "email": "dvorak2@rpi.edu",
+        "phone": "518-276-3411"
+      }
+    },
+    "Research & Innovation in Teaching & Learning": {
+      "Maureen Fodera": {
+        "title": "Instructional Technology Specialist",
+        "email": "foderm@rpi.edu",
+        "phone": "518-276-4847"
+      }
+    },
+    "ROTC": {
+      "Kristen Gibson": {
+        "title": "ROTC-Faculty",
+        "email": "gibsok3@rpi.edu",
+        "phone": "518-276-6236"
+      },
+      "Charles Gresham": {
+        "title": "ROTC - Staff",
+        "email": "greshc@rpi.edu",
+        "phone": "518-276-6236"
+      },
+      "Joshua Lavin": {
+        "title": "ROTC-Faculty",
+        "email": "lavinj3@rpi.edu",
+        "phone": "518-276-6236"
+      },
+      "Ryan Lewis": {
+        "title": "ROTC - Staff",
+        "email": "lewisr9@rpi.edu",
+        "phone": "518-276-6236"
+      },
+      "Max Lipeles": {
+        "title": "ROTC-Faculty",
+        "email": "lipelm2@rpi.edu",
+        "phone": "518-276-6236"
+      },
+      "Jake Miller": {
+        "title": "ROTC-Faculty",
+        "email": "millej28@rpi.edu",
+        "phone": "518-276-6236"
+      },
+      "Shannon Oksman": {
+        "title": "Administrative Associate",
+        "email": "oksmas@rpi.edu",
+        "phone": "518-276-6236"
+      }
+    },
+    "Summer Programs": {
+      "Rosemary Armao": {
+        "title": "Adjunct",
+        "email": "armaor@rpi.edu",
+        "phone": "518-276-6809"
+      },
+      "Thomas Bickley": {
+        "title": "Adjunct",
+        "email": "bicklt@rpi.edu",
+        "phone": "518-276-6809"
+      },
+      "Michael McDermott": {
+        "title": "Adjunct",
+        "email": "mcderm6@rpi.edu",
+        "phone": "518-276-6809"
+      },
+      "Aaron Moore": {
+        "title": "Program Administrator, Sr.",
+        "email": "moorea6@rpi.edu",
+        "phone": "518-276-6809"
+      },
+      "Brian Pertl": {
+        "title": "Adjunct",
+        "email": "pertlb@rpi.edu",
+        "phone": "518-276-6809"
+      },
+      "Leila Ramagopal Pertl": {
+        "title": "Adjunct",
+        "email": "pertll@rpi.edu",
+        "phone": "518-276-6809"
+      },
+      "Jane Rigler": {
+        "title": "Adjunct",
+        "email": "riglej@rpi.edu",
+        "phone": "518-276-6809"
+      },
+      "Jennifer Wilsey": {
+        "title": "Adjunct",
+        "email": "wilsej@rpi.edu",
+        "phone": "518-276-6809"
+      }
+    },
+    "The Arch Academic Programs": {
+      "Tiffany Powell": {
+        "title": "Director, Arch Academic Programs",
+        "email": "powelt2@rpi.edu",
+        "phone": "518-276-3142"
+      }
+    }
+  }
+}

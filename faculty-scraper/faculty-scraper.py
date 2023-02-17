@@ -48,9 +48,6 @@ for child in main.children:
 						i += 1
 
 
-
-
-
 faculty_json = json.dumps(faculty, indent=2)
 with open('faculty.json', 'w') as file:
 	file.write(faculty_json)

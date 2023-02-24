@@ -1,49 +1,45 @@
 import pandas
 from bs4 import BeautifulSoup
 from requests import get
-from webbrowser import open
 import json
+from time import time
 
 
 class professor(object):
 	def __init__(self, prof_soup):
 		self.soup = prof_soup
-		self.info = {
-		'name' : '',
-		'title' : '',
-		'email' : '',
-		'rcs' : '',
-		'phone' : '',
-		'department' : '',
-		'school' : ''
+		self.prof = {
+		'Name' : self.name(),
+		'Title' : self.title()
 		}
+		self.contact()
+		self.position()
 
 	def name(self):
-		self.info['name'] = self.soup.find('h3').string
+		return self.soup.find('h3').string.strip()
 
 	def title(self):
-		self.info['title'] = self.soup.find('h4').string
+		return self.soup.find('h4').string.strip()
 
-	def email(self):
-		pass
+	def contact(self):
+		s = self.soup.find_all(class_='col-12 col-md-4')[0]
+		for line in s.find_all('p'):
+			c = line.text.split(':')
+			if "Email" in c[0]:
+				self.prof['Email'] = c[1].strip()
+			elif "RCS" in c[0]:
+				self.prof['RCS'] = c[1].strip().replace('RCS id: ', '')
+			elif "Phone" in c[0]:
+				self.prof['Phone'] = c[1].strip().replace('Phone: ', '')
 
-	def rcs(self):
-		pass
+	def position(self):
+		s = self.soup.find_all(class_='col-12 col-md-4')[1]
+		for line in s.find_all('p'):
+			c = line.text.split(':')
+			self.prof[c[0]] = c[1].strip()
 
-	def phone(self):
-		pass
-
-	def department(self):
-		pass
-
-	def school(self):
-		pass
-
-	def form_dict(self):
-		for k in self.info:
-			if self.info[k] == '':
-				del self.info[k]
-		return self.info
+	def __str__(self):
+		return str(self.prof)
 
 
 
@@ -57,30 +53,42 @@ def find_matches(url):
 		return []
 
 	matches = []
-	for p in soup.find_all('h3'):
+	for p in soup.find_all(class_='row p-3 odd'):
 		matches.append(professor(p))
+	for p in soup.find_all(class_='row p-3 even'):
+		matches.append(professor(p))
+
 	return matches
 
 
-df = pandas.read_csv('spring-2021.csv')
 
-instructors = set(df['course_instructor'])
 
-for i in set(df['course_instructor']):
-	profs = i.split('/')
-	instructors.remove(i)
-	for p in profs:
-		instructors.add(p)
 
-matches = []
-for i in instructors:
-	url = 'https://directory.rpi.edu/pplsearch/NULL/' + i
-	matches += find_matches(url)
+if __name__ == '__main__':
+	start = time()
 
-faculty = []
-for m in matches:
-	faculty.append(m.form_dict())
+	df = pandas.read_csv('spring-2021.csv')
 
-faculty_json = json.dumps(faculty, indent=4)
-with open('faculty.json', 'w') as file:
-	file.write(faculty_json)
+	instructors = set()
+
+	for i in set(df['course_instructor']):
+		profs = i.split('/')
+		for p in profs:
+			instructors.add(p)
+
+	matches = []
+	for i in list(instructors):
+		url = 'https://directory.rpi.edu/pplsearch/NULL/' + i
+		matches += find_matches(url)
+
+	faculty = []
+	for m in matches:
+		faculty.append(m.prof)
+
+	faculty_json = json.dumps(faculty, indent=2)
+	with open('faculty.json', 'w') as file:
+		file.write(faculty_json)
+
+	end = time()
+
+	print(end-start, 'seconds')
